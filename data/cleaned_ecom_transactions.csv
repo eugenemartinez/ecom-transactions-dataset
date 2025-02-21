@@ -1,0 +1,991 @@
+Transaction ID,Customer ID,Transaction Date,Product Category,Price,Quantity,Payment Method,Shipping Status,Customer Rating
+539db039-37c0-4f91-b6fa-079af50ee7fd,c3b9ac53-4a42-46ac-9850-f46605e4e94a,2024-04-13,Electronics,370.81,3.0,PayPal,Shipped,2.0
+2c37f0fc-0ca2-4f93-97bf-659fa96788f1,1b2acf0b-cb58-44c4-a272-6f01d5b0116e,2023-07-10,Sports,119.51,4.0,Debit Card,Delivered,1.0
+037d7859-03e2-45a0-ad46-80d8ab92fbd4,4a636dcd-686b-45fc-ba6e-54056dc273fb,2025-01-29,Electronics,219.32,2.0,PayPal,Shipped,2.0
+84d6a5ff-a05c-4d7c-9fb5-1106a1594a97,b2cc871e-3d07-4136-bea9-782d5a6e8dc9,2023-03-25,Books,76.09,1.0,Debit Card,Pending,3.0
+5c899683-d731-4c29-a7c0-715f5c8368da,d3a7f85b-0d5d-42b2-bae7-d221da5d861b,2023-09-13,Home & Kitchen,59.01,1.0,PayPal,Shipped,3.0
+731c0491-3f7e-4d4e-968d-f2ddf5c67371,a68098f5-6901-4199-9faf-c6a7588cb6d3,2023-08-26,Books,48.15,4.0,Crypto,Shipped,1.0
+b1406650-b0df-4c90-abd8-f7cdfad3e2b5,44ce3b11-042d-43e6-aced-96bfee556979,2025-01-07,Home & Kitchen,331.55,2.0,Crypto,Pending,1.0
+8841653b-9ac5-4697-9a11-30ce38f43539,1f0d3d04-4de3-4adb-90db-d58996194ba4,2024-07-31,Home & Kitchen,414.33,1.0,Credit Card,Pending,1.0
+3551aa2c-1307-4830-9973-c338b8ba46d5,0e34493c-c129-475a-b7b1-214f0c16ed24,2023-06-03,Home & Kitchen,401.77,4.0,Debit Card,Delivered,4.0
+8f04043f-fc4b-47e9-bebd-50d1bac709e8,3df9ce2b-f966-4ae4-a580-61d1a1abff97,2024-07-16,Electronics,267.64,5.0,Crypto,Shipped,4.0
+0055fe59-70d3-4f92-9541-73a9822db6de,8c5132ec-43d7-4faa-972a-d92efa71552a,2024-10-21,Electronics,196.71,4.0,PayPal,Delivered,1.0
+4a79684b-4a0b-41e4-810c-33dc3a468f1a,c34506ea-0415-4e6b-b565-11aebcb852d8,2023-08-24,Sports,135.63,4.0,PayPal,Delivered,5.0
+ddb846bf-7009-4f78-a679-373d72d856eb,fdff1770-0117-4c92-a753-b6b13504138b,2023-11-23,Electronics,411.92,5.0,Debit Card,Delivered,4.0
+e960c4a5-6269-486d-b676-08f5c78e4437,c40f1944-7fa0-4b7a-be65-2b9f17f2dc78,2024-08-11,Home & Kitchen,238.08,5.0,PayPal,Pending,1.0
+6d534ff6-5385-4ad0-ba5c-8cb2b1a557b7,7b9cdc7a-6d8a-4a99-b108-c2a92b089975,2023-07-06,Clothing,442.99,5.0,Gift Card,Shipped,4.0
+5b06b627-8105-45b1-a551-e758ec395762,e36bf687-dafd-4b65-b435-54d90a0873b7,2023-12-31,Electronics,375.98,1.0,PayPal,Shipped,4.0
+9e707f4f-e78d-4ed5-8ec9-241a8c779ff4,314ef0a7-028d-4179-b071-37e568d581a1,2023-10-19,Electronics,388.88,1.0,Gift Card,Shipped,3.0
+f233f753-88e7-4762-8bff-21948c514fdb,ac0eaac7-7872-46c9-8f55-fe8c248b4db2,2024-03-24,Books,104.05,3.0,Gift Card,Pending,1.0
+5fca3d20-5d73-44d3-b7df-96e2ac08b1e7,d80a4492-034d-4dc8-8cb8-ed81640ef9d2,2024-04-30,Sports,216.05,3.0,PayPal,Delivered,3.0
+65103b49-0d79-426d-8bd9-012745c8cf64,ccba6cff-460e-4976-90c7-d7194202a6f5,2025-01-29,Sports,445.92,5.0,Gift Card,Shipped,3.0
+1c395276-2d11-4166-b6fd-588ad3300d24,1fa7c9a2-4622-4f75-b323-c7b7990b9fd5,2024-11-09,Books,114.0,3.0,Debit Card,Pending,5.0
+896d45a7-2593-49cc-b4b8-09c24e2acdb3,1e212476-5ce9-404b-b5d7-85db463df24f,2024-07-15,Clothing,233.75,5.0,Crypto,Shipped,5.0
+615e431b-c378-49aa-aafc-80e2bebb00c6,f5da95b2-d53b-4e59-b08e-463cbd4e1538,2023-11-02,Home & Kitchen,286.97,4.0,Debit Card,Pending,1.0
+745b4715-af43-4799-a038-1f46d0dddc0d,41f5f064-64a5-466a-8af9-cf2d4f1e43be,2024-09-07,Home & Kitchen,109.71,3.0,Gift Card,Pending,5.0
+e764c1b0-c666-43af-a2f3-c2ddffe3cbc8,e85708ac-0d74-4a80-9e43-ef44f0c2bb98,2025-02-18,Books,240.55,3.0,Gift Card,Shipped,4.0
+e124abd1-6010-4381-815a-618a6d41451a,a087a218-746d-46db-9a5d-b87477f27fa8,2024-05-31,Home & Kitchen,110.85,1.0,Crypto,Shipped,1.0
+6f470ca6-b0d1-4b06-bb84-96bb7810852b,8553ee0c-3cd8-4abc-a4da-b020325af191,2024-03-02,Home & Kitchen,106.18,1.0,Debit Card,Shipped,3.0
+72dd4438-47b5-42e3-8faf-558ec81b24d7,0bb00f3a-f989-4d89-900a-4b910e91d9a7,2024-07-26,Books,242.62,1.0,Debit Card,Shipped,1.0
+5f48d0fb-025b-4bcc-9db2-35e0ff5604ac,c7769550-3679-45c3-99fd-b9cb4e4149c9,2023-05-10,Sports,363.68,1.0,Gift Card,Shipped,3.0
+ca15ee15-8c7c-4cba-aea1-7e5eb9d05c4b,8894a49c-dac6-4d3b-9053-99f84b85b28a,2023-12-28,Books,90.99,3.0,Credit Card,Delivered,2.0
+006e1178-9a67-4c41-a4f6-aa91010590e0,18fd6dd5-4659-4bc6-9d02-5afe4c235d2a,2024-07-25,Electronics,428.14,2.0,Debit Card,Pending,3.0
+e0057fae-44dd-41d1-b0d6-2b6c3dc792b4,fd8520c6-705e-4578-9b3e-7e1caaac0bab,2024-03-14,Clothing,429.0,5.0,Gift Card,Pending,5.0
+418f25a2-b633-4623-ad9b-5b9031921584,a043d079-50cb-4077-a80b-408754129993,2024-02-14,Books,207.57,3.0,PayPal,Pending,1.0
+f1b768ac-45be-4ac4-b13c-48f0900886f2,dff23941-d2c3-4fd3-ba4d-1d52826c8e18,2023-03-04,Sports,483.53,2.0,Crypto,Pending,3.0
+8f995a9e-5de1-40a1-b358-e5cc66e5a3a9,19e9b94f-c8cd-46cc-b1e7-13c6489e7b22,2024-05-20,Home & Kitchen,64.3,2.0,Credit Card,Shipped,1.0
+38f17f38-6bf7-4430-b6e2-69c12f15677c,5e626181-1d8a-476b-ab10-8bd3e9ea8bcc,2023-04-21,Sports,112.32,4.0,Gift Card,Pending,1.0
+2c049d42-e9e1-4b8f-abb6-75192b987186,8c458abe-4a52-430f-89e2-188393eb190d,2023-07-09,Home & Kitchen,59.98,4.0,Crypto,Pending,3.0
+ec93a700-326d-46f1-aedf-916107bbdae6,8c8a536c-95f2-477e-b866-7eb54625c983,2024-04-20,Electronics,25.95,4.0,Debit Card,Shipped,3.0
+6da7639c-3a75-4fac-9ff0-54c380bf4c78,58d920f1-4bd1-47c8-a2a6-eb5e9613e908,2024-11-27,Books,275.69,1.0,PayPal,Delivered,3.0
+dbea35eb-e996-4792-a07b-ecf40fb95221,a353dabc-b8d5-4f5d-98ad-b030d8a24a6b,2023-07-18,Clothing,146.77,2.0,Gift Card,Delivered,3.0
+f833ee8c-fb8b-4ef1-acb2-b78c464bd97c,6f279f1b-8f1c-49a2-ba78-833183891349,2024-09-13,Home & Kitchen,106.72,5.0,Gift Card,Delivered,1.0
+3b83527b-d3a2-48bd-a27b-ffdf1426f3c3,8243e1a1-efec-4c5a-8a53-dcc2dbf88d6c,2024-10-05,Electronics,242.41,2.0,PayPal,Shipped,3.0
+2bd1867b-1e92-4155-944b-eee3c0158494,913dfb6d-c1ce-482f-8986-1eb545d87373,2024-03-12,Clothing,394.9,5.0,Debit Card,Pending,3.0
+3cc9e2fd-3120-40e9-b31f-274182373abe,7b435f20-af6d-4a48-afb2-b41a1cbaef68,2024-10-08,Home & Kitchen,454.2,3.0,Debit Card,Delivered,1.0
+3be26028-10e2-4b39-82b1-d078328abfe1,5007361f-1f6a-4bd6-a29c-6635e79447b4,2024-10-31,Clothing,445.15,1.0,Credit Card,Pending,1.0
+deafdb00-a254-49e2-a10b-c97ee3cbec6f,d6d130d5-9f40-4fa6-bd07-7f9461c82d12,2024-05-03,Electronics,364.43,1.0,PayPal,Delivered,4.0
+585a65c9-51be-4dc1-9504-c95b9d33f098,1927c124-8cc1-4c15-b2f3-7c4742794a51,2023-06-27,Clothing,415.74,1.0,Crypto,Delivered,3.0
+ad2a0d58-eacf-48fa-9ac8-f34bf4afd080,6915acb4-aa06-45e6-b75f-088047d1a552,2023-08-16,Clothing,31.65,3.0,Crypto,Pending,3.0
+2ac6c1d6-32b0-49a1-b520-b4de71e81fd2,853f293e-575a-4aee-9476-5367073009f6,2025-01-08,Clothing,317.05,3.0,PayPal,Pending,3.0
+eb377f2b-5779-4be6-99f5-569e52555a3e,d40f10f1-4298-40cd-ae09-36464d952012,2024-01-31,Home & Kitchen,283.68,2.0,Credit Card,Delivered,3.0
+4db2aed1-87c9-47d0-8982-75ec0d0b8a3f,bcddc697-3dd0-4af8-ad14-88188e5b90df,2024-05-01,Electronics,152.74,2.0,PayPal,Shipped,3.0
+0e86a709-8822-4d3a-9b4c-3dda95e2dd99,e04612cc-83ee-4001-bc5c-cfb583fc33e8,2024-07-14,Electronics,287.89,3.0,Gift Card,Shipped,5.0
+6457b598-a5b6-46a4-b8ca-09e12c805e04,87986d8c-a2f4-4b26-bb7a-fb64a1dae84a,2024-09-11,Books,307.48,1.0,Credit Card,Delivered,5.0
+f80155fd-2b98-4e2d-9bbb-0c035a8fe73a,10a2e5ca-371c-4995-afa5-42b1f19dcdab,2024-07-10,Electronics,239.24,4.0,Gift Card,Cancelled,3.0
+85901ae9-4238-4d6b-add6-266e066eb671,4f282a22-6549-4e41-bfaa-e08ceb3b8c90,2023-07-31,Sports,427.73,2.0,Crypto,Pending,3.0
+360e8f47-36f5-498d-a976-9bf434f94f8c,0a40fa87-c8c9-499a-a4d9-ae8ea1a25abc,2023-03-02,Electronics,117.53,5.0,PayPal,Pending,3.0
+8fc70aa7-5877-47bb-834d-523797e2c5ec,f6d91545-bd63-4a76-a8c5-595ed7223c59,2023-08-14,Clothing,315.61,1.0,Gift Card,Pending,3.0
+30517d45-6e28-4bb2-8088-81353cedff30,6bd84876-657c-43b5-907e-a13e2cb3f0ad,2024-04-23,Clothing,128.44,1.0,Gift Card,Shipped,5.0
+89032b0f-83f6-492a-92ce-b0fd992bae0f,0ca3abe1-45f9-432a-974e-4f6331d09f55,2025-02-03,Sports,365.89,3.0,Crypto,Delivered,5.0
+4313a34d-ad0c-4446-b156-cf0f0921aca4,e55d70c8-e0ec-4224-867d-530d8580dcba,2023-09-18,Sports,379.27,4.0,PayPal,Pending,2.0
+ece0f635-16f1-4518-a1e1-e4eac46d1fb4,23246a43-2f30-4b06-9807-d491c2bf3ed1,2024-02-16,Electronics,446.75,2.0,PayPal,Pending,3.0
+d41f9699-a2b6-4c11-8877-418fdee0b1cd,c6ae8adb-320b-45e4-a44d-889cb6d7b80f,2025-01-21,Electronics,185.48,3.0,Debit Card,Delivered,4.0
+182c047b-7ee7-4755-93ee-a333067e7ba7,04269fc6-0111-4700-82ec-b1d48f9a2ae9,2023-11-15,Books,256.86,5.0,PayPal,Delivered,5.0
+d4f41d8d-cd03-4154-b9af-1cfc64945db8,bd46e280-1f3f-4c75-ae51-bd54aa30d1c5,2023-07-28,Home & Kitchen,297.08,5.0,Crypto,Delivered,3.0
+946fa119-d98d-411a-9b32-a17aa65748ee,d34cf901-5405-47fe-bfe9-1b520f2a5145,2024-12-03,Electronics,162.01,1.0,Crypto,Shipped,2.0
+c68fccea-4685-4acc-8be6-76db9e3830de,9f02c474-7daf-4287-a258-e478e82cd500,2024-11-29,Sports,317.75,2.0,Debit Card,Shipped,4.0
+2604d1d0-5278-4d52-9bf3-db87b6b9c5d1,057b8437-6386-4981-be66-7628d66907c2,2024-01-01,Sports,265.45,3.0,PayPal,Pending,3.0
+b7663389-8b63-4a92-8574-72ec2a1af8b0,8e60e97e-8425-4b5e-b8cc-f41f5e4add91,2024-06-21,Home & Kitchen,209.78,5.0,Debit Card,Pending,4.0
+9f5934fa-b111-48fe-aede-4405ad04681d,638ae7eb-85ad-4598-993f-6f21c0cd0350,2023-09-26,Home & Kitchen,377.73,1.0,Gift Card,Pending,5.0
+a1d521c5-5b24-44cb-bacc-026e59115783,c349d01e-e5fc-4a9d-9ae8-5c97d52428dc,2023-08-08,Books,281.43,4.0,Crypto,Pending,2.0
+0e0a199a-6d5b-439b-87a4-82a2e63cee90,be827108-067d-4879-a70f-4629c7812aff,2024-05-22,Electronics,232.0,3.0,Crypto,Delivered,3.0
+0c19b69f-d9ee-48f8-ba28-e17552aa1503,2be1bf70-2592-4d26-96a5-bf58fdfc69b8,2023-11-03,Electronics,254.71072557818434,2.0,Debit Card,Shipped,2.0
+32428d98-a4d6-4a24-b051-04e420218107,a95033f1-ef92-4eaa-9695-b61e31564e50,2024-11-26,Clothing,368.68,4.0,Credit Card,Shipped,3.0
+1ac683cd-5821-4a14-9c71-107e11e59e6a,53be93e5-535c-41ab-97d1-ea80b5536b1e,2024-11-04,Electronics,142.51,2.0,Crypto,Shipped,3.0
+c51c31d8-c957-43ac-bd66-d33fcc423d68,efab99a9-34ad-42a0-bee0-11a2eba5f2aa,2023-11-01,Sports,347.63,4.0,Debit Card,Delivered,1.0
+e6b0827f-92d6-4eed-9c74-32cab2cfeb22,ddf97257-eeca-4050-906c-4979bd38d832,2024-04-13,Books,184.96,4.0,Credit Card,Delivered,5.0
+7dedf02b-73c2-4bb5-844b-10086b0240ae,a7946410-f9e0-4f6d-a16b-db1d52f85c8f,2024-04-06,Sports,42.18,2.0,Debit Card,Pending,3.0
+44eb85f9-0b3e-4eff-8fb2-26a153ec23f9,8c8dc2a8-50f7-42d4-889c-d12f5c2ea5fe,2024-12-20,Sports,469.13,4.0,Debit Card,Delivered,3.0
+d838ba79-5500-43f1-b11d-226a0e4c6eab,542a6435-5699-4288-aee3-c08d8472eb5b,2024-09-02,Electronics,275.58,2.0,Credit Card,Delivered,2.0
+2d2d420d-f74f-403b-beb2-41a94cafa5e4,435dba18-b6ab-484b-8477-012ce52655ca,2023-05-07,Sports,93.78,1.0,Crypto,Shipped,3.0
+086a7a9b-f54b-4875-bcdb-e00e354dd4ae,62e243e3-3d40-45ea-8c36-24834e6f3d65,2023-08-19,Home & Kitchen,458.98,1.0,Debit Card,Shipped,1.0
+0cc2a01c-a2ad-4627-b9de-5183833d51a7,293441f6-d5e6-4939-973c-2c7d0dcd062d,2023-06-07,Books,207.96,5.0,Credit Card,Shipped,5.0
+f4568f7a-97de-4c94-aead-c85f0d854c9d,fff99959-4328-4909-8965-d4767fe01c1c,2023-03-07,Clothing,484.38,1.0,Crypto,Shipped,5.0
+e413a63c-9695-43e7-9560-e54b23002972,d89662cd-e8f1-4101-a7c6-3c0d57838763,2024-09-27,Clothing,136.61,5.0,Debit Card,Shipped,3.0
+8890059d-1eee-40ae-8880-b7a7f9340648,862e033b-2406-4eb3-8040-b2aa89690c16,2023-07-31,Home & Kitchen,110.04,3.0,Credit Card,Pending,5.0
+4e7abd15-c47a-41cf-a5be-769873767af4,ae0be3cd-0c26-4fc4-8279-2bd3fe28487a,2023-12-06,Home & Kitchen,357.88,3.0,PayPal,Delivered,3.0
+01c00262-5930-464d-a8d4-84515f2eedca,735dfd31-45fd-4867-8782-727911837ffc,2023-03-24,Home & Kitchen,369.45,4.0,Crypto,Shipped,5.0
+58242023-16ae-42c2-a249-d019246574f5,19b7e66e-ce56-423a-a1ca-61a07cbbc0f1,2023-02-28,Electronics,112.56,3.0,Gift Card,Pending,3.0
+9a5fd862-1a96-4655-b087-c8c3c19b7698,67410ae2-0b27-4b78-a542-7e88680f5d87,2024-10-16,Sports,193.56,2.0,Debit Card,Delivered,4.0
+42e6a161-009a-4bc2-a874-0979c3419ad5,86a5d454-c1be-4baa-8827-147b2e1cde14,2024-02-21,Books,173.41,2.0,Credit Card,Shipped,2.0
+b94a29e9-1392-441a-9adb-69d5dc4da67c,e1a89b48-999e-4fd9-b419-1dde7a9bdf45,2023-06-14,Sports,320.69,2.0,Debit Card,Delivered,5.0
+9e7cceae-d547-4677-aeba-d0232e4b4811,87cbdfc4-4127-483b-820c-2f77073c0245,2023-05-08,Books,409.3,3.0,Crypto,Shipped,4.0
+604bd2f8-f96e-4d2a-9b65-b642c078463b,979e6ac3-9b51-41b0-bd91-f2541efa142a,2024-09-12,Sports,256.34,3.0,PayPal,Delivered,4.0
+032a2acb-164c-45bc-bac2-a249001091d1,ea669e4b-a219-4d52-a367-e4a81635818f,2024-05-31,Home & Kitchen,176.43,5.0,PayPal,Shipped,1.0
+ab078505-f772-4c77-bbc1-c7c9b623f9c5,ae75eec9-446a-4337-a0ca-8ddb3ed42899,2024-06-06,Clothing,201.81,2.0,Crypto,Delivered,3.0
+4b8f731d-14e5-4d02-8653-6cdb8fcf795b,297ccd12-b2c1-4b34-a7db-77d2480295f7,2023-07-09,Electronics,254.85844200897483,1.0,Crypto,Shipped,3.0
+292b70b7-ba2f-460f-aa6f-3c747ec11a2b,87e1ce61-c741-4ddf-8f24-fbdb14e1e313,2024-11-07,Home & Kitchen,54.96,4.0,Credit Card,Pending,1.0
+3d6a637d-0f87-4391-b297-c4077a6a63f0,abdf4461-968a-4af6-a3b9-b1e9f9d9d297,2023-12-31,Clothing,188.23,4.0,Crypto,Shipped,4.0
+905af811-475f-4181-a478-44c81443141f,563f8a0d-0b2d-4272-8fb8-d8be7b725d12,2023-10-19,Books,295.34,3.0,Debit Card,Shipped,3.0
+0abeb3b7-ff44-4008-bb34-310e95ce87c3,6863c750-20d7-4c19-a740-923509a639bb,2023-04-18,Home & Kitchen,246.17,3.0,Debit Card,Delivered,3.0
+54d87d36-cfca-411d-a187-533711f91239,ec9b592e-049b-46b4-bc0f-76eda9b0e250,2024-07-25,Books,226.49,2.0,Crypto,Pending,4.0
+8a0fe25d-573e-46e0-b948-9cca149c4395,0b9db6e1-7baa-4790-a713-17469fcd6664,2023-07-06,Clothing,146.85,1.0,PayPal,Pending,5.0
+31e064df-7c3e-4013-a14c-06b747e72976,21cf0ddb-d9f8-4a40-a376-b20418bda8c4,2024-11-01,Clothing,348.14,4.0,Gift Card,Delivered,2.0
+1fa88c08-cb7d-433c-894d-5260d62dd9fd,92e03bde-9b26-4673-928a-b595d916e4fc,2023-09-13,Electronics,241.52,1.0,Gift Card,Shipped,3.0
+68295b90-d279-4837-a3f1-82bc5875c46b,66616ac3-0fdf-44cc-871f-24b17574f6da,2023-07-10,Home & Kitchen,175.45,2.0,Crypto,Pending,4.0
+5c6a954a-c7fc-4ae3-a751-6c26c65aebf8,0da7ba4c-895c-460c-9b20-84bdb8763326,2024-03-01,Books,99.76,1.0,Debit Card,Shipped,1.0
+a4fbb73a-6ac6-4f2e-af78-63acefa4794d,2ff69681-5a63-4579-a69f-f7ef4d210e12,2023-11-17,Electronics,375.63,3.0,Debit Card,Delivered,3.0
+a8e7b216-fe52-460e-9925-281a513e2efe,4438da92-db2a-4614-84e5-b46761aace65,2024-10-12,Books,42.6,1.0,Gift Card,Pending,4.0
+36325356-66c5-4f70-b9b0-dfb5c1368b18,bcf85819-aa6d-4466-bc66-13d36024927d,2025-01-21,Home & Kitchen,34.47,3.0,Credit Card,Cancelled,4.0
+2b60174b-5ac4-42bb-bf16-da6495b4b3f7,03de4ef8-5fc0-4714-9b55-9f20a8ef456f,2024-01-31,Clothing,304.86,5.0,PayPal,Shipped,3.0
+0ed8f3d7-861a-4322-82df-c5bc7b1d109f,b4cc8c40-847b-4fe2-8598-4e0ac66892f4,2024-07-20,Sports,61.95,5.0,Debit Card,Delivered,1.0
+7e0fa263-072c-4572-bd9b-2a701c7b96ea,f97282bb-5bc0-4d31-95a4-6ae4768f9fbb,2024-04-20,Clothing,179.64,3.0,Gift Card,Delivered,3.0
+a5965e16-12c3-464e-b0e3-9d3208d3876e,a6e6310a-8955-4153-8a91-5452887c1b32,2024-03-24,Sports,16.35,2.0,Gift Card,Delivered,2.0
+b0190f88-1663-47b7-a4e6-cc99de57e7d3,1456abb1-ec67-47ad-a9cb-4f02ed637ee0,2024-08-23,Clothing,16.99,3.0,Debit Card,Delivered,3.0
+964f3ddb-af16-48d4-b607-86ede2199852,2186f822-4ab7-4fc2-b774-d5ecdff5fbb0,2023-11-10,Sports,392.46,5.0,Gift Card,Pending,3.0
+0e43a0a7-c044-4cc7-84a6-9f92693bc9fd,dd79e891-0f98-467a-9eae-5a6bef414b6a,2024-10-11,Home & Kitchen,193.75,4.0,Credit Card,Cancelled,5.0
+d1b40c78-b4be-4d18-9a87-0bf7d38858ea,eb005aa2-4ce4-45d4-bd76-07c95db7bea2,2023-05-02,Electronics,82.8,5.0,Gift Card,Delivered,3.0
+9bf6c5f3-8c64-4ed1-8297-bc31b276f457,b4507423-b689-4727-979a-b191573dff09,2024-12-01,Electronics,367.52,3.0,PayPal,Delivered,4.0
+9aa5e8e8-b288-4d07-a886-ba08eb941d9f,9abdc1ae-684e-4004-9f74-7c4b253d6379,2023-11-30,Books,358.98,5.0,Crypto,Delivered,3.0
+2f0b30d8-0711-4296-abe0-bf47c6219edd,5607aa21-793f-4fdb-883a-8410a0e31732,2023-11-21,Home & Kitchen,404.73,2.0,Gift Card,Pending,2.0
+c6a35316-fe60-4704-8b6e-e781bb8338a8,ff7f6a1e-6466-4f8f-8034-1e44843b26bd,2023-04-10,Clothing,185.74,5.0,Gift Card,Delivered,1.0
+7ddb031a-75aa-4e18-963e-3fee2bb00be5,9a2ed36c-5d4d-4858-8ffa-7d6a043c6406,2023-08-31,Clothing,11.57,5.0,Debit Card,Delivered,3.0
+41f793a6-c635-4810-87fa-7db8aa681d0d,89cb05d0-06d5-479c-b624-c8caec2f3a43,2024-12-07,Clothing,483.39,4.0,PayPal,Pending,3.0
+c62ff727-29ed-4b6f-bcc5-d562d09a5169,e7d61ddd-3d52-4f8c-bb09-82185c16e2b3,2024-12-05,Books,354.41,3.0,PayPal,Shipped,3.0
+5ca01e94-07d5-4b1d-9b7a-363f17c3e0c2,60409b35-7665-406a-b58f-9933bf6a1e81,2024-01-21,Sports,479.85,1.0,Credit Card,Pending,4.0
+790608f6-007e-475f-b4c4-6fd442ab9180,7cc2937c-e6a3-4bc7-bc4d-c1dd846f2696,2023-05-20,Books,304.05,1.0,Credit Card,Delivered,1.0
+d726a3d8-566a-4bc5-a596-a8fd6fb94cda,2bbce040-6b08-4c99-b54e-937ef0676099,2024-05-11,Electronics,297.3,1.0,Gift Card,Shipped,2.0
+990c9606-1168-40c0-9326-41f9dbe84f25,e928d6d5-9c58-4960-b766-c0396f726c47,2024-03-18,Books,257.12,5.0,Crypto,Delivered,2.0
+17d2c079-1942-4071-9748-4f00816ad5e6,58cd84b9-f5c3-42ae-b4dc-58eaf1dd2834,2023-08-23,Clothing,254.4152927166034,4.0,PayPal,Shipped,1.0
+eb29e34a-5051-4d84-a494-49e933149306,e5c12ef4-7ed2-433d-81a7-78165c237d8d,2024-07-01,Home & Kitchen,389.8,3.0,Gift Card,Pending,3.0
+7352eb55-d4d4-4be7-8379-90d2901755ee,69f69a68-28a7-4a38-9ee6-fc0e9a19528f,2023-12-20,Sports,163.91,1.0,Credit Card,Delivered,1.0
+88272e40-166f-4171-963f-a968346b7fde,6961138d-8bca-4f5a-9fef-d43fa971b573,2023-09-15,Sports,491.01,4.0,Debit Card,Shipped,5.0
+e193d12b-bcfd-4dbd-b880-2bf2fa0b8d5a,db69455f-0174-4507-ac1b-cd3def08979e,2024-05-07,Clothing,82.44,4.0,Gift Card,Shipped,3.0
+99a75340-3943-4234-bb4d-74cbdf32cb81,fcba7e52-5bb1-4e63-b2c1-6d23241b0fa6,2023-11-25,Clothing,26.5,2.0,Gift Card,Delivered,3.0
+c29ea537-6ff1-4124-a978-6a72002aac20,2348699c-cc6c-464b-b3d7-5b19e2cb213a,2024-11-06,Home & Kitchen,395.55,1.0,Crypto,Shipped,1.0
+a0f13259-d98a-401c-a94d-78f580306d7d,11e621a5-7d3b-43bc-ae2c-059362cc07e3,2023-06-20,Books,294.44,1.0,Credit Card,Delivered,4.0
+4d310697-a3bd-423d-a291-d04800bc0183,6edd26a7-7e52-4b0c-9959-a8b4b244b510,2023-08-30,Books,42.29,2.0,PayPal,Delivered,5.0
+8a4ea232-b1ab-4885-b43d-a18b0f3f4482,ec6fb7c8-7536-420d-8e87-9bf22e40cf3e,2023-10-07,Sports,80.61,4.0,Credit Card,Shipped,3.0
+c3ff0bc2-8a79-44c6-8ad6-1af29499cbe5,b32cc6da-1f2c-4b5d-adec-6cca05768774,2025-01-24,Electronics,76.7,3.0,Debit Card,Pending,1.0
+456db248-7fb0-4516-8048-6322c4e20e2d,6613f77a-bb23-44e6-810f-f5b093a82d95,2023-05-26,Sports,254.26757628581294,5.0,Credit Card,Delivered,5.0
+e564027f-506d-49e3-ae88-19231e9423e8,918405d3-202a-400d-ad96-3c210a95344f,2023-04-29,Sports,405.77,2.0,Credit Card,Shipped,2.0
+3adca5cc-26db-4d94-827c-95d55c8ee20e,855a87ae-a6ec-4800-a3b9-fd23ebf0fa2d,2024-10-20,Clothing,372.43,1.0,Crypto,Pending,1.0
+1871311d-790b-4451-a4d1-4f5188f4dace,177c715b-c97c-4db1-b83b-96aa37a141b8,2023-08-15,Electronics,53.3,3.0,Crypto,Shipped,3.0
+577dcd51-6e2b-4c4e-9cee-415dd430fdba,06e351d6-5045-48a9-b2a6-0819d0a52232,2024-12-01,Books,261.12,5.0,Crypto,Shipped,1.0
+b6da5859-348e-4c7c-972b-88477fd052c6,5ee4f8d7-55d3-47ff-9808-6eedd3669506,2023-12-24,Books,258.37,4.0,PayPal,Pending,3.0
+f05eb378-002c-415a-ba3f-bb2647691023,a732b973-0081-4a5d-8c7e-2c2e5f4a97c0,2023-12-07,Clothing,64.12,2.0,Debit Card,Pending,1.0
+6b09ad57-a2c0-4d78-acf3-f7c09bba6ba5,6266af36-f6d4-4a6a-80d2-2b6d43efacf4,2024-08-17,Sports,95.05,2.0,Crypto,Pending,3.0
+7ee863f0-0c2d-4769-af45-ca14f8914bd0,8611f935-2875-40a4-8f86-441589a49aef,2023-08-15,Sports,345.03,2.0,Credit Card,Shipped,4.0
+b190cf25-5ce7-4ab5-a413-ecda20124e9d,87b8fb87-ccfa-4681-9d4f-1379191a7691,2023-04-20,Electronics,467.69,2.0,Crypto,Cancelled,2.0
+085f764a-278f-4aae-9e76-9ac6c1cff042,450b23b4-a77b-443b-83de-b62895550f2b,2023-10-08,Home & Kitchen,166.0,2.0,Credit Card,Delivered,4.0
+25ad3d6d-de24-4bd5-881f-3f4097a47842,da7f7867-fe7c-492f-9083-17270bde892c,2024-05-02,Clothing,447.97,4.0,Credit Card,Cancelled,2.0
+7952096a-f37b-487a-9a07-064620a9a2ef,5097299a-60a3-4e63-9185-89b0029db3c1,2024-12-15,Clothing,373.29,1.0,PayPal,Pending,3.0
+f8c5b8a4-d65d-4f3b-8e62-c6b746d68c9e,60fc05b8-3148-4461-ac28-daf8fdfc8660,2024-01-08,Books,256.63,5.0,Debit Card,Cancelled,3.0
+2fc3beeb-e8d1-4967-a8a2-2958624324e5,30983d71-43ca-426c-a87b-0fdb49000f32,2023-08-19,Sports,485.67,2.0,Gift Card,Pending,1.0
+2f0b5a12-51a0-43c0-99a5-77975fed5b8a,8f71ed82-2e52-485d-a2f2-4b7fd3f492fd,2024-06-20,Clothing,365.38,5.0,Gift Card,Pending,4.0
+0fe5581d-9356-4a74-9497-5403ea867b65,ab36039e-5d73-4e89-9306-f62ffb7b457e,2024-11-18,Home & Kitchen,140.34,4.0,Gift Card,Cancelled,5.0
+72842e7e-44ac-44c2-954c-5d5e897789a6,07abfd53-f4fb-419f-bf90-f908195b1674,2025-01-09,Electronics,97.13,4.0,Credit Card,Delivered,1.0
+ec9709fe-f792-4d6e-8100-f94a78a678fb,881c7ab9-56b2-4807-a5e2-3dd0aa40b6f8,2024-08-25,Clothing,254.4152927166034,4.0,Gift Card,Delivered,3.0
+0b40f922-c4bc-4314-b348-a588aefa1a93,3d8a58cf-7ff0-476c-a5fe-9afed836c28c,2024-11-24,Clothing,317.3,5.0,Credit Card,Delivered,2.0
+a854e163-6fac-4bdc-9c1a-88e1c8df2144,1cdb6cbe-88d2-4d45-8ac8-ea77151cb09b,2024-11-06,Electronics,185.02,4.0,Debit Card,Shipped,3.0
+5c21de77-96fe-42bf-bbc1-1f52b27eca93,1e7f7c6e-1b02-4105-a517-d51a45ec39ea,2025-02-05,Electronics,254.71072557818434,2.0,Debit Card,Pending,3.0
+24238fe4-7593-49fe-bb48-76a18ae477ed,14bf72cc-9cc4-49fb-8df8-0c73aded7c86,2025-02-11,Books,13.0,3.0,Crypto,Shipped,2.0
+cf988cb6-ff0a-46c7-b158-83902511e713,5580576a-e8d5-4afa-8247-60db7a0fc4a0,2023-09-08,Electronics,158.29,4.0,Crypto,Delivered,4.0
+fac9e3ef-f5e8-498b-8f74-313373e70a70,d8e25689-5645-44bc-94d3-995dd0ba81be,2024-04-09,Sports,254.85844200897483,1.0,Gift Card,Pending,2.0
+f582ad16-a187-4b78-8e91-928301b30949,9aeca1dd-b6e9-43cc-9b83-a4696184606e,2024-10-22,Electronics,433.61,3.0,Crypto,Shipped,3.0
+16c04666-712b-4cb6-a265-9e0b92b3b700,93dc08d8-91ec-47a0-8ace-4b6892785726,2025-01-13,Sports,334.22,4.0,Crypto,Delivered,1.0
+f63180b4-596b-43e3-9f00-fbf927fdb851,cd8ec17d-3828-47d8-9806-cd9ba5880b2c,2023-07-15,Home & Kitchen,292.63,2.0,PayPal,Delivered,3.0
+978f7130-9067-477a-8104-676714cb50b7,f77f8022-92cc-4fb0-827c-bc8bd3b151cf,2024-04-17,Home & Kitchen,454.88,1.0,PayPal,Pending,1.0
+f62e2272-72ef-4df3-926c-151f83cdaa74,8e91c202-66c9-45db-af0b-e6e1c5292d7c,2024-07-18,Electronics,161.62,3.0,Crypto,Delivered,2.0
+23e210d1-8739-4483-851d-634b6fc70506,c8aa7389-8232-4ddc-9a46-06177a751ea1,2024-01-24,Books,171.94,1.0,Debit Card,Delivered,2.0
+3e89d509-9250-45cb-adaf-4a1c8af1b74e,586b5ac4-2d85-41cb-a966-aad0cb82fd6c,2024-09-05,Sports,406.08,1.0,PayPal,Delivered,3.0
+6a8a0f25-9282-4052-b80f-f6a3e89c774d,c1a33d51-a603-4ee4-aa30-58c74141218b,2023-12-24,Clothing,213.2,2.0,Debit Card,Shipped,2.0
+c5dbfad9-d80d-4d9d-98e7-94f408f26f53,b5c9d7bc-efc6-420d-962d-493364b09550,2023-09-30,Electronics,143.31,4.0,PayPal,Pending,2.0
+85e678c8-bced-4248-9809-f858c1a8fc49,a4a6a7c7-3c09-4bcb-a74a-1e1569656d68,2023-03-18,Sports,441.37,1.0,Credit Card,Shipped,4.0
+8a076f70-0b7a-4570-b38b-7c64fb58c7c1,bc16f600-e866-4b2f-a0f6-35bc850236e9,2024-10-25,Books,334.42,2.0,PayPal,Shipped,3.0
+1f8bcc43-dbab-4da4-8668-3c66bbd9ae3e,693e6907-6dc9-4292-a351-ceb0c1300f07,2023-03-28,Electronics,230.02,5.0,PayPal,Pending,1.0
+4c38461a-9c03-4aa6-b054-779f999b5403,baba7db4-c43e-494a-ac26-b5ea034c26b2,2024-11-15,Clothing,349.47,4.0,Debit Card,Delivered,1.0
+6af8014a-f438-414e-898e-f7e2989c2542,37de9842-7f8d-4314-a21e-89e92f9b1d31,2024-02-21,Home & Kitchen,297.27,5.0,Crypto,Shipped,3.0
+cd78fc54-20ef-48f1-af39-f10664e0a67e,29b3ca11-5dcf-42bf-8c1f-1447ac726d47,2024-04-26,Books,403.23,2.0,PayPal,Delivered,5.0
+9b4860cc-4087-4b72-ab81-4050d8ee09d9,47efcf99-e31d-4b29-9cd5-067dca0665cb,2023-09-02,Clothing,355.3,4.0,Credit Card,Delivered,3.0
+ef396159-8e20-4419-a5a4-21af5881f44a,f899fe1e-e3c6-4c8c-84d7-50437b308e35,2024-04-25,Home & Kitchen,458.57,4.0,Gift Card,Cancelled,2.0
+9ed882cb-a6b9-4897-ae71-c8bfc87a6f11,4a3edf08-b5b5-4714-82ee-25e13eeb4c5b,2024-07-04,Electronics,278.35,4.0,Credit Card,Delivered,3.0
+5518dd5a-7170-4c90-9acd-3ba35afff9be,60458950-10d5-4bd5-9197-ec4f55cfd2b6,2024-11-18,Electronics,292.93,4.0,PayPal,Delivered,3.0
+2d4ac638-bf3b-4458-97f1-d3a48b5fd474,7ec3240e-9513-4c80-a2a4-d7c7402a1067,2023-03-26,Electronics,321.6,4.0,Gift Card,Pending,1.0
+12cfe5d0-d780-4e71-ae8b-1615f8d1960b,ecf012c3-3c8d-45f3-b1d4-8624a9108037,2024-10-27,Clothing,205.27,3.0,PayPal,Pending,2.0
+66964676-36d6-4270-af67-836afae25e58,d77f2582-8c8b-4eb4-81cd-57a144f92e5c,2024-04-09,Sports,64.13,1.0,Debit Card,Delivered,2.0
+207fe656-50c6-4dc0-a24b-ad27327e6c85,204f2c9a-6242-4728-84f8-4c9f07c112d0,2024-03-17,Electronics,417.61,2.0,Crypto,Shipped,3.0
+91102270-2521-44de-add3-0455e58eee83,aa202365-d9c8-453d-89f4-0252c9182c11,2023-04-16,Sports,327.93,3.0,Debit Card,Pending,2.0
+5e8c1c4a-9948-40bb-8d2a-3efebe80d3f5,a07cd3c2-037d-4837-b53e-f385d4ce8fbc,2023-12-22,Clothing,85.69,5.0,Gift Card,Shipped,1.0
+346e285e-d6f0-46d3-8d6f-b9852a6b10d7,7ed74cd7-f43f-4494-b348-39b0048ac3f0,2023-08-05,Sports,441.21,3.0,Debit Card,Pending,2.0
+e001fb7f-d4e2-45e4-9210-ca056c976930,fae3126b-37ee-4b14-8305-52b867dd827b,2024-05-14,Clothing,319.1,1.0,PayPal,Pending,3.0
+dc71ca94-8e60-4ac3-9f89-3b1cbf8d51b3,0adededc-85f5-4f7f-bb86-eebc54bd8ac1,2024-09-15,Home & Kitchen,77.09,4.0,PayPal,Pending,4.0
+c94c4b32-c71c-450a-a990-7c68563925d2,fcb39f61-b88f-46e8-8f49-3664063b262b,2023-08-09,Sports,134.65,3.0,Credit Card,Shipped,1.0
+dfaff34d-404c-4793-bfd1-b89341bef521,21c20b98-7d49-4be5-90d4-8c65bfcba846,2023-11-18,Sports,313.8,4.0,Gift Card,Delivered,1.0
+fe3c286b-40bd-44fd-8f9d-b3d07688fd79,7ee59771-3efd-4c86-897c-8fc81c019b68,2024-08-29,Books,194.82,1.0,Credit Card,Shipped,5.0
+c19b07cd-de9e-4952-bee2-bf92292bd0f8,290cd229-1da2-4904-97c9-64993b515be1,2023-10-19,Clothing,428.76,4.0,Crypto,Shipped,5.0
+acd091d5-416b-4e40-ac06-707b658b1402,32a0d642-70cb-416c-a686-37fd5e78d57a,2024-10-08,Clothing,327.29,3.0,Credit Card,Shipped,3.0
+e1801345-c2cc-4451-aa33-b41e5715bca4,0315d056-b401-406a-8863-14c6a540c4bf,2023-05-13,Electronics,262.58,3.0,Gift Card,Shipped,3.0
+8b317be6-eb7f-4623-a906-215b7bcf0201,d490c99e-8521-45e8-87b4-617851cde2d4,2024-02-26,Sports,350.6,1.0,PayPal,Pending,1.0
+131a3058-3046-4c37-9016-a54f03ad82cd,b36131ab-1679-4de2-8139-eee0b63daf50,2024-05-15,Home & Kitchen,171.93,1.0,Credit Card,Pending,3.0
+a3375fb8-23bd-4640-a377-2590eb24648c,af151de3-2025-4ce8-9343-576e67861e98,2023-10-03,Clothing,86.43,2.0,Debit Card,Shipped,2.0
+1bea4ca0-aec8-4581-90f9-d81a74132d17,220d3436-4f94-467b-930c-bff3213ec58a,2024-09-30,Sports,73.87,4.0,Debit Card,Pending,5.0
+72a03abf-5119-424f-8f10-a7c23b5414b8,ec5e74cb-af9f-44e7-856d-08bdf86460dc,2023-11-26,Electronics,477.18,1.0,Crypto,Shipped,5.0
+e5552575-7550-4d48-9b0f-5a6f4014370c,b0ed4969-85e8-41ed-892c-8be7eaa0c69a,2023-10-26,Sports,20.3,1.0,PayPal,Shipped,5.0
+1a42ef9c-7bff-4b8f-8edb-115b6e8adb2c,261a4863-0e10-434d-a56e-787e3df69a7d,2025-01-09,Sports,175.59,5.0,Debit Card,Delivered,5.0
+edf542b2-557d-4824-a775-274d4b0ea2e5,a7c8aa68-20dc-496e-8061-c01b1570d694,2025-02-11,Sports,477.1,4.0,Crypto,Shipped,2.0
+48cf2ba8-6a96-482f-809c-85b2218912b6,3975e9cd-d9f8-4d11-94a2-2b0bc5fe4607,2024-06-04,Sports,382.8,5.0,Credit Card,Pending,4.0
+42f8d9e9-02e1-4ba3-9174-e651a83c87c5,eb5231e5-adfb-45a8-a34f-9a9e57ed4e2d,2023-04-07,Clothing,457.23,2.0,Gift Card,Delivered,3.0
+450530e6-86fa-4186-a695-6fecb619a721,dbacd35b-b19e-4a24-b31a-62c97df4a4f1,2023-09-26,Clothing,175.64,4.0,PayPal,Delivered,3.0
+c7ac2eeb-9a65-4dfb-8ec9-73bb8b8396b0,7b78cd03-70f2-4c83-b392-327e327be889,2023-03-09,Electronics,198.15,2.0,PayPal,Delivered,2.0
+13f5c555-2dbf-47bb-9a49-bf3ab700a9b4,7d1f6064-e136-4dee-9b22-2b1fd2c2d20f,2024-08-19,Electronics,44.18,4.0,PayPal,Shipped,1.0
+d155d5d2-110a-40b9-a741-0d295709b1e1,5ddbf917-3da9-4db6-8e83-60f41b8adafd,2024-04-06,Home & Kitchen,338.73,3.0,PayPal,Pending,3.0
+9f6954e4-bac9-447d-8ca4-54dbe810d350,1e077f6a-133c-4525-9484-baaa27251b50,2024-11-26,Books,243.46,1.0,PayPal,Delivered,3.0
+7f808c50-0ea8-4d9d-ba9c-bf520beaaaf5,86989c1e-a267-4d60-bda8-cb77a417cd39,2023-06-26,Books,91.4,2.0,PayPal,Delivered,1.0
+b879f145-84cd-468f-8ab6-1b0c2e115c60,7ab8e042-a050-41c7-8cec-47f3827cd826,2024-04-12,Sports,260.48,3.0,Gift Card,Delivered,3.0
+a782a404-5141-4626-bc09-abfbd988575c,811bda6c-ba5b-4834-b256-698379a43021,2023-12-03,Sports,45.84,3.0,PayPal,Pending,4.0
+0533993a-4090-49dd-a0e5-495ce933822b,bc5ba1da-3fbe-40eb-bca5-15f4b5d8fdb2,2023-10-09,Sports,110.08,2.0,Crypto,Pending,2.0
+c04d545b-b064-4460-a1a7-f57ec01ee4ec,4cfb2184-a711-46c4-977b-a2616fef93ea,2024-03-18,Electronics,154.4,3.0,Credit Card,Pending,4.0
+556edc02-6731-4218-affc-775afa2f6d1c,9935f18a-77f0-41f1-b045-9079feff21c5,2024-07-18,Clothing,39.21,3.0,Credit Card,Shipped,4.0
+4400cbf4-1343-4691-8316-ddca106a1f57,12d699a2-75bd-4dcd-92bc-253d57779ef7,2023-12-23,Electronics,214.67,5.0,Credit Card,Shipped,2.0
+60a34ea5-5981-4cf5-999d-b823c4aff8d7,eef854f4-739d-4b76-a80a-979080173e38,2023-06-22,Home & Kitchen,38.09,2.0,Crypto,Pending,3.0
+9f807db3-676f-4749-bbce-c91c1a2d6874,d4d71ee8-c37f-4e2a-bfa5-e669a87b3229,2024-09-08,Electronics,436.31,1.0,Credit Card,Shipped,3.0
+aa05efb4-d9ec-4dc5-9ea3-0ffb5dedcedd,33d0be32-e8d9-4ced-97b7-ce8667433093,2024-02-26,Books,260.29,5.0,Debit Card,Pending,2.0
+b85c0f3c-7504-4b51-9020-5514541969ee,c48fb571-2f62-407c-bc6d-7622655b8eda,2023-03-22,Books,254.71072557818434,2.0,PayPal,Cancelled,4.0
+07347a69-51b5-4561-a704-41365e1aeeb0,610b9ab7-3e10-4dbd-837e-b56523a7b483,2024-05-01,Sports,390.79,3.0,Debit Card,Delivered,3.0
+502bd1fb-786d-4c73-9c1d-afcea82d20a1,3deae709-b834-4ecd-a557-8c4dfce31b04,2024-08-10,Home & Kitchen,397.06,5.0,Crypto,Delivered,4.0
+920cf9e5-d8f6-4251-b737-bda6d8209028,569235c2-5741-4327-9fc8-d298ac2be4f9,2023-12-05,Home & Kitchen,289.1,4.0,Credit Card,Pending,2.0
+5cf7ff10-c781-45c7-ac55-adcb6c7bb51f,586b2783-2683-4fba-b78c-d5e828adb6d3,2023-05-21,Clothing,310.48,3.0,Gift Card,Delivered,5.0
+eee16a57-fc9c-4f6d-b15d-956d178eb072,895ec8c7-7420-45a3-bc23-db4b1336e39b,2024-11-11,Sports,350.64,4.0,Debit Card,Shipped,4.0
+ff07e8de-0a8a-43fa-9c95-eafc7e009335,c4d592e5-3afe-4774-84da-aa3dbcf2c93e,2024-11-10,Electronics,254.01,3.0,PayPal,Pending,1.0
+a934a19b-3305-40ff-8475-7d9b4a49bb7b,eaab0bbd-2b14-4083-a1a2-86ed467c15d5,2025-02-05,Sports,152.07,5.0,Credit Card,Shipped,4.0
+ec1c5a31-b28e-4d32-91bf-42edc443d3f4,d5d5d72f-37ea-4e2b-9c56-4e1b88927194,2023-09-03,Clothing,240.71,4.0,Credit Card,Delivered,1.0
+33baf0c3-c54b-495b-92f3-3d10ab1e267f,78d67c6e-6854-47ae-b934-3a675f0d49c4,2024-02-03,Books,254.26757628581294,5.0,Debit Card,Shipped,3.0
+b0a455d0-d81a-4cfa-adad-699c0e8bf687,dad6a1c8-92ac-47b4-8262-0ea0f65892f1,2025-02-09,Sports,116.76,3.0,Credit Card,Shipped,2.0
+927e517e-4993-426b-9e84-84f9b21b4f51,6c84beb2-9a99-4305-a5b8-ef8ecc5fd7ea,2024-03-31,Electronics,87.95,2.0,Gift Card,Shipped,2.0
+7f5f918b-db22-49a8-8e65-50ee65ebf5f0,54593dea-0f5e-470d-a60a-c6fe9fb89cf6,2024-09-17,Sports,14.39,3.0,Gift Card,Delivered,3.0
+ef07391f-46c7-4baf-8adb-52b69752e4f8,ff0cad5c-a0cf-4a75-8b7c-4da598a8b06c,2024-08-05,Home & Kitchen,73.89,4.0,PayPal,Delivered,2.0
+e797be14-2c6e-4c53-884d-f3c43373b3a9,2b2231db-73ea-4096-9b9f-0cba31371562,2024-06-27,Books,297.0,1.0,Crypto,Shipped,4.0
+0d9c4576-f402-488a-a93b-0a4fa0bdb2bf,68c61475-071c-439a-8de4-a868c635e600,2024-10-24,Clothing,440.02,1.0,Debit Card,Shipped,1.0
+39d6c594-bb28-4003-af4a-08bf16116c5d,129d82ec-be39-49f2-b01d-667060c187e4,2024-11-05,Home & Kitchen,442.52,5.0,Credit Card,Pending,1.0
+4beaa191-d026-46ff-85d1-7c2847f8c4a5,08b73aef-98f7-4592-865b-6a4243d8a245,2023-04-02,Clothing,216.74,3.0,Gift Card,Shipped,2.0
+c9d70fd5-bf38-4928-8586-43916e34b148,209fef8b-2116-445d-8792-c15bb46c86e5,2023-06-18,Books,471.95,3.0,PayPal,Shipped,3.0
+abf05859-cead-4cb8-aac9-d87e4326ce48,69d46633-9f90-4eca-8f43-4eca45b02332,2023-11-15,Electronics,322.83,3.0,Crypto,Pending,2.0
+b039b058-842d-4cd7-9fae-78a7273570fd,a42120d4-4beb-43fb-830f-ab25f964ced8,2023-08-24,Books,145.61,2.0,Debit Card,Delivered,1.0
+788cc37d-88a0-4626-8769-957de6c72128,a49cbda1-d153-4de9-9c42-d18eccf144ff,2024-02-17,Electronics,14.76,4.0,Credit Card,Shipped,2.0
+ba3c85b5-1f63-40dd-be8e-fdb8508ea46c,111f7ea4-0533-4d2f-bba6-d7ea14e1644b,2024-01-14,Home & Kitchen,254.4152927166034,4.0,Gift Card,Delivered,5.0
+f3dd7aaa-b5b0-427d-ba53-9d4df55fa5b1,6cac34ab-6663-43eb-8b2f-720f2aef7efc,2024-01-08,Home & Kitchen,297.86,1.0,Crypto,Shipped,3.0
+d1b8586c-bb8e-400d-b517-48c35749229c,fd7dcc7b-f0f1-4274-b71c-1ed85a3c060c,2024-06-26,Sports,254.71072557818434,2.0,Gift Card,Pending,5.0
+ae34067b-ca09-47b6-9373-a87f6ce83e00,0c41e634-8b15-4575-86eb-084382ef9f37,2025-01-16,Sports,15.46,2.0,Debit Card,Delivered,3.0
+bb91c585-8343-4cf1-9e43-e28a5e7f13af,e03f3064-0e54-4531-a929-b822a8c320b7,2023-03-03,Sports,10.03,3.0,Credit Card,Delivered,4.0
+dc5287d2-febf-4deb-a6aa-f3767880e4d2,c4c5b362-635a-49dd-88cd-76d2d7ae7246,2023-03-22,Sports,40.95,3.0,Debit Card,Cancelled,4.0
+8fb0ea1a-8789-4e30-b13e-c509b0e89623,ba41a070-4472-4b32-93b4-3516370a3e47,2023-07-25,Books,12.45,4.0,Debit Card,Delivered,2.0
+be6444cc-6b2e-4817-830a-937535a3d2bc,b3860035-50e2-4fde-80f6-ccdf9cbac385,2023-06-17,Electronics,31.06,5.0,Debit Card,Shipped,2.0
+6ee55b9f-8139-4035-9334-06effb87a94a,2118b5ce-8137-4d25-bcae-0596d2219797,2025-01-01,Books,466.25,4.0,Debit Card,Delivered,5.0
+babc4f05-92d1-451b-8a31-368cffff174f,a5e0b6b6-dcd0-48e6-afbb-2a98a81ee838,2024-08-16,Electronics,388.39,4.0,Credit Card,Delivered,2.0
+17083d07-e4c2-4c96-afcb-74a234619c6a,cc4d0d9b-ce1b-4198-a34c-9a2cd71779e2,2023-09-12,Home & Kitchen,307.13,3.0,Credit Card,Shipped,5.0
+9c91a3f1-7664-4d07-a0dd-45efce9dbf8f,e7820edb-1abc-4ad8-8e4f-99ef96d5366c,2023-03-16,Clothing,351.28,1.0,Crypto,Delivered,3.0
+9c0b8a96-9062-43cb-8e54-c024d6cf4db2,42b5c794-67ba-444b-8fa1-727d9338c8b1,2024-09-15,Home & Kitchen,250.42,5.0,Debit Card,Pending,2.0
+3ca22bb7-d869-41d3-83e7-a90dfaf319a3,16733e45-165a-43f7-b70f-5bc26531f350,2024-06-21,Electronics,55.67,3.0,Debit Card,Delivered,3.0
+59c4108a-842e-4a6d-a970-792d68fa22e1,2841c221-186d-4ff4-985f-4083d242ed64,2023-09-07,Clothing,373.53,5.0,PayPal,Delivered,3.0
+875c95ee-4aba-4f8a-845e-0f1f13d5ad79,e88c1837-6291-409b-b6f3-ca76a9664cce,2024-04-02,Books,459.0,2.0,PayPal,Delivered,4.0
+856a4c67-5244-4dfc-b33e-91310b1fc653,2531d5e0-4c72-472b-98c2-28141254fc83,2023-10-10,Sports,177.23,1.0,Debit Card,Delivered,3.0
+2b2fd44e-2a23-4d45-a27c-7fa2919f2a4e,de55df63-cf94-43c1-97d2-c054da0bf4ec,2024-05-31,Books,464.1,4.0,Debit Card,Pending,4.0
+ac10ae24-f7d8-44f3-8fd6-3c7b4e5005e8,154fd3f6-bb6e-4985-9707-ae08542a414f,2024-06-24,Home & Kitchen,158.73,5.0,Credit Card,Pending,4.0
+d60805a1-d107-46fb-8634-fcff28b8d48e,c91c6b61-df6f-4eb9-aff2-ff14401159e5,2024-06-17,Clothing,280.48,5.0,PayPal,Shipped,1.0
+419ce252-75db-46d8-8147-17a5f6866178,deb90ec7-2717-4ffb-827f-a7ae7eb7e818,2024-10-15,Clothing,41.83,3.0,Credit Card,Pending,4.0
+d1a005e6-46e8-4eca-ad7e-1526474ecb9f,e92119fb-1662-4a3c-8eef-ac33dddaaa13,2025-01-05,Home & Kitchen,132.64,1.0,Crypto,Delivered,3.0
+d613d2c3-9e60-40c0-aa3d-404746415733,5e386b0e-c46d-498b-b3cc-64f0645caf0f,2024-07-23,Home & Kitchen,254.85844200897483,1.0,Crypto,Pending,2.0
+f25df929-0ac5-4106-9f96-67e1f2475524,6430c549-0c46-4de9-bcfd-10a9bf312f2a,2023-09-08,Electronics,458.51,5.0,Crypto,Pending,3.0
+9064bc35-828b-4692-b419-471ec35f45f5,f851d807-6028-4bfa-9707-8a38fa6aa2e0,2024-01-01,Clothing,190.94,2.0,Credit Card,Pending,4.0
+ba50dc69-292d-45df-8208-2634daa3f6a2,6eb877ca-bf2c-4fdb-b6ff-0f3174ab5426,2023-08-17,Clothing,482.77,1.0,Debit Card,Shipped,2.0
+14c18743-43a5-43e9-900f-351de1b4b718,9c2b592c-285f-4adc-be26-fcddc919206e,2024-05-15,Home & Kitchen,134.09,4.0,Credit Card,Pending,2.0
+5155259e-4747-457f-b654-b7710f12995f,dc0d2324-22c3-4a2b-b687-5c7cbac5b7a4,2023-05-12,Home & Kitchen,75.81,2.0,Credit Card,Shipped,1.0
+9198bfb0-1ea6-4a91-9f07-a5957139b661,5db9f2ad-ffa3-4536-874e-d79c090a9a2d,2024-12-09,Home & Kitchen,170.54,1.0,Debit Card,Delivered,3.0
+7e08eeff-9135-4765-8739-b82569cb4a78,d04cf56c-841a-4535-ab6e-6859d6310f31,2023-03-25,Electronics,417.4,3.0,Debit Card,Shipped,3.0
+c223b0e1-92ba-41b3-82fd-7e4209d6a486,67865dd2-4aa4-42be-8e45-e71f3db5e58a,2023-07-20,Books,291.94,1.0,PayPal,Shipped,5.0
+cef04fcd-5023-476a-98fb-c078bec229db,c696a815-6e46-496f-986b-507311bc2a99,2024-03-25,Sports,402.67,4.0,Debit Card,Pending,5.0
+5febf247-c4c5-408a-97a8-ca469c109c30,34ecc5a8-8436-4d74-80ce-f5ae06cf7322,2024-01-31,Electronics,113.34,1.0,Gift Card,Cancelled,2.0
+3cf640b5-ef20-41ff-83cd-32a69be8f6b6,5c1afc57-b8c2-4ebc-823d-b52eeb48147a,2024-01-24,Electronics,131.64,2.0,Credit Card,Delivered,2.0
+0d9314dc-7304-46eb-88a0-71551c382bfd,0932f9ad-642c-4490-bfc4-b546d2652d1f,2024-11-16,Clothing,203.3,5.0,PayPal,Shipped,2.0
+5ea7668a-623b-407b-9d53-f179edaabf0f,39aea5ce-0696-4d25-b836-af908f0eacd2,2024-07-19,Clothing,193.09,1.0,PayPal,Shipped,3.0
+6be4f6c9-ac52-462b-9c95-f0c0d4c8a0be,6ced640e-83c1-4523-ac37-b48a9a8c88b7,2024-08-16,Books,187.66,1.0,Debit Card,Shipped,3.0
+c3a3ffe7-4093-4fd4-b310-e10a8add5bfb,9cf94289-dff0-4651-bc7b-c57a5edc21b0,2024-04-25,Books,254.71072557818434,2.0,Crypto,Pending,5.0
+954b9c8d-a124-4904-870e-9b624f38ed3d,8913245d-d4ce-4393-8202-0ccc40661eca,2023-02-26,Books,415.56,2.0,Crypto,Shipped,3.0
+8ed95c4f-d818-48e4-9598-1a11ee0061fe,8a0ba49f-345d-454b-9432-b4308b40583c,2024-08-17,Sports,71.38,5.0,Credit Card,Shipped,1.0
+d2f3583c-7a77-43b2-912d-818011a9497f,5269bd95-998f-4631-91d3-12db853f5cf3,2024-12-25,Books,254.85844200897483,1.0,Debit Card,Delivered,4.0
+44dd30bc-86a9-487c-9421-b2f0dc9fdeb1,9820515c-e793-4f7e-8f9e-eb2d137eb7cf,2025-01-11,Clothing,138.93,5.0,Crypto,Delivered,4.0
+30459650-e0bd-459d-a8d2-fcff613e4e33,81aee5bc-753c-4df2-a4c4-28eab5d43312,2023-07-23,Sports,386.86,1.0,PayPal,Delivered,4.0
+d2247757-ec3e-4f5e-b190-34340114e5e7,a72709d7-3ecf-4022-b383-9c55a3286b50,2023-06-21,Sports,116.92,3.0,Debit Card,Pending,3.0
+f8eb40c3-bd76-44ed-9c51-882f2e43a330,191890ac-391e-41a2-b568-882fe8bf1f45,2023-10-20,Electronics,463.67,3.0,Crypto,Cancelled,4.0
+0b0d3bec-98e0-4440-8573-77858e978d0d,c3378f98-52b4-47be-af19-6b386b28c604,2024-10-18,Electronics,303.0,5.0,PayPal,Shipped,3.0
+2b1b5ad3-e58a-4db8-b483-7b90b343375b,6498aebe-86ca-43cf-afca-f4a8233f006a,2023-04-16,Books,476.36,5.0,Credit Card,Delivered,1.0
+10d3c2b7-a0a3-4859-928a-5a2b75268348,58c9cba3-5939-443a-b7cb-0f64ff6bf21e,2023-08-21,Sports,45.43,1.0,Credit Card,Shipped,5.0
+00fa8da3-553f-4ac8-9fe3-f651acd6a477,653c6b34-c1fd-4049-9679-ad314cc1a4a3,2024-08-30,Sports,399.91,2.0,Crypto,Delivered,2.0
+c5c40462-8168-423c-9ad9-d39b2d6a1227,a1b6869f-ae92-41ff-b613-5a2388caa2be,2024-04-24,Sports,306.56,2.0,PayPal,Shipped,4.0
+27d59603-525e-47cf-81b4-d41abd9c97b7,cf64dab1-1f00-437b-b0c9-bfb1c6bf1487,2023-12-11,Home & Kitchen,118.1,3.0,Credit Card,Delivered,5.0
+298119a4-f327-433b-8e9f-c2dbe42e2366,12a3177a-d9b4-4936-a3df-1348c95f1282,2024-04-29,Clothing,7.66,1.0,Gift Card,Pending,5.0
+3c10c578-1b65-4986-b70c-d8ed4e1891b6,0a3dce10-498e-45dd-9f72-6d27be96efd7,2023-08-11,Electronics,254.4152927166034,4.0,Crypto,Shipped,1.0
+ec79ac44-3ff7-499d-806b-0f35f7efcd79,57295d10-b208-406c-847c-0e39041424e8,2024-03-09,Books,124.29,5.0,Crypto,Pending,1.0
+7d8b0c4b-2b92-40cf-a1ae-d0d3b1f0294a,c88512c6-19e3-4ec0-861b-cfbdfd33b947,2024-02-15,Sports,233.51,5.0,Crypto,Delivered,2.0
+90c8355e-6632-43a4-8200-157abe271a0a,0d27e54a-2c28-4ce1-884d-1fde71ef4f63,2024-12-27,Sports,17.08,2.0,PayPal,Delivered,3.0
+e399decc-03c7-4691-850d-2cec06fe3f8c,927a6f63-64c8-482b-990c-a780da744e92,2023-12-28,Books,86.2,1.0,Debit Card,Pending,3.0
+55a59f3c-31bd-49df-ab13-0f25aeefe797,f466349d-b272-4121-a88b-9d2799c663d7,2024-07-21,Books,336.02,4.0,Debit Card,Shipped,3.0
+44f4017f-88fb-4ac6-a0d6-45954477de2f,50442939-5625-4f58-ab6f-e9b417d6ce82,2023-05-10,Sports,398.06,4.0,Debit Card,Shipped,3.0
+cfa3da8a-47cf-4958-96e9-69db504c0bb3,1d0a3071-2083-4e70-83fe-74e1bfec6338,2023-04-16,Sports,387.34,5.0,Credit Card,Pending,2.0
+ca4085fc-2896-48bd-87e0-a9633d2154cf,c4ea2a90-c4ae-45bd-ad13-a3463356aeca,2025-01-12,Electronics,434.75,5.0,PayPal,Shipped,3.0
+0548eacb-e406-49e3-89d1-9832329f26de,b581eafe-ec31-4d52-ae66-92655b26b1ab,2023-08-18,Home & Kitchen,324.06,5.0,Credit Card,Pending,3.0
+dcee7e3e-eda1-48f8-9b8b-8ff4324847ed,0c1cdc84-adf6-4f78-a66c-663c6e9630a5,2023-03-12,Books,63.05,1.0,Crypto,Delivered,3.0
+a9828387-0e40-4925-9903-788dd9e6c468,a9eb49a1-ea5c-4b74-b31f-4379137bd415,2023-11-21,Home & Kitchen,110.93,2.0,Debit Card,Delivered,1.0
+20e8d0a0-1079-4106-b902-89f5d5dfe378,5c64324f-f308-4834-a4ca-061b40fdda36,2024-03-23,Sports,328.21,2.0,Credit Card,Shipped,5.0
+dd8a9b79-e95b-43d1-bc5e-d1f1431412d1,549ed781-e8df-4510-9531-3cc923b8963b,2024-02-02,Electronics,436.94,2.0,Credit Card,Shipped,3.0
+d11c2c08-3ffa-4fef-85e0-cfc7b9abcb79,b3ed3504-96ad-4a0c-9de6-d901546ea1d3,2024-02-14,Sports,354.88,5.0,Crypto,Delivered,3.0
+0fb55d65-3e27-4be3-aa84-65b39ef1a0e3,dfd77218-bd91-46b9-bfc4-fbffa91a1786,2024-07-27,Clothing,232.27,4.0,Credit Card,Shipped,1.0
+7a23175f-3e3e-46f7-aeca-cea0acb88fba,b4bbbb51-22e3-4e5c-a780-16cbf70ebdeb,2023-06-11,Electronics,409.49,2.0,PayPal,Shipped,5.0
+2348dab4-d072-4db8-80d7-c772eb9ee97b,a3353876-bfc9-4a5d-a9c3-42d48a41afcc,2023-12-13,Home & Kitchen,127.84,2.0,Debit Card,Shipped,5.0
+c1e3afe8-80f7-4c99-8e45-fccaa4b663a3,b89ae7da-5c23-4c5c-850a-29920b7829fd,2023-09-29,Sports,336.02,2.0,Credit Card,Pending,5.0
+41251326-cfbb-4c6a-965e-9838b2e0a798,7d325a2c-57c8-4c7b-b575-3610973bb8b5,2024-12-09,Electronics,160.09,4.0,Debit Card,Pending,3.0
+4af814c1-f043-4716-8508-6fe2042bc2b2,39b133ab-8123-416d-830e-7a50d28b48e7,2024-04-09,Sports,111.53,5.0,PayPal,Delivered,4.0
+d0536470-7b17-4d19-9a4a-0a3dba5e4043,365d2478-5aa9-4b83-92de-d46e63a66321,2023-06-04,Home & Kitchen,44.76,4.0,Credit Card,Pending,1.0
+6d12e0ea-06f3-419e-b45c-11abc7b75e27,ffa3766a-900f-45a4-8eb7-7a5f519edafa,2024-08-13,Clothing,21.88,5.0,PayPal,Delivered,3.0
+2eefa084-dc3c-4794-b718-144670786f8a,b009303f-5fc7-4e2e-a945-5fb4ad4e799e,2023-03-30,Home & Kitchen,300.83,5.0,Debit Card,Pending,3.0
+8f29ce44-e70d-4d8b-8298-f22b925a162d,ab32ddde-e33e-4b77-814a-8954576b811f,2024-10-28,Clothing,245.85,4.0,Credit Card,Shipped,1.0
+4705f546-ae35-4e6d-8e7d-1be47ee94212,34dd9f4a-e68b-4c44-9c45-294603ba9e92,2024-09-07,Clothing,357.09,5.0,PayPal,Shipped,3.0
+01ec825b-1193-4b43-b703-93c1d2a570c3,b910ce8e-b319-4ccb-9bc9-495ebbfed27d,2023-05-06,Home & Kitchen,27.36,3.0,Credit Card,Pending,2.0
+cb43c9de-aa3d-4b3d-b538-17fb203a3304,6c914395-89ae-42f1-87bc-3a42ffabc1b8,2024-03-26,Electronics,377.74,2.0,Debit Card,Delivered,4.0
+a873e947-09a9-46c9-9ad7-4bad6d09e340,fb20a474-e495-4d71-9266-2580f02f125e,2023-02-25,Home & Kitchen,23.11,1.0,Debit Card,Pending,3.0
+a920413e-b7e5-4509-b8de-5d68c19c6a4d,8ff87396-b214-4c30-b5a0-134d31a306dc,2023-03-27,Books,220.13,2.0,PayPal,Delivered,1.0
+bd913a2f-bff4-4603-8e2f-b7af188dc4c5,0df99f21-6ef7-4d05-9c9c-b585ac38cd2c,2024-12-18,Clothing,273.1,3.0,Crypto,Shipped,3.0
+baa4fae3-42ff-4edb-9cf4-ec72e86a166b,217b4693-ac1b-4c8e-9884-ca5db216758d,2024-10-13,Clothing,11.47,2.0,Credit Card,Pending,3.0
+d96d5076-e118-4915-8fe8-b0649ab992ae,3e2bd471-1585-4fb1-a3cf-384cf75cf360,2023-02-22,Books,212.39,3.0,Crypto,Pending,4.0
+ff379fa3-82b2-448b-bcea-105574b4f3f3,14f350e4-3111-4445-82e2-da34f99786aa,2024-10-10,Electronics,254.56300914739387,3.0,Gift Card,Pending,3.0
+ad05d889-eac8-4316-a0bc-8a6992a51bf5,6d03dad7-5043-4ccb-b14b-71d80e685e63,2024-09-12,Sports,477.89,1.0,Credit Card,Shipped,1.0
+a10a8392-d222-4b6b-bb78-54907522d3b9,1c94b778-090f-4b7d-ba30-6bf93e0b59f4,2024-08-21,Clothing,392.31,1.0,Debit Card,Cancelled,5.0
+9d0b9255-6c24-42cb-9782-15eb9facf32d,5b3273b0-466b-4af9-a968-c6560f8d64bd,2024-01-10,Books,460.29,4.0,PayPal,Shipped,3.0
+2ff26988-df2d-4573-8252-51ca66363345,709349a9-8307-4065-9478-9a812f4125ed,2024-02-25,Electronics,42.83,1.0,Gift Card,Delivered,4.0
+6700dc86-0a98-4ee8-b38d-8fbd1f2b8cc7,74f15086-f517-41a5-959a-80d424c0917c,2023-10-17,Clothing,173.1,1.0,Crypto,Shipped,4.0
+d7c32b9b-83e7-4a83-9420-a0aa0a09741c,1654a67d-624a-4f6f-9142-66b582edb27e,2024-04-22,Sports,254.71072557818434,2.0,Debit Card,Delivered,4.0
+e982ed65-e6f6-4760-b2dc-15d7a803557c,b165e5a6-c0f5-49d2-8942-37ac191a2cbf,2023-08-29,Clothing,254.85844200897483,1.0,Gift Card,Pending,3.0
+aa357519-2fc8-4385-81eb-2c2389fd2712,c9c7e849-23f7-4f28-950e-d229279187bf,2024-01-01,Sports,216.73,3.0,Gift Card,Shipped,4.0
+55b0c709-f9f4-4f47-a0f9-bf854f4bf479,5598724c-f7f8-4d5f-aae2-d6f76ecd32a9,2024-05-02,Books,162.89,5.0,Crypto,Shipped,3.0
+c5d96378-bdcc-4edd-8d7d-8ed3b93bbabd,5e76aa40-1b04-49e7-8aa6-2561fa4186fd,2023-12-03,Clothing,254.56300914739387,3.0,Crypto,Shipped,5.0
+fad59264-affb-4a67-abd0-62b4c2e5c757,cc485a77-7f29-44b9-95d7-7662abb854bb,2024-06-16,Electronics,159.89,5.0,Gift Card,Shipped,2.0
+7b4731fe-3ff1-4151-b292-e933fe12e89c,3ca586d2-f671-43de-b687-93666e95539a,2023-06-01,Electronics,396.25,3.0,Debit Card,Pending,2.0
+ef5126c2-0c58-4c87-a146-eacce9cdaf12,9678677e-4d84-4cca-b60e-f37ef335f5d0,2024-01-17,Electronics,362.88,1.0,Crypto,Pending,1.0
+762d9106-1cb6-4591-8f9e-a02835f0a06d,9336e7f7-2687-44d8-812f-81cb19996058,2023-11-25,Electronics,55.86,2.0,Gift Card,Shipped,1.0
+bf12ce67-3f82-4fdc-ae0f-8fa54267356f,00dd5cd2-4b0b-46a4-95b1-e7b9eaf02d71,2023-04-15,Books,258.58,2.0,Crypto,Shipped,1.0
+3dd8dfbf-8f11-440b-8ca2-ddf6ccd40647,7e257530-e38f-4ca0-9897-f63efe71d2dc,2024-09-20,Clothing,364.06,5.0,Debit Card,Delivered,3.0
+db52a071-65a0-4bca-9139-5b121ac0e396,1883d417-b325-4020-9a14-ba17f0e0e4e1,2023-07-05,Clothing,23.95,3.0,PayPal,Cancelled,3.0
+e30885e4-9328-4566-9205-4b7df35a5060,861b4298-a1e7-4bce-b1d8-f7e72e1b2b87,2024-12-16,Books,426.91,4.0,Debit Card,Pending,3.0
+52c6ff5e-c452-490d-a7bd-3a5e9f13d33e,3074b8f3-a798-4d83-9967-96ffa5875bdf,2024-10-06,Books,154.41,3.0,PayPal,Shipped,1.0
+b831f6a8-3e42-45b6-88ba-86090dcffa48,33674b8f-69c3-4926-baa7-cb437688b606,2023-11-11,Home & Kitchen,198.48,2.0,Credit Card,Cancelled,5.0
+5c4ca43a-9ee9-41bc-9c07-52144cdf7bc6,b18a5138-50dd-4b39-866f-e8bf72b7ab7f,2023-05-27,Clothing,110.83,3.0,Gift Card,Shipped,2.0
+299ebcfa-34b7-47eb-ac0d-33d634f6753e,ada4248b-1a76-4a00-8b9a-4572f69a4942,2024-05-21,Electronics,404.11,3.0,PayPal,Pending,1.0
+4596f4e5-f252-4382-8f21-a6cb64500ba1,37beea47-d27d-4bc4-9f41-53f744139c54,2025-01-17,Books,254.85844200897483,1.0,Gift Card,Shipped,2.0
+f75005c5-734d-47f3-83ea-319298d64f5f,0347f193-ee3b-45cc-b189-4cc5db954914,2023-11-13,Home & Kitchen,254.4152927166034,4.0,Crypto,Shipped,3.0
+5a690dce-0496-4cf9-88aa-7090ce8024aa,dcf31b82-cb50-4d3e-ab13-1f1484abd0db,2024-08-19,Sports,64.02,4.0,Credit Card,Delivered,4.0
+b265709a-e50a-49d8-95b0-2499b319d6d1,7574acae-5246-46e5-86e1-c3305a5f24f3,2023-11-15,Home & Kitchen,146.0,2.0,Crypto,Pending,5.0
+b8d0f138-91e3-44b9-8a87-de190d4fe1bb,f87d7832-3e99-4ff6-8500-8cad357adc42,2024-02-14,Books,310.5,3.0,PayPal,Pending,3.0
+dc625db9-ea0b-4f2a-98cc-5e5eace44d15,4977f02b-a76d-4581-b92a-b59a455e88ae,2023-03-17,Books,429.5,5.0,Credit Card,Pending,5.0
+4a6c4927-b705-4184-aaa7-bf5e293f98f8,c41a25b8-b7d3-4710-946c-7064d1069e92,2023-07-09,Sports,370.81,1.0,Debit Card,Pending,3.0
+fe2a71b9-a566-4c9d-ba37-1584748d0dfc,8e5476b2-eff8-4f64-9015-0ef07c59a5ab,2024-04-21,Sports,136.7,4.0,Debit Card,Pending,2.0
+f6d2de59-0a22-46cd-b080-ebbf71fa361e,8faa3300-abb2-4892-90c1-a68ce9a6b6b6,2023-10-10,Clothing,253.89,1.0,Crypto,Shipped,2.0
+91d32868-05c9-4e13-b992-30709ca3b039,b028864a-2754-45b7-b486-388986988e75,2024-02-21,Sports,376.49,3.0,PayPal,Delivered,1.0
+c6986303-f7cc-4248-af9f-2701d5c53278,01e8c2f5-4b29-49c5-9dbc-3693ef784a44,2024-08-31,Home & Kitchen,158.41,5.0,Crypto,Pending,4.0
+58832a19-050d-4155-97ff-9f3a665ef6ac,46a316a8-f051-4806-924e-1e3ec32261a8,2024-01-13,Books,139.0,2.0,Debit Card,Delivered,3.0
+027a89ab-14c1-461e-b310-6340bd67c1d0,cede5268-55dd-4f4b-bd6f-666e50284879,2024-08-09,Sports,144.52,3.0,PayPal,Shipped,3.0
+da7f1b13-df12-478a-9419-4b744aabec82,3892db3e-5829-440d-a26b-ce7d4e2bb2c1,2023-10-23,Clothing,113.12,1.0,Crypto,Shipped,3.0
+c00b21f2-f2ee-44ea-a00a-0738324da100,93d01d30-c14e-48cc-85b1-2f6ca8e5e716,2024-10-14,Clothing,324.51,3.0,Crypto,Delivered,1.0
+bf68080b-496a-4b43-aadd-a60178494a9d,67acdb35-438b-48e1-95fc-27e4f079102a,2024-12-13,Clothing,483.18,2.0,PayPal,Shipped,5.0
+ad0e886c-78f6-4024-a41c-4fb60ec76919,2b2efaff-a085-4f10-a0a1-42004ea255a1,2024-11-07,Sports,282.03,2.0,Credit Card,Shipped,3.0
+3807a082-76e6-4a4a-8e55-843321a47ca2,c90e6d72-4be4-42f0-8db5-45a0bfde32b8,2023-09-17,Home & Kitchen,453.61,3.0,Gift Card,Shipped,3.0
+d1dc9b0a-0f1a-4e52-8218-30d0c5df380c,c9954024-87dd-4190-ac3c-5d71c7a2d30e,2023-04-08,Electronics,342.1,4.0,Crypto,Pending,1.0
+dec11803-1984-4263-b828-2cbb1c6239fc,743af2f6-92bb-4413-97f5-4ebdef924bff,2024-11-28,Clothing,35.65,2.0,Debit Card,Delivered,3.0
+7067db62-377e-4e05-bacc-0d5f6ac56b03,7bf7e820-5a72-4178-8e67-78b3ce068f26,2025-01-12,Home & Kitchen,245.84,4.0,Crypto,Shipped,5.0
+8a67d4ad-7d54-4f4b-b836-24b1e4220ae0,920a4841-f156-4bb8-9580-9dd1106b75c3,2023-06-27,Clothing,473.01,2.0,Crypto,Pending,3.0
+408e1c41-9ef2-4614-93bb-b18fa82e35dc,123322d3-ae8d-4504-94c5-a31e87645a62,2023-07-24,Books,245.97,4.0,Credit Card,Pending,3.0
+f4785fbf-bc61-4dce-97e2-8be342b1ce52,ab878f0c-fdc5-43e2-a0cf-abd6fc9df602,2023-08-25,Books,254.26757628581294,5.0,Debit Card,Shipped,2.0
+d2cfef6f-9591-4279-9413-e45a6c175161,9086109b-f083-43d1-a281-91fc7d7b0b2d,2025-01-03,Sports,322.95,4.0,Credit Card,Pending,3.0
+fac89e8a-637b-440c-9b93-f40c157848ab,d150db2a-5b76-4209-b206-e8fc9dea0cb8,2024-06-22,Clothing,89.84,4.0,Debit Card,Pending,3.0
+215e9e88-6e5d-4d65-8958-4cf71a61546b,a6c89db7-9710-4934-9bb2-3ef490a245d9,2023-06-19,Sports,368.73,1.0,Debit Card,Shipped,2.0
+cf3190de-8dc2-46c6-bc94-32eab8ab2df2,777b5dfb-4f15-46c4-ba1b-cb35bf2c4fa3,2023-09-06,Sports,443.67,1.0,Credit Card,Pending,4.0
+56846d82-a599-4847-91fc-8ea3f32b446e,f4e3d5f0-56a0-46a7-a9df-f5d1aa6df4fe,2023-06-21,Electronics,286.04,1.0,Debit Card,Pending,5.0
+eccee75d-326f-4ff2-bcf3-d956a0a9ad9a,965ee59e-f2fe-4512-b8a9-5112ff046d21,2024-10-28,Sports,286.12,2.0,PayPal,Delivered,1.0
+fcfa8d1c-4907-4374-9fc2-eeab41e72c40,5e08e842-6f4f-438d-a80a-456648fa8734,2024-10-12,Clothing,379.07,2.0,Debit Card,Delivered,2.0
+5f9f2f53-4f5d-4c9b-ae3e-7147cf378f67,74bd1474-200d-4326-80be-7b82168c39d3,2024-06-26,Sports,8.89,1.0,PayPal,Pending,1.0
+041427a9-33a8-4aac-915a-03d3c326d1dd,a1e50027-5b3c-4536-b8fb-cd049c0ab4f6,2024-10-10,Home & Kitchen,390.33,5.0,Credit Card,Cancelled,1.0
+14941025-7664-40ec-a871-92b3ef4a7a35,f1adef51-c6fa-4482-badf-5e570b12a54f,2023-08-13,Clothing,412.87,1.0,Gift Card,Pending,3.0
+b259a4fc-ae7b-4f00-bc70-f7b5d5e9afa3,4ac3bffc-d3a4-4093-933f-be09a991557b,2024-12-07,Home & Kitchen,174.09,4.0,Debit Card,Shipped,1.0
+265c397a-64f9-471b-b680-d23de2dbce43,01a85d43-4b42-4473-82ab-d892c98f540a,2024-02-29,Sports,415.67,4.0,Debit Card,Shipped,2.0
+f4961461-dd1b-45a8-abbb-b7a2b2e4391e,702cfef3-d63c-46fa-b94f-97214d2b517f,2023-10-29,Home & Kitchen,187.94,2.0,PayPal,Pending,3.0
+09ac75b9-4df2-4326-bf99-07a748258f2c,24fdcbd0-6217-413f-8c5c-f55e8b5d42bf,2024-09-23,Clothing,285.65,3.0,Credit Card,Delivered,3.0
+9e902689-74e1-49d8-a42c-2dca84e7cf2e,ffa5487b-1d3a-467b-963e-6485597ae0d1,2025-01-07,Electronics,130.65,5.0,Credit Card,Pending,3.0
+aa4bbca6-1d84-46b2-93e7-b06e19c4cbb1,9c19a779-6a1b-4027-992c-26809d12f5cf,2023-10-28,Sports,140.4,2.0,Credit Card,Shipped,2.0
+9a54161d-80df-4533-87a8-983b38467a78,c071d1e4-5d85-48bc-a5c9-c1baa519f03b,2024-03-22,Clothing,235.04,3.0,PayPal,Shipped,5.0
+07d3f832-484c-4037-90c1-e62aafd76f5a,3dfaa6b4-746e-418f-a5f6-5896794f79c2,2023-06-01,Books,438.99,5.0,Debit Card,Delivered,2.0
+24b50cb5-43b5-43fd-b0a5-5ca1ce0e4f96,bdb76a36-c731-4a07-b5cd-288c84f7c0d1,2024-05-12,Books,313.48,5.0,Debit Card,Pending,3.0
+9b7b6b79-731f-4d50-8a9e-b4b3d685481c,0c2571f3-5c27-454b-a8ae-ca486eba79f9,2024-05-06,Clothing,293.34,1.0,Credit Card,Pending,4.0
+ed01c989-498b-4be8-acd3-49e489b5aa4b,b7a8c89c-bef1-497a-ae1d-c0aa1ea0aeb2,2023-08-22,Home & Kitchen,139.27,2.0,Debit Card,Cancelled,4.0
+db082baf-96ab-4467-9ae0-e3fb1049626a,99a2d11d-9482-4d35-a91c-24c547d30340,2024-01-18,Electronics,235.59,1.0,Gift Card,Shipped,3.0
+a7d1384b-12ff-47cf-9171-584ab424f14e,73adb6ac-2ff8-4794-838a-2ed7e9ea8a48,2024-05-07,Home & Kitchen,18.84,3.0,Debit Card,Shipped,5.0
+cc84366d-7ec2-4f69-ab9e-ea991aa205e3,ba46b2bf-e7dc-4a35-b9dc-75ff441684c4,2024-04-07,Electronics,339.37,3.0,Crypto,Delivered,3.0
+aca60135-0ef9-4473-886c-39ef2835e6ce,0607e440-ccb1-4809-8b6b-6a0c6710b73a,2025-02-13,Books,288.14,3.0,PayPal,Delivered,4.0
+6d6f7529-34c1-4e31-8b2d-2bf3eb5fca03,269bbaf0-1135-4b2f-91c5-ff1639d37f69,2023-06-03,Sports,254.4152927166034,4.0,Debit Card,Delivered,5.0
+f5760aba-3c3f-42d1-bc99-fa1e7142b59d,7f91bb66-8e0d-4f6f-a11c-2e3fbfcf7bdd,2023-04-07,Clothing,187.71,1.0,Credit Card,Delivered,3.0
+a0159d06-09ea-42ac-af94-a150664f3d2b,eae12290-7fde-401c-b1cc-c596ae64213c,2024-03-11,Home & Kitchen,154.54,3.0,PayPal,Shipped,5.0
+b51a7878-3e36-4d81-ac9c-731cfa675546,91acd74d-4d6a-425d-b9f5-ca5db4aefaf4,2024-08-15,Electronics,18.59,4.0,Credit Card,Shipped,4.0
+ff89cdf9-96a6-4476-84f0-c873dc49435f,353ac009-dfc2-4a9f-9b11-01058d19b291,2023-05-04,Clothing,262.53,5.0,Credit Card,Shipped,5.0
+bdf5d46b-9bee-4071-9d4c-1072ad4f6a5d,4a60077a-fefe-418f-b1d0-aa4062495a0e,2024-06-11,Clothing,448.41,4.0,Debit Card,Shipped,5.0
+eb864545-e322-428f-9bf8-ad8c84df0873,fc662bdf-013a-4168-89d8-dd1634f5b7fe,2023-04-23,Home & Kitchen,406.31,4.0,PayPal,Delivered,3.0
+4215389f-4a37-4a11-acec-3073c8393d0d,a2d5d897-f18a-40e4-b3ec-4d804c51a208,2024-11-01,Clothing,13.34,2.0,Credit Card,Pending,2.0
+527b18c9-5760-45a2-b7cd-9d803f99e526,d972cf48-52cc-4ffc-9ceb-3df79efdf6ee,2024-12-17,Books,167.81,1.0,Gift Card,Delivered,5.0
+6e63a886-4e24-4ff7-bdd1-4767b97d7340,c1a449f2-fa71-4036-8071-040d399bfb88,2023-04-20,Home & Kitchen,254.4152927166034,4.0,Debit Card,Pending,1.0
+4fe3075f-01f7-4fb4-a350-a22e5919df62,234afc89-9895-4543-b69f-7508870c26c1,2023-12-18,Home & Kitchen,277.65,4.0,Gift Card,Pending,2.0
+9a76491e-7964-46da-b278-22b2fb74a6d6,6d6f4611-97e2-4a79-bb14-dde57190df80,2024-12-26,Sports,393.76,3.0,Debit Card,Delivered,3.0
+b351deec-8273-40c9-b848-8ac00878178b,e0df7126-e2ee-47dc-8438-0863e0a815b0,2024-02-04,Sports,209.76,4.0,Crypto,Cancelled,4.0
+ce103158-55fe-489f-894c-84cd5d02adb3,3d0ccc75-7d59-4fe2-8eec-e08014d5cb2f,2023-07-20,Books,279.47,5.0,Crypto,Shipped,1.0
+38af8b1f-e88f-4a87-95d8-b80db8772e6b,5952623c-dcc7-4540-872c-028a0fff3718,2023-07-05,Books,318.02,4.0,Gift Card,Shipped,5.0
+9e1173e2-5949-4ef4-a8b2-84cfe7bb90af,8e93425c-4a58-4ece-8959-613ac7a08184,2023-10-08,Electronics,43.0,4.0,Credit Card,Cancelled,4.0
+069b41ff-61fb-4ef2-b3a1-f3020515bc5f,1ed55fd6-d389-49f9-a489-56265e185ac3,2024-01-29,Books,36.08,4.0,Gift Card,Pending,5.0
+6e341bd3-dd53-4069-a71c-16e82c64e08f,d7ecd201-69aa-48bf-8a4c-8dad39c545f9,2024-09-05,Electronics,375.35,3.0,Debit Card,Pending,5.0
+537b8671-5bf7-4bd7-bd9c-a66ffce15307,3fe1b130-cbed-410f-a91f-a8caa4c58c44,2024-07-29,Clothing,224.69,4.0,Debit Card,Shipped,2.0
+8564a1a9-2f44-4eea-9eab-473c0ea6aa18,1cb62c23-c22a-4c4c-9df0-7edb491d01ff,2024-10-29,Home & Kitchen,45.33,2.0,PayPal,Pending,4.0
+b3d978ff-7b00-4466-8da9-e1c12825e91f,179ba473-1ea4-4cf3-8abe-bda9cf5004bb,2024-08-25,Books,22.98,1.0,Crypto,Delivered,5.0
+0ca170ff-4f60-4d77-b26e-f5981c50012c,15a27be1-bee3-491e-a87c-5cb52127314b,2024-07-20,Home & Kitchen,376.22,5.0,Credit Card,Delivered,2.0
+766e97b6-2279-4a59-9cbb-b92ffc50ffe7,b8f358fa-d1e8-416d-a504-81f39d6e6b35,2024-02-02,Electronics,254.26757628581294,5.0,Gift Card,Delivered,1.0
+79415061-5da4-4531-985f-5ac48dfabe5d,985aba4d-73f6-46b2-b217-7fbc1327d626,2023-08-17,Home & Kitchen,355.02,2.0,Gift Card,Shipped,2.0
+280f9fbc-2a1b-49fc-ae2c-8df84a97400c,14609b7d-e25f-447c-bbac-ab0eab1350a3,2024-10-05,Home & Kitchen,361.93,5.0,Credit Card,Cancelled,3.0
+41d9ca08-6589-4b73-a468-17596bb6bb80,d89e0e67-1e55-434e-b9ff-16dcfdca8ca2,2024-11-12,Electronics,217.48,1.0,PayPal,Shipped,4.0
+13c847da-6bac-4b15-bc50-23a3a8287771,64322c40-8269-4ac1-b595-5f59f68e87db,2023-10-16,Sports,210.84,3.0,Debit Card,Pending,1.0
+d575de1f-2e77-4499-b93e-ebd97b617d15,e810bf59-f279-4e19-b6e5-3e94bfa25d69,2024-04-07,Clothing,396.4,3.0,Crypto,Pending,1.0
+24930139-a051-4252-b519-2c1b228d9971,0ac25992-676f-4496-9afa-71d83f0c8f2e,2024-04-20,Sports,362.27,1.0,PayPal,Pending,2.0
+b79ef7e3-1486-4424-b9a5-af466a250fdf,25201ab2-c3df-4cec-84a0-a23ab8351dc8,2023-11-21,Books,350.14,5.0,Crypto,Pending,3.0
+bceb5dab-ee71-4d29-b653-2568b06c97ac,3f9c2cdf-1813-40d2-b110-189fd4a049c0,2024-03-09,Sports,334.76,1.0,Credit Card,Pending,4.0
+0bf29768-2536-4961-88ae-a0268d113135,cca51f50-702c-480e-b62d-a85e30d92543,2023-11-05,Electronics,393.95,4.0,Crypto,Pending,3.0
+518bf7ac-5d25-4e00-83fe-273e95d9759f,7ed317be-cb1a-4685-9374-0468d12cd58c,2023-03-06,Clothing,239.25,1.0,Gift Card,Delivered,1.0
+11147d70-12cc-4193-a346-f8709c9b1798,ef54dd67-4b93-4441-84af-03bf9490f4d7,2024-12-20,Sports,114.89,3.0,PayPal,Shipped,1.0
+9cdec949-5892-4ae3-ac24-5bedea03e693,4d1349ef-4226-431f-943b-529eaffd60ad,2024-10-29,Electronics,219.37,1.0,Crypto,Delivered,3.0
+2f7ec58b-da0b-43d7-8a25-a4c7cd5f19ff,c4b0fce0-b9ed-440c-ad43-528e699523e4,2025-02-09,Sports,143.89,3.0,Debit Card,Pending,3.0
+37696d9c-7eee-4eb7-bb95-9b6b9c66259c,541096db-0d69-4997-bd5f-e7087cca0afb,2024-01-04,Electronics,394.97,2.0,Debit Card,Pending,4.0
+7834e1fe-9b94-4937-8111-74dcd768a1cb,e7ca7f26-2871-4912-a3e7-a87a3f1d4d61,2023-11-10,Sports,298.23,1.0,Gift Card,Shipped,1.0
+cdbf1e8e-b2be-4d84-ab40-59fb291c5139,de00c331-f3d0-433a-aa4c-a66497951d5f,2023-04-02,Books,254.85844200897483,1.0,Credit Card,Shipped,1.0
+2b24dde3-a90e-47bb-bb7e-68f80fa50394,202c7845-08b0-45dd-aa9f-f306a2b32fe4,2024-08-25,Sports,170.28,3.0,PayPal,Shipped,2.0
+ba17a07a-b893-40a1-bb80-8aff647c9076,417d27d0-08e7-4d4c-afbf-b50836626fc6,2023-11-04,Home & Kitchen,404.35,1.0,Gift Card,Pending,2.0
+37cdbe33-ed7c-4f79-af40-658421207586,b9069b6b-68f3-4c89-ad03-cdf47193b99e,2023-07-10,Books,254.85844200897483,1.0,Gift Card,Pending,4.0
+3a0a0723-da92-4df2-b0d9-5c39f8b98893,74582498-2788-4212-8b17-75449db68a51,2024-06-18,Electronics,359.08,1.0,Debit Card,Delivered,3.0
+89a7facb-4889-4798-8f32-a59c351290bc,768007ce-0484-46e2-b3db-2a5546d5b93b,2024-03-29,Clothing,322.98,1.0,Crypto,Shipped,3.0
+740cef66-8901-4307-8eb5-eae76fc1dcad,71fc3ebc-03e3-4885-9afc-39b4e65c83c8,2024-08-06,Sports,433.27,3.0,Debit Card,Pending,3.0
+ea6ec3ad-ef82-4afa-b9b8-ef05ccf1f130,2dc9b7bd-ff87-4786-9ab6-eb2d9b4c6451,2023-07-15,Home & Kitchen,294.99,1.0,Debit Card,Delivered,3.0
+c9795b29-7a62-4c3b-9422-eaa264d26828,9eee9476-27e0-4ede-8406-78e61149a8cf,2023-04-18,Sports,16.03,4.0,Credit Card,Delivered,3.0
+34961124-31f5-4400-b3c6-10d8f1a20b29,6ec61858-dc14-4c83-af9c-d0ab4cdcd9ef,2023-10-20,Home & Kitchen,391.23,3.0,Debit Card,Shipped,3.0
+9253544d-997e-41e5-b5db-e097a68022c3,e6d20e46-04f1-4c70-9359-a596af7abf5e,2023-10-02,Books,226.58,1.0,Credit Card,Cancelled,1.0
+6b2e2bc6-53bd-4082-8b01-f39d213377e8,c240adc5-f2c8-4d58-bfe2-a0013ffea60b,2023-10-26,Sports,40.16,2.0,Debit Card,Shipped,3.0
+b4ba8852-581d-4ee8-9fdf-f3c1d55a56c9,5e913e45-8769-4247-b984-76bc44821562,2023-12-17,Books,457.6,3.0,Debit Card,Pending,3.0
+1b9f1493-acbc-4cec-9dc3-489ee2ef8db1,9b56b943-efd7-49e2-8760-946df4db8b46,2023-06-23,Electronics,254.56300914739387,3.0,PayPal,Cancelled,3.0
+f0ba8057-8ecb-45e6-8680-45ff3d8a3dee,272f23ba-0483-4de5-8e29-105915f63d8d,2023-09-23,Electronics,455.77,2.0,Credit Card,Delivered,4.0
+d5120f93-92fa-4d2c-95af-fcfbfc0b6175,310c74ff-7c46-4eec-b3f6-3fdd8419e022,2023-03-08,Home & Kitchen,254.56300914739387,3.0,Credit Card,Pending,1.0
+4866fe44-cb65-48f3-bc0b-ba0bb60373c8,ff14e157-c427-43f0-bab0-ee0a784c2007,2023-03-17,Electronics,413.52,5.0,Debit Card,Delivered,2.0
+6af05d66-2c61-4e3e-a1bf-6b27c4bf0be1,7a837d6c-1e51-4b31-9462-954433bf08ec,2024-09-09,Home & Kitchen,105.05,2.0,Gift Card,Pending,3.0
+9fd465b8-2f03-4c34-a2bd-3257323284e1,3c5748a9-932f-479e-851a-46025c3ddfae,2023-12-18,Sports,365.12,5.0,Gift Card,Delivered,2.0
+72368c0a-87db-46fc-9ce4-f0ad77c45ff0,78913ec5-ba55-4fd3-87d0-d9beac783abf,2024-01-13,Electronics,117.4,5.0,Debit Card,Shipped,3.0
+789e93e3-9fe0-47e0-8c7f-4ec47d2f9afe,641f1893-4581-45fe-8510-372a48e03588,2024-10-22,Home & Kitchen,89.28,2.0,Debit Card,Delivered,2.0
+3393ea0d-9aaf-4224-849e-e4495a174893,11f0536a-69fb-4150-9293-6de033f721af,2024-11-07,Clothing,173.03,5.0,Gift Card,Cancelled,5.0
+3d1e2642-4371-4569-8845-909c10293073,63e3a4c3-cd6f-4a35-8e28-01cf5ab88c9d,2024-06-11,Home & Kitchen,128.55,5.0,Crypto,Pending,3.0
+47419a19-2214-42e4-8299-91635255beb5,bb8a7c73-6ea4-468a-ad23-ab5f6979d7c0,2023-05-31,Clothing,427.06,2.0,Credit Card,Shipped,4.0
+a25805d8-0558-47c4-8a79-7fd1754834e9,00b9358e-e988-4de2-a5b8-c5ec25b035c5,2024-02-21,Clothing,302.83,5.0,PayPal,Delivered,3.0
+169f49a4-8dbd-4e06-a074-0759a98332a8,26fed2c7-6d7f-4203-af01-31fcc6fcc614,2024-04-08,Home & Kitchen,114.08,2.0,Debit Card,Pending,4.0
+8f9c7f48-e7c0-4c0d-994e-7a877e435e47,bfc29041-d644-448c-aa10-5558dca93d6d,2024-03-06,Books,26.43,2.0,PayPal,Pending,2.0
+0da3fc74-128b-47b1-88b3-50e3404e0e20,46bcac55-72b7-4b46-8ebc-94073fef8bf8,2024-10-17,Clothing,392.71,1.0,PayPal,Shipped,2.0
+70c40c92-1602-42fc-8422-60833cdfb464,380b9aae-ec93-4109-afb9-073651eb7f3e,2024-05-26,Sports,275.7,3.0,Debit Card,Delivered,3.0
+acc4b7fd-eea1-4af5-aefa-54ececd21bad,73e97706-e0bc-48e9-96af-80934f421364,2024-04-08,Home & Kitchen,209.89,2.0,Gift Card,Delivered,4.0
+e222208d-218e-4961-833b-aa566aa35aa0,43cb8f15-5bad-425f-a2e3-8ada062fcac3,2025-02-11,Books,53.29,3.0,PayPal,Delivered,2.0
+420cf2e5-8305-4fc7-9035-2a9a3aa4956c,6c1b5a7e-a4de-4a96-a728-b229530e3401,2024-08-16,Clothing,103.63,5.0,PayPal,Shipped,2.0
+4b60c58d-3031-402f-9e3c-b66c8eeaba74,5d866e62-ec28-4256-b5fe-71507f0a3039,2023-09-04,Sports,336.24,4.0,Gift Card,Pending,3.0
+21826644-e688-48ed-9b0e-9fc0101ea6eb,906f2330-631f-4198-8fb9-374bc8408034,2024-08-15,Books,418.34,1.0,Crypto,Shipped,3.0
+8704c011-8453-4125-b44f-e06d893c5abb,aa918a8e-d0a0-4191-b3b6-d9a686ecaaae,2024-07-06,Electronics,189.58,5.0,Crypto,Pending,3.0
+d23a1fcc-548c-486c-89b9-786f3317a7ef,e06e7df8-46ce-4a8e-9185-5055738d451c,2024-02-14,Books,207.72,4.0,PayPal,Pending,3.0
+4f286c68-c7e3-46e1-b8c5-3b28c9417d79,572837c8-7a89-4651-9e36-a5cd1f0285fd,2023-10-28,Home & Kitchen,414.65,2.0,Credit Card,Pending,3.0
+3dac1c6f-bda8-4e46-8762-fb4bb763c964,72bf849f-fdb2-45da-aed6-e67b2dfdf650,2023-04-09,Sports,53.88,1.0,PayPal,Shipped,5.0
+6e6570c3-2a2d-4622-807e-ab77e8988df0,d9e43ff6-ffe1-415a-ae08-834bbca87512,2023-06-16,Sports,78.06,4.0,Gift Card,Pending,5.0
+8d390cbe-7c83-472e-bbed-7d4d5a8d295b,99afbd03-d872-42d8-be18-2d5808dc1cee,2024-05-27,Home & Kitchen,353.0,2.0,Gift Card,Pending,3.0
+31533c7b-f37c-4a65-95dc-2949be932c2b,d400d134-7a2d-405c-8d84-8aed39d33412,2023-03-01,Sports,385.79,3.0,Credit Card,Shipped,1.0
+d3a39970-324e-4d8e-9b96-d08b50e18bf9,3b15cd6f-7a46-4c6c-8411-c417b79ef246,2023-08-13,Clothing,444.1,5.0,Debit Card,Shipped,3.0
+6aca61df-2b25-45d3-9be7-dbb1b3aa5bb7,143bdc45-da66-4eda-a565-333f90463f83,2023-10-28,Electronics,316.06,1.0,PayPal,Pending,5.0
+d5352ad9-256e-4973-95de-0e460cc9213e,2719ab50-15ca-4946-96b9-801d74624d6d,2023-06-11,Books,440.9,4.0,Credit Card,Delivered,5.0
+29a37642-aaba-4031-989b-514226699613,84a02115-17ef-4e5b-87c3-ffeb3af0cd8f,2023-05-20,Books,341.24,5.0,Crypto,Delivered,2.0
+ef150466-5f68-4035-849f-26b8ae018eb5,7cdc2961-bc44-4f47-9c9e-250dac35132c,2023-10-02,Clothing,290.94,1.0,Gift Card,Delivered,5.0
+162d9e77-c180-4995-900d-343d82f60547,0ba6d703-7e2a-4c8f-b6b8-0cb58970ff89,2024-11-30,Home & Kitchen,51.85,5.0,Gift Card,Pending,2.0
+d6c5ab62-a979-4a58-88d6-3f51692b7ee9,a5803a9f-7d24-430d-b7b7-59ce5227c09d,2024-05-21,Clothing,481.88,1.0,Credit Card,Shipped,2.0
+643fafb8-d118-4fa4-b974-40fd42389814,f89a4a75-a464-41a7-a48e-53ee996b188e,2024-01-31,Electronics,212.62,3.0,PayPal,Pending,2.0
+a12f3324-c40b-47b5-9a8e-7c61fd053963,23c4e45d-f824-4d64-9615-17f070ab72ef,2024-11-15,Books,480.87,4.0,PayPal,Delivered,4.0
+c092376d-182f-4779-9d00-47b4af29cb13,b024218f-93e1-4506-ad05-4cf511fbc1b0,2024-12-24,Sports,294.31,4.0,PayPal,Shipped,4.0
+d6e4125c-6deb-4dc4-b800-910ee2229499,f24b842d-4eb9-4c23-969a-e63405b35c06,2023-06-13,Clothing,18.48,4.0,PayPal,Delivered,1.0
+e9b57e99-69e3-4ecc-b8ae-165ea4d006f5,e7bdd063-ee46-4026-92d7-e4c04e4c6f36,2024-07-19,Home & Kitchen,316.59,4.0,Gift Card,Pending,3.0
+9837f231-6318-43a9-b212-d885a782f5fa,ef4e1e25-5324-4210-acbe-bc01044ee263,2023-12-19,Home & Kitchen,348.45,3.0,Credit Card,Pending,5.0
+465b07f0-6a43-4718-8a79-b2c528a7dd28,b9ce66bf-1eac-4fda-882f-239c7e2b4178,2023-04-06,Electronics,449.8,3.0,Gift Card,Shipped,4.0
+a3a95c18-0750-4c0f-816a-464d1deb67c2,f5988c03-de7a-49f1-b6b3-2fdb48c97efa,2023-04-01,Home & Kitchen,83.6,3.0,Gift Card,Delivered,1.0
+84739391-7558-4ba9-b575-4a60b2dc6097,ac06ad87-0383-4925-8992-4a0b195b914b,2024-12-17,Electronics,135.38,5.0,Credit Card,Delivered,1.0
+3f256121-a9c3-4651-860c-7ff3a5dff617,65f3c5bd-b730-44f2-b9b7-8bc0ce987d70,2025-02-02,Clothing,179.33,4.0,PayPal,Pending,3.0
+61e68acc-e89d-4697-9eea-f828648ea51b,15552f40-7c12-4596-aa02-bf09e627c2e7,2025-01-21,Clothing,448.33,1.0,Crypto,Pending,1.0
+d708100f-469c-4a76-bb38-97f693a6b92e,c3b43b71-e75b-4bce-81b7-dd6ba1ce0aed,2023-02-28,Electronics,99.0,3.0,Credit Card,Delivered,5.0
+289c7985-8361-4414-aa7b-ebef104f26f3,62bbc80c-78e3-4be3-a500-7d18cf2765cc,2024-10-14,Books,458.14,2.0,Debit Card,Shipped,2.0
+f31c3508-5a10-497d-8cae-32090b26ab7e,455ece01-96bb-4e52-b6ab-99146e8757cb,2023-06-06,Electronics,455.69,5.0,PayPal,Shipped,4.0
+be2bfe32-5474-4522-9b03-ab18cc980892,7dfd1c6b-8f24-4505-8c4a-623d750e1bc0,2024-11-02,Home & Kitchen,157.44,2.0,Credit Card,Delivered,5.0
+314c385b-70de-4936-b792-e1fb93420023,531e8488-71aa-4352-96e5-e3e5fdd40b26,2023-09-23,Home & Kitchen,137.86,1.0,Crypto,Shipped,2.0
+457b8e27-5062-483d-be80-21906e115ab4,3accbe4b-521f-4428-814b-ae160902349b,2023-05-11,Home & Kitchen,176.77,3.0,PayPal,Delivered,3.0
+88a6e0c2-2080-45f5-8e67-dc2e14df0b9d,2c0949b9-fa4a-421f-8331-0d4d8c1055da,2023-08-12,Home & Kitchen,254.26757628581294,5.0,Credit Card,Pending,4.0
+6ba9b41d-1c11-49d3-89e6-b920296da3d9,cccedd26-4a7a-4a1d-844d-8751e2ae0268,2023-09-05,Home & Kitchen,254.4152927166034,4.0,Crypto,Shipped,3.0
+7eeb1010-9efa-413a-8543-a736167ea3ca,b5e91fc9-cb80-4128-8207-cf4f3c0b0328,2025-02-16,Books,21.96,3.0,Debit Card,Delivered,1.0
+3f69e59d-49a4-48b7-8b50-5ef926ed86c1,11c769fa-c34f-41d3-868a-7989d8cab826,2024-12-13,Electronics,242.55,3.0,Crypto,Pending,3.0
+2e249c8a-1155-43a4-9725-02199e7d367a,03863902-844e-4a12-849a-fc905059f681,2024-01-31,Electronics,134.26,2.0,PayPal,Delivered,4.0
+10ffb528-ef41-4f81-a03c-f4f49b6a1d16,f7651371-0d3b-41a4-a72e-1c1e97ead425,2023-07-15,Electronics,387.98,3.0,Credit Card,Shipped,2.0
+c5e5cf2c-b9ed-4f36-b547-f8e641f97548,336d9c38-20c5-4f51-9ee7-17edf3b3eda2,2025-02-01,Electronics,64.61,1.0,Credit Card,Delivered,4.0
+d2112146-8476-4350-bbf8-6cba0321e4bb,ee1e2338-37e4-4ca3-be94-523bf211cba7,2023-12-26,Books,17.68,3.0,Gift Card,Pending,1.0
+9ab3699d-330f-4557-9c09-a314143cd233,fdfba839-9e3c-4360-b5b7-98f5c1a0025f,2023-02-27,Clothing,357.25,1.0,PayPal,Shipped,3.0
+ed5dc463-0051-4d6c-b4cc-ec122bf1db67,c07dc1cf-de23-42d5-a049-1deb86a515bd,2023-06-22,Sports,117.96,2.0,Gift Card,Pending,4.0
+c4ed8ce9-e2f0-4676-8699-cb0709ae88f3,bf275ed6-c5be-4092-8c41-593f3774b42e,2025-01-20,Home & Kitchen,302.57,4.0,Crypto,Shipped,1.0
+3677f7f0-56ee-4340-8e27-ec1b4baa4877,07b9eb6d-78ca-4cea-b02c-8b6278e7dfca,2023-02-28,Sports,254.4152927166034,4.0,Gift Card,Shipped,2.0
+11745979-1bc9-4dab-8292-389a0f317d63,9823f96f-a43a-46b5-9f9c-754962ac36f8,2023-09-14,Books,254.26757628581294,5.0,Credit Card,Delivered,2.0
+743816e8-4b54-458f-afa2-24d71c3ae809,dbc27f75-d687-4756-936d-11e6018c84e7,2024-06-01,Sports,91.36,1.0,Debit Card,Delivered,1.0
+dce3bdf9-1a4b-4953-b508-6277cbbc1950,0b7aaf6b-6d04-40ec-a362-a2d278cbd54a,2025-02-19,Home & Kitchen,103.21,3.0,Gift Card,Delivered,4.0
+a989157b-30b1-419e-86f3-89f42028a91a,fb9aafbb-f6b2-4e7f-9e0f-f75016447de4,2024-01-20,Sports,481.93,5.0,Debit Card,Pending,5.0
+a6107faa-4a9b-4ce8-877c-99a71ee85dfc,33a15ee6-3ac6-40a6-ac4b-8ece5e1da89f,2023-04-26,Electronics,478.09,2.0,Crypto,Shipped,3.0
+ee75aa6b-cd42-4152-8bd9-17e0118959b5,cd48f238-8e96-4b45-a36e-dda1ba69d16f,2023-10-09,Electronics,459.89,1.0,Debit Card,Shipped,3.0
+8b742f70-ce92-41cf-aa1a-178a2459e2ce,10c5993f-6c02-4c74-8f49-01bbe152a6aa,2023-03-25,Sports,170.31,3.0,Debit Card,Delivered,3.0
+6c944039-098a-4119-84ab-93bdc7b34b15,b82c8e58-fabc-497a-b40b-fc37faeca53c,2024-02-14,Clothing,424.34,5.0,Gift Card,Delivered,3.0
+4bb17a12-7835-4acb-8df6-f207dd82b510,c39cd9a1-b7db-4aac-abb1-5ab87554f6b8,2024-03-17,Electronics,468.8,2.0,PayPal,Pending,3.0
+04e44cae-4002-497f-949f-f0a0d20d270c,be5d82b6-7088-46a6-a01e-deb8c8c07c73,2024-10-31,Electronics,344.04,3.0,Debit Card,Shipped,2.0
+29201c19-5fb7-4fc5-934a-3d9c2763c0cd,8956a994-8e77-41f9-ab88-d94cb1179d7f,2024-12-24,Books,366.54,1.0,Crypto,Delivered,3.0
+9d53d0c2-9193-4913-b0f8-0db7daaab7f7,3e28f582-a00f-4cc0-9dba-59ce24e088cc,2023-10-06,Home & Kitchen,95.83,5.0,Debit Card,Pending,3.0
+9c085ed7-511e-4e6f-ba82-3e4583b5922a,bde8fb57-1ec2-443c-a51a-d72549ad35f7,2024-01-27,Home & Kitchen,453.42,4.0,Gift Card,Shipped,4.0
+5f4e3181-0aa9-45b1-8ae1-e31c6229d40f,3d6b3b9e-c324-4e9c-ac72-3aa89ef43e72,2024-02-11,Clothing,285.13,1.0,Gift Card,Shipped,4.0
+c6e0aebe-235f-4ad2-9e89-eb3ceb3992f8,7e65529e-bf00-4e56-87d1-bff611cecad4,2024-03-01,Home & Kitchen,419.81,2.0,Crypto,Delivered,4.0
+8143f776-2173-420d-bd5c-61db53b4c243,10453291-3a60-4c97-8bac-7f37d1ef5382,2023-02-26,Books,60.94,1.0,Gift Card,Delivered,4.0
+41fb0f23-0a98-421a-844f-ca431de0b300,83521639-52b9-4663-a75f-b50dbbc8637e,2024-03-17,Electronics,22.0,4.0,Gift Card,Delivered,1.0
+4ca585f4-40cd-4aca-8a8f-85f6ec53d2cc,1c513e49-6693-4b9e-b04f-9f5ec5c1bdb7,2024-07-16,Clothing,349.77,5.0,Crypto,Cancelled,1.0
+fec6964e-c253-446a-b33f-c7ec88a28331,f6f27765-c464-4400-8c9b-c0ff913fded9,2023-10-16,Electronics,121.93,5.0,Crypto,Pending,4.0
+911bdc92-4ff6-44d3-9489-fb89a21c418d,589c16ca-d4c4-4c0b-844c-e73ec33a4e16,2024-06-20,Clothing,253.55,1.0,PayPal,Delivered,4.0
+0de382f0-89a9-4b2a-83cf-717d4006334b,2591c587-3113-400e-9626-0edbbd1079ac,2024-08-13,Books,303.6,1.0,Debit Card,Shipped,1.0
+96e7323f-99ba-4c59-b7a8-44560d52d378,fc6d8edd-0733-48ea-b243-b801de1eb43e,2024-12-05,Sports,139.52,4.0,Debit Card,Shipped,3.0
+53aa2719-7399-4c6d-a4eb-43b18d459fab,82b9f098-e4a4-4a10-9c48-5e9a39afeb8c,2023-11-26,Electronics,299.21,4.0,Debit Card,Delivered,5.0
+cef34fa5-c4e1-4792-8138-6c6204e0b3cb,c4bad340-8c0a-4622-a598-6811af047daa,2024-12-25,Home & Kitchen,179.19,3.0,Credit Card,Shipped,3.0
+1d9911ef-2a5b-4980-8580-5140a8bd41a4,47a89202-2d1e-4ab7-89e2-7c93ebdafc3f,2024-09-25,Books,463.74,3.0,Credit Card,Shipped,1.0
+6fa7e910-bdbd-40ec-9a78-5c709dc5d888,9ca0aa2f-fd70-4c62-a3dc-652a77c411bf,2024-03-29,Home & Kitchen,356.08,3.0,Credit Card,Shipped,3.0
+46113ecc-369a-439e-a09a-c59e8f375446,e64a7a3b-250d-4289-9da0-da9ff5f6e167,2023-06-08,Clothing,403.83,5.0,Credit Card,Pending,1.0
+cf063261-3d12-43d3-9c92-252203aad22a,7f50dedf-cc2a-4aa7-ac99-1bc5e288290b,2024-03-27,Books,447.5,3.0,PayPal,Delivered,3.0
+e1561b25-33e9-4b0a-b863-52df93b85c0c,9ca28b63-cfe5-4555-aebb-905001da6a06,2024-07-27,Home & Kitchen,209.64,4.0,Debit Card,Delivered,2.0
+ba8980c7-3f85-4bfb-a9a1-9f33c5a1735e,af10e750-cfca-46c2-9fe9-065d15f34a6d,2023-05-24,Clothing,177.21,1.0,Crypto,Delivered,5.0
+5b5d47c8-55fe-4ade-a49a-b9531c455dfe,f5c06314-a77f-4d9c-b7fb-0d9442ebca05,2024-12-16,Sports,111.31,1.0,Debit Card,Cancelled,3.0
+9e02e0d0-e700-451e-ba43-d77f2f2d1b7a,70bc76a9-a50d-41e3-b461-08ac8e4b469b,2023-08-24,Sports,349.75,4.0,Crypto,Delivered,3.0
+524de545-c6ce-460a-bbfe-c81896f7bcb1,23248799-75c6-4ba3-a271-de2908aa8772,2023-04-07,Clothing,186.76,4.0,PayPal,Pending,5.0
+65cd6111-3a1d-47f2-b831-ce8faa9becf7,1360ad54-432f-48b3-a74f-5803330fb0ec,2023-09-29,Sports,301.28,4.0,PayPal,Shipped,3.0
+83731689-9239-4958-857f-c8c1e7aff294,bc071c46-5c39-4950-9963-4ad49c96a984,2024-02-06,Books,254.26757628581294,5.0,Credit Card,Delivered,1.0
+e1a6b8ea-03ec-4580-8da4-e4303a6d43c7,d816f903-a8ed-4f0e-904d-b49c2d6e5cf5,2024-01-22,Electronics,262.0,4.0,Crypto,Pending,3.0
+be9837b2-f137-42f3-bb97-72350bebc701,fba4df27-5a56-4eb7-a2be-272451e5a38e,2024-01-16,Books,67.76,3.0,Debit Card,Pending,2.0
+bd798171-2bad-4bf8-b2df-616299d0b459,461959e7-5d95-4ae7-aaac-095835591052,2023-03-25,Sports,422.05,4.0,Debit Card,Pending,3.0
+f265d313-704b-4c98-8e4e-b7ad6dae37e0,ba43a55b-212f-4177-aa10-e44e63728178,2024-12-12,Home & Kitchen,26.35,1.0,PayPal,Shipped,4.0
+1704a9d0-58f5-4e26-a711-74c8767ce13b,cd2e09ff-d713-494d-a4a4-468a551e2825,2023-04-13,Home & Kitchen,226.7,1.0,Gift Card,Pending,3.0
+750b98aa-d2d9-4a03-a3c8-ec6441debfc9,60171294-9851-4eca-82ae-fc210621a20a,2023-03-13,Books,478.82,5.0,PayPal,Delivered,1.0
+5986d2bd-ffc6-4141-9674-0849c459099d,4d561929-d887-4121-8b11-e33d2cb767b0,2023-06-17,Books,128.94,2.0,Crypto,Shipped,4.0
+0534cb1b-da1c-4590-ab6c-afdcb89ae2e4,f5cb9682-a0b9-4872-b5de-930cddb8c66b,2024-06-03,Home & Kitchen,221.15,4.0,Debit Card,Cancelled,2.0
+9a361c69-1b4c-412e-b1e4-b573c80ce41d,ac11d994-9fba-4075-a1aa-32fbd2eb615e,2024-05-06,Clothing,149.05,5.0,PayPal,Shipped,4.0
+1d816b40-7a2b-446a-a387-26f19dd99311,ba9ed9c5-6141-489a-85ab-8eff1763bb0a,2023-11-13,Electronics,319.21,2.0,Debit Card,Shipped,3.0
+91306558-32c1-4495-b463-472c7f748dbd,59915289-390c-4bb5-a42e-109be3938916,2024-09-11,Electronics,299.49,2.0,PayPal,Shipped,3.0
+47f3a557-2a38-40e0-b04e-6bd9403ff3cd,85634cfe-976c-42b0-a0b6-6c26fdbdacdc,2024-10-11,Home & Kitchen,212.31,2.0,Crypto,Pending,5.0
+e38ba99e-2892-4289-bcc8-debb411be9c0,dd59ef7c-5714-4e87-a8d7-b7928dd7d626,2024-09-24,Electronics,213.76,2.0,Debit Card,Delivered,5.0
+bd5d4669-4b2a-41cb-895e-667fca692337,7497bcb3-a2f4-4872-86b2-ca30d0aeea48,2023-02-26,Books,243.04,5.0,Crypto,Shipped,5.0
+cb35b08d-b3a3-4d31-a034-5858da4cb5f7,fbbc028b-91cf-437d-bf7d-4ced62b995c6,2023-10-30,Clothing,82.8,5.0,Crypto,Delivered,5.0
+d977c9a8-e53e-4f59-83a1-50384b0bd82f,3b99ade5-ac08-4b8f-a340-cdba479c15a2,2024-10-18,Electronics,416.25,1.0,Credit Card,Delivered,5.0
+40f160bf-ede6-4579-aa69-2ebd653fba11,7f050b6f-191b-4324-8dc6-172b12e85118,2023-10-09,Clothing,254.4152927166034,4.0,Crypto,Pending,3.0
+ef5da419-14b3-41c9-b0ac-65dfdd0b1bc9,3b296a07-07ed-455f-8b75-0edd9f867722,2024-08-31,Sports,42.12,2.0,Crypto,Shipped,3.0
+3f9e7a9c-6549-49f9-b856-6b9ad8044523,a4545c37-2a5d-4aad-afeb-ea6dc1a62958,2023-08-25,Books,323.44,4.0,Gift Card,Delivered,5.0
+58d5d3e9-7e04-4306-8129-7da881c05ba9,e37bd6cf-5807-4e64-a701-feb11563255e,2023-03-29,Books,141.77,5.0,Crypto,Delivered,5.0
+194099cf-24bb-45d9-95b4-a9e1b30b4116,abb0fb92-c298-4001-8a04-19319d814684,2023-04-30,Sports,447.21,5.0,Crypto,Pending,2.0
+c39900df-0f20-4c0a-87fa-51db72f2b579,45f390d5-1e0b-427c-8ea2-dd5a8665bcef,2024-06-23,Books,108.01,4.0,PayPal,Delivered,1.0
+9970048a-419f-489d-8fd0-3eb867e1c80b,efa18ff9-7b5e-4b9d-b2c9-cff39d9ab5ce,2024-04-06,Electronics,218.71,4.0,Debit Card,Pending,5.0
+20db9782-3f96-487b-a0aa-012d5e85681c,ae328283-42c5-487a-a649-a4864ae64a97,2024-07-08,Sports,285.95,3.0,Crypto,Delivered,4.0
+05937a21-c40f-4186-aaa0-01bafe849901,1682749d-bc32-4733-a3bf-f72678494f52,2023-08-09,Books,259.13,1.0,PayPal,Pending,1.0
+8203d336-0fa4-40db-9342-1ff5abb963ae,9971a6f3-4566-4a49-b72a-c4cabe51c492,2023-04-21,Sports,54.52,2.0,Crypto,Pending,5.0
+9e11894b-b603-42b1-b341-87748c9b741e,3f2b0088-bd31-47a1-a46f-5847e297f5a0,2024-07-01,Clothing,124.42,2.0,PayPal,Shipped,1.0
+05a24ba4-ed4c-44b4-ab94-35cbfb08a97d,21101249-2504-478f-9421-0c46d87eebf0,2024-04-15,Home & Kitchen,178.81,2.0,Debit Card,Pending,4.0
+ea46bcd7-2bb6-405f-a243-cfc6a2ef8707,6695afca-bd59-4163-9ecf-7672c59620be,2024-11-01,Clothing,6.24,4.0,PayPal,Delivered,4.0
+71d8cc7b-c407-4aa2-8fe5-7883f15a7469,b12253d0-ae76-42a7-8165-7468481e4fa3,2023-08-29,Home & Kitchen,336.1,1.0,Crypto,Cancelled,4.0
+60133e64-19d2-4257-9939-8abefcb1fdcd,dda94029-1604-4761-9426-16f72366dc93,2024-06-01,Sports,6.33,3.0,Gift Card,Cancelled,3.0
+37eeadce-4e24-4b3f-b98a-999f1b522151,b290c4a8-5ff7-487b-ab72-4d92037d36b6,2024-07-08,Sports,292.65,4.0,Gift Card,Pending,3.0
+42f54ecb-7df6-4862-8ee4-8f32384c0ffa,cbd37ba2-a9e5-44a9-b0cc-7cf814b349f8,2024-09-30,Sports,209.07,4.0,Debit Card,Shipped,5.0
+77ccbf2f-ecb0-45f1-8cde-facbd6cc7024,e3df191f-ed5b-416a-bab9-9de9138e474a,2023-08-17,Home & Kitchen,254.85844200897483,1.0,Credit Card,Shipped,2.0
+d42299bc-a656-4801-8084-415a9b835a32,8f1006b8-0c2a-4abb-a6b9-998028f6eaf3,2023-04-10,Home & Kitchen,310.45,4.0,Crypto,Shipped,5.0
+0072cd57-3a22-4710-8083-b62d5090688f,9e09c806-9a2f-4833-8e9c-7bf968699404,2024-01-11,Home & Kitchen,98.42,5.0,Debit Card,Pending,5.0
+ba9b989e-7773-47f4-bce7-a9d84e4969e5,f1fb6fbe-55c6-4cf3-befa-69801fd159a5,2023-08-18,Books,210.82,4.0,Crypto,Delivered,4.0
+fd0f41f2-37c6-4b0d-abaa-6f624ff0f829,0068bcbf-7aa3-47f1-8100-285d4cd127eb,2024-04-05,Books,454.34,5.0,Gift Card,Delivered,3.0
+fdd9beb3-c86b-47f8-9d95-553321eb0711,75b69863-dbb6-40dc-b4e0-86f735798b05,2025-02-09,Books,158.72,3.0,PayPal,Pending,3.0
+79a76a3b-53ad-401c-b3c2-b4aa03f4750f,7c656a62-5202-4a3b-82bd-4f27ec9ea44c,2024-07-26,Clothing,376.33,3.0,Debit Card,Shipped,3.0
+df9430a7-5db4-4a78-ab0a-e2f32a3bafa3,67423a92-67bf-4719-8ad3-2b8b4b44edae,2023-12-05,Sports,110.09,4.0,Gift Card,Shipped,4.0
+574893ee-b5c8-43d6-b242-80d72fbaae40,29a4ec5c-33dc-4a70-9512-a130e6e8ca5f,2024-09-18,Books,456.42,1.0,PayPal,Delivered,5.0
+bc0a9719-a101-4231-9481-e97c19271e92,62cf48ae-0085-4ada-9c3f-306b494f62ba,2023-12-13,Sports,394.6,3.0,Credit Card,Shipped,4.0
+7cde4a70-f30d-4850-bc8b-87e9a3d64b9a,1fd413f4-3c22-4769-a35f-6e49b701f888,2023-05-22,Sports,136.08,5.0,PayPal,Pending,2.0
+7213e110-adf1-4779-80e4-a3f988c9fa3f,188e2b7c-34f9-4246-a0d7-3cbf4dcb6100,2023-10-26,Sports,169.31,4.0,PayPal,Shipped,3.0
+8de49eec-740d-48fa-9fa1-a7981d8f7965,f2313492-f0d9-4c4d-9659-ebe5c90b6826,2024-10-03,Electronics,289.63,3.0,Credit Card,Shipped,5.0
+fdd2f271-cfa1-4cb8-9e42-71e4b2adfd4c,a76a051a-2f60-403e-85e4-f97149d1af1f,2023-05-18,Sports,423.9,3.0,Debit Card,Pending,5.0
+53f2f599-ebbe-4cc7-8422-359fb5452897,2f386a72-113c-48b6-9862-ae07484e2116,2024-04-16,Clothing,122.56,3.0,PayPal,Shipped,3.0
+1a74e112-15a9-4f19-bacc-0ca16c25b7dd,78460e79-234b-4f93-82f4-f740751352bf,2023-09-04,Sports,268.32,3.0,Crypto,Pending,2.0
+32d3dc91-16ce-4508-b907-56db2db9cc54,0171b922-69ff-44d3-a12a-dc1445482771,2024-06-27,Books,406.51,3.0,Gift Card,Delivered,3.0
+217ff4c0-dc32-484e-b6af-46837eb8443c,d004ff35-89c3-43d4-98e3-0fcef2dc0733,2024-12-29,Home & Kitchen,254.71072557818434,2.0,PayPal,Pending,2.0
+e45f1e89-e250-48b1-98cf-0e1e5b477097,d1ce848c-0c4c-437a-898b-3311cf83cba8,2023-02-21,Home & Kitchen,132.8,1.0,Debit Card,Pending,5.0
+921fe2e4-f957-462f-a9ad-52976de50dbc,89bcbbd5-645d-400a-8d34-b0a894e048bb,2024-12-30,Sports,98.55,2.0,Credit Card,Delivered,5.0
+3b303686-bd9b-44b9-aa60-2079bc79ae56,26239e71-5234-40a8-b531-2d99211e2e4f,2023-12-06,Electronics,226.23,2.0,PayPal,Shipped,3.0
+5a4c30e3-a18f-443b-932b-9e9ed4a4d694,aa4c5103-c483-47ae-bb21-f27bb06d8f18,2024-09-20,Sports,400.23,1.0,Gift Card,Shipped,4.0
+dda7e8ce-fb98-4acf-a37e-a66a85e51241,df5bc9ea-ad06-417e-a154-e460e813bba1,2024-01-23,Books,343.63,1.0,Gift Card,Shipped,1.0
+70e7b3af-205f-4576-93d8-1c8d0ffd546e,77ccb00e-4dbf-4d37-9acc-a371caa916fc,2024-03-04,Home & Kitchen,298.15,1.0,Gift Card,Shipped,4.0
+ee7c0555-e793-47d7-9bff-85d4d0bd3f72,51c17efc-c060-4a1f-b2d9-f1a86930915d,2023-09-05,Clothing,190.15,2.0,Crypto,Shipped,4.0
+be0c7e7e-b76d-4499-af73-8c95d490a955,f3e19c05-6466-44d7-999e-c4f76da7b8fd,2024-05-05,Electronics,254.4152927166034,4.0,Debit Card,Pending,1.0
+cc9ecec3-b186-438d-b9d8-854fe82e2749,9f9d8f5c-50cd-4126-b19a-ccf99a04bae9,2024-12-26,Home & Kitchen,254.85844200897483,1.0,Gift Card,Delivered,1.0
+88cc0217-f9d6-4be7-9047-d246b26e675d,ce6defc1-e74e-4b57-8fef-53188f3e08c9,2024-06-11,Home & Kitchen,491.43,2.0,PayPal,Delivered,3.0
+4712568d-f3d7-4eff-a882-15d0fe01013b,87828f54-9d3a-4d5c-917b-86062b6ffce6,2024-04-26,Electronics,279.92,3.0,Crypto,Cancelled,2.0
+8f0d9c34-87d7-4e1d-a050-5523e0c20ed3,35929db8-db6c-47e5-88a9-593d4d54c247,2023-10-27,Books,307.5,2.0,Gift Card,Pending,3.0
+7b0415cf-7120-43dc-b52e-148fbdd8bf3e,288709c3-a453-4570-bbcd-53988e4448c1,2023-09-24,Books,322.15,2.0,Credit Card,Shipped,1.0
+c913de3e-1194-4b25-8c5c-899ae6a92102,630e654c-b360-4340-908a-85e80b5938c5,2024-03-05,Electronics,236.9,4.0,PayPal,Shipped,1.0
+b1070245-bee6-44be-a4e3-4411b06f3825,442a46a4-fa6d-4e60-9d0a-c101ba35efd9,2025-01-31,Sports,327.1,2.0,Crypto,Pending,1.0
+7f74dc7d-0cb5-44f8-990d-2092d05a0880,18ba217e-6758-4c87-b614-59dda1367c8a,2023-11-27,Clothing,254.85844200897483,1.0,PayPal,Pending,5.0
+cf753ccb-79d9-4803-886a-ca8310d1bddd,45d806e4-350c-437d-825b-5233f3990a03,2024-09-12,Books,254.26757628581294,5.0,Credit Card,Delivered,3.0
+986f4b96-a372-4667-bfb4-d740dd606676,9fc81d33-8f51-4983-829f-a8d0a70e62f9,2024-06-15,Electronics,341.59,4.0,Crypto,Pending,3.0
+991e6466-3ac0-4256-a38e-bd5ceeb73f80,81ad8059-0194-47ec-803e-6496015069a4,2023-07-19,Home & Kitchen,115.35,4.0,Gift Card,Shipped,3.0
+2fca611b-6cdb-4359-9b59-afa8f29f1fdb,c5a655c1-4af0-436f-9a67-8d3dda86fb0f,2023-02-27,Electronics,187.71,1.0,PayPal,Delivered,4.0
+f8f15489-6ffd-4948-9439-9b19f8a2b7b4,92088488-35bf-485f-b86c-b4853046fd83,2023-08-07,Books,137.5,3.0,Credit Card,Shipped,3.0
+8832e6a9-3086-4411-a488-9c68ce835045,ec72f5ab-f294-44b7-9e43-162bf58fd141,2024-06-13,Clothing,301.25,2.0,PayPal,Delivered,1.0
+7a05d09c-22c8-4996-85f9-734aeef25a79,8330bca6-af20-4344-b559-c515ecd6d5ab,2024-10-17,Books,114.38,1.0,Credit Card,Shipped,3.0
+05797bfd-4e53-4db4-9ffb-237b9d2b4e84,dcbde2aa-d8b3-485b-b82d-f75ed81e4c82,2024-01-30,Home & Kitchen,231.16,1.0,Debit Card,Pending,1.0
+3bfd2b77-42c4-44cc-bca1-eff7b0f1eae1,33af4979-7d53-49d0-8953-c4ad9ca53774,2024-07-03,Home & Kitchen,364.1,5.0,Crypto,Delivered,4.0
+0acfb1eb-ad00-44b7-ada6-80f96e6a2256,f2c618d0-1ce8-493c-b2c7-c981b7d3b95e,2023-08-10,Home & Kitchen,104.79,2.0,Gift Card,Cancelled,4.0
+25d507d8-8f6f-44b3-996d-76556b8c840a,1e90d712-a027-4821-908e-d42d6e118c56,2023-12-07,Books,155.75,3.0,Gift Card,Delivered,2.0
+e603bd1f-66a7-43fd-a65a-08fabbbf422a,be3383f7-28c7-4b71-8468-fc8b6ef63ad2,2023-12-03,Sports,393.53,5.0,Gift Card,Shipped,3.0
+a6fc6ce3-b0bf-42b6-8335-140edd3723fe,b70167ac-27ab-45e2-8ef8-d9edf7d8398f,2025-01-03,Sports,59.94,4.0,Gift Card,Pending,2.0
+41199901-b039-4cb3-982a-36410a3bcdc7,b7734269-4b60-4318-8e82-60fd97512bbb,2024-11-25,Sports,223.03,3.0,PayPal,Delivered,4.0
+e2e29f37-837b-42bf-a856-96fa8eeb0300,eff1dcc0-eb44-4564-9c80-33d208f3cefa,2024-11-29,Clothing,441.03,4.0,Crypto,Delivered,5.0
+387a0601-7a33-4906-9cd6-6322dd23de97,dfbc18d9-436d-46a6-ab39-c73e978024b3,2023-09-06,Sports,147.54,1.0,Crypto,Delivered,3.0
+72282891-d6ed-4dbb-98ee-9c12d4ae50b2,d3d4992e-644d-4f02-a435-e6b492d24efa,2024-09-03,Sports,166.59,5.0,Debit Card,Pending,1.0
+92a029d8-c73f-4636-bbcd-d205040258f2,7caa57f4-946a-4f10-be27-d0141c3ed27d,2024-12-26,Clothing,460.79,4.0,Credit Card,Pending,3.0
+cb8f7f86-2f7d-4118-acb7-7dd3e30bd729,9e72fe8f-406c-4e01-a104-42617875e435,2023-06-26,Sports,7.26,2.0,Debit Card,Pending,3.0
+5ef85aa8-d287-411d-a6d7-485005e5573b,597d9466-a47b-464a-9be6-dc80e9b61717,2024-10-24,Electronics,285.64,3.0,Debit Card,Delivered,1.0
+9dcb48e6-c691-43c9-b84e-21dbcb20733a,2d147c3b-6124-4ba7-ac0f-94670bf57426,2024-11-12,Home & Kitchen,254.85844200897483,1.0,Crypto,Shipped,1.0
+eea1c4ae-74f4-43b5-968e-3e4f46af38bf,6f20b76b-d85f-487d-92ce-0fe83c5bded9,2023-11-07,Home & Kitchen,77.97,2.0,PayPal,Pending,3.0
+6ec107af-10e0-4d4d-9ef2-75abb8368043,196b99b7-4e7a-4649-bb4d-be84a835d6d2,2025-01-08,Sports,63.41,2.0,Debit Card,Pending,3.0
+a952dd6e-7ff8-45d1-b388-10075a8b95c0,6d10e631-5f06-491d-b1c0-1957c7d248b5,2024-07-22,Home & Kitchen,220.49,1.0,PayPal,Delivered,5.0
+9cc9b969-3b3e-47f3-82e2-e7bb2f2eb827,ecedf60d-aa7f-4f04-bcb3-042bf01c356a,2024-03-22,Books,254.56300914739387,3.0,Crypto,Pending,3.0
+b157b5c8-49dd-42e2-9480-733144dd6fe5,c84525b2-d99a-42e5-b94b-2aaf33ca515f,2023-10-01,Home & Kitchen,52.32,4.0,Gift Card,Delivered,1.0
+d6a17d63-cfc3-42ba-8ae6-4a9a2b5e8411,886c9352-b18a-4158-835b-5240b61edd9a,2024-05-23,Electronics,245.89,1.0,Credit Card,Shipped,4.0
+7a5cd4a1-7ab1-455a-b42f-d7b3235573f9,b7924a7e-2d63-4b90-825a-46bcd6267b3c,2024-07-15,Electronics,15.46,4.0,Debit Card,Shipped,2.0
+b757d671-e701-4a8c-9e62-bf18e4fc266c,bdbf43e9-6c3f-410f-ab9c-7b70b203611f,2023-11-05,Sports,254.56300914739387,3.0,Credit Card,Pending,2.0
+faeb0748-5cef-4783-b4b0-fbb4134a380e,ea399a46-9e91-44c9-a2d7-0e3b3729f1fe,2023-07-11,Books,300.88,1.0,PayPal,Shipped,4.0
+445b27dd-bc67-4a95-9206-6008f63ab702,f657e3b2-4fce-417d-a89d-bf1ede09d244,2024-02-22,Electronics,254.85844200897483,1.0,Debit Card,Delivered,3.0
+9f8bf33d-4b2d-479f-ae57-4a122e36290f,1d22c0eb-1b8a-4175-8c58-e1062835289e,2024-10-12,Clothing,248.56,1.0,Credit Card,Shipped,1.0
+09b75d35-206e-4228-88e1-45b237045b7b,35b40e61-36bf-478e-a17a-0c690d0dce4b,2025-02-14,Home & Kitchen,302.28,4.0,Debit Card,Cancelled,5.0
+d008806e-bbf2-423b-8da9-cd370ec06e70,d5195bed-36ac-45f7-9b06-d070025e0e99,2024-09-11,Clothing,487.52,5.0,Gift Card,Pending,3.0
+3f32775b-5549-4b61-91d2-056c7e846204,c354d2b5-a4d4-41e5-a86f-ba259eee8382,2024-10-03,Electronics,134.67,5.0,Crypto,Delivered,5.0
+b28ee537-3c6b-4607-8f08-6ff429dbf0fa,5e484f6b-2e60-42c0-907a-349c6070f638,2023-11-03,Sports,271.27,3.0,Gift Card,Shipped,5.0
+b756f1db-ef88-4ae9-901f-9cda43bd4c69,587c5a65-e368-434d-a0de-8c30c27da216,2024-03-17,Clothing,475.32,4.0,Credit Card,Cancelled,3.0
+1e631b52-de72-4186-a1ce-b7dfc5d3818a,eafe2275-492a-43e1-9447-1d7f0310a66e,2023-04-11,Sports,254.4152927166034,4.0,Gift Card,Delivered,3.0
+fda48863-0cea-4c52-8b09-38b9162106dd,a7b11dc5-1e98-4276-9f03-dfb93cfaf007,2024-11-17,Home & Kitchen,149.38,1.0,Debit Card,Shipped,5.0
+ee45274b-81e3-4a52-952f-b0127476b064,32792f70-0d76-4c15-b205-acb207edfe2f,2023-03-02,Clothing,158.05,4.0,PayPal,Pending,3.0
+a9965da8-2edc-459c-bba0-182e0f23a1fe,4fc2a69b-c4b6-4c4f-b9e2-0117cfae0151,2024-12-01,Books,434.29,2.0,Credit Card,Pending,2.0
+a2f3cf9e-ca1b-4b17-9eaf-6833487fae46,854e5c87-9deb-49c3-969a-083a8cedae36,2024-10-28,Clothing,107.96,5.0,Gift Card,Shipped,4.0
+8c911f34-1a28-44dc-ae67-0a0480bf2534,ccfea0ca-ca24-45a0-a64b-011a7ff1a14e,2024-10-04,Books,456.07,2.0,Debit Card,Delivered,5.0
+fcbc47af-5d90-45f7-a17b-4f484c831f18,0dafe262-2b7f-48ac-8a5c-db73a35be639,2024-03-07,Electronics,401.06,5.0,PayPal,Pending,3.0
+1f65301a-bc0c-48d9-8a12-be338e1753ce,a6f589da-df5d-4a42-b603-36c7e2a6e0cf,2024-06-10,Sports,225.13,1.0,Gift Card,Delivered,1.0
+1c64e927-5752-447b-bcb1-11f4834fa4c7,8c16ff35-50ed-4b7f-bd14-6df3cadecdd9,2023-06-11,Electronics,293.93,5.0,Gift Card,Pending,1.0
+208b292d-4365-4204-8feb-e0f39207b30e,af1019f2-fdd3-4894-b27d-d67b3af6e4d5,2023-03-25,Books,279.43,2.0,Gift Card,Shipped,3.0
+3bf3893d-763e-4c66-974c-0206481ee37e,d258d11a-79a0-411c-89ad-e695b4b8b053,2023-10-08,Sports,157.63,4.0,Gift Card,Cancelled,3.0
+d6050e5d-13e3-4a2d-bff7-8ed9460953a0,8e165e7f-ef9e-4fcc-b967-8af327b3b033,2024-12-20,Home & Kitchen,431.47,2.0,PayPal,Delivered,1.0
+a8551897-3441-4b2c-8cae-3d0db3b1505e,4169a456-5991-44bc-83b2-6e4eed4a8048,2023-06-11,Home & Kitchen,224.19,4.0,Debit Card,Shipped,1.0
+2b405527-925d-4629-99e8-09544509c7c5,9293d2a0-9d5f-47e5-8965-f27a6e784088,2023-11-28,Home & Kitchen,223.65,1.0,Debit Card,Delivered,5.0
+b937e5e9-79ad-4602-b042-4cb6fa432139,366cb5f9-9a43-4022-8768-1e764f8fc825,2023-12-09,Books,389.15,3.0,Credit Card,Delivered,5.0
+88acd1bd-af0a-450a-8ce3-b6246785ef9f,ff4c776a-078b-41f6-b28d-f8f1a410a4ae,2023-09-19,Home & Kitchen,158.56,2.0,Debit Card,Shipped,3.0
+57571b3e-13a5-4875-b865-dd28aa3fdf9d,a211a49c-9975-43cc-a02f-323b08fdaaca,2023-03-30,Clothing,254.71072557818434,2.0,Gift Card,Delivered,4.0
+54498c7a-4e7c-4396-aaf5-2f99b35aec04,6cee63d3-bb54-46d8-99f6-255e25214f5c,2024-07-19,Books,251.87,4.0,Crypto,Delivered,3.0
+e8621206-12fc-4f9b-9c69-ebbdab60052b,128c8457-2e18-47b2-8353-61f0585195d2,2024-07-15,Home & Kitchen,116.9,4.0,PayPal,Shipped,3.0
+16f680f7-c5a6-4905-bd8b-22eec2d6e240,492e6a6b-345d-42e0-baf5-0ec55cc7b7c0,2023-02-28,Clothing,438.3,5.0,PayPal,Pending,2.0
+00447f5d-4d24-4ec8-b8f0-5ba79efaaf1b,4f25fa49-4b51-4dc1-8a2f-a33717e3c8b3,2024-02-20,Sports,425.6,4.0,Credit Card,Pending,3.0
+360a5d0a-c408-49f4-a984-1812988acccd,45b1df2a-6a8b-4d1f-8698-8781814b5b51,2023-08-14,Electronics,393.69,2.0,Crypto,Pending,2.0
+296f5d52-7b87-4356-aac6-62eba8971555,c3bbf143-bea4-409c-8920-937b388afbcf,2024-08-27,Books,235.09,4.0,Crypto,Shipped,5.0
+5ac7c215-1208-43ac-a145-a80a61c17585,fdf7e259-665b-4c9e-808b-5f5b4e58e8a1,2023-12-27,Clothing,429.53,5.0,Debit Card,Delivered,3.0
+d3ec9f19-9d4e-4419-aa11-a69906a96ec9,e2321606-3f2a-4faa-bf19-1092f9a119dc,2024-10-12,Electronics,293.71,5.0,Gift Card,Delivered,4.0
+a47b1c58-bc3f-48a1-b250-65db21161e0c,1ab17c2f-71f1-4952-8dfb-ef2eec915400,2024-04-10,Sports,414.36,5.0,Gift Card,Pending,3.0
+e354b1bc-5c1e-433b-a416-c17c5a9f11b4,62735fe3-6b11-430e-9d15-72b29343318d,2024-06-10,Clothing,120.99,1.0,Crypto,Pending,3.0
+e66a37e4-b715-492d-bb5d-7b8c70388546,7ad12d6e-e504-4489-896c-468db152e251,2023-09-24,Home & Kitchen,82.36,5.0,Credit Card,Shipped,3.0
+62fa1339-2c59-427d-9956-ca755f41ce3d,d7c2fc7d-6a7a-4c5a-85bb-0f2cee348285,2024-10-24,Clothing,147.88,5.0,Debit Card,Pending,2.0
+abe0b8c3-4e3b-4236-a3af-45181adf14f5,f225c5c8-2cca-4431-a355-14b9c643a17a,2023-02-24,Home & Kitchen,21.88,2.0,Crypto,Shipped,4.0
+a8b3d177-f5c6-4ddf-8351-cffe3c6694d8,ca222912-7b7e-4c63-a77d-59f500040f8e,2024-02-03,Home & Kitchen,235.16,4.0,Credit Card,Cancelled,3.0
+be74a85b-fcc4-4cf4-913f-523a5148f631,a280be56-7d29-4871-aa86-c326aa999cd9,2024-09-26,Clothing,106.44,5.0,Gift Card,Delivered,3.0
+700b86ee-c201-4a7b-8469-f79469a48f02,b8faf7f2-0d96-4e76-8bc6-56dfac1eeef0,2023-06-14,Electronics,486.28,1.0,Debit Card,Delivered,1.0
+9b99e7d9-3b46-49b8-9159-75d782477379,4aa306a5-f3db-4fe4-bbe5-baa44c14c0be,2023-12-14,Sports,239.85,2.0,Debit Card,Shipped,3.0
+c9e07aeb-7c46-41a1-a7af-d475052b00f4,70bb1611-8e3e-459f-a552-f82dfb51af8a,2024-12-27,Books,323.4,5.0,Credit Card,Delivered,3.0
+106d20a7-7770-4ca9-8da6-fbbda2575e5e,bfed8388-2fd3-4df4-8079-ae7e47369e6b,2023-04-27,Clothing,400.42,5.0,Crypto,Pending,3.0
+b98dc3ce-d549-418d-8fa4-ea00cfe06896,01bdd881-b4d1-4b17-9aa1-4355f37f5706,2023-07-16,Home & Kitchen,213.09,5.0,Debit Card,Delivered,3.0
+9c60ff47-ba22-49bb-9c05-7823ac369625,c5736047-a7cd-484e-86af-03fb1515c199,2023-07-14,Home & Kitchen,261.41,2.0,Debit Card,Pending,3.0
+bf4ee961-d2be-4cf3-9fe9-f5b80230ebf7,5ce3fcfe-cf53-4f5c-a4bd-cfa0ad95f8c8,2025-02-03,Clothing,467.02,3.0,Credit Card,Shipped,2.0
+0a93631a-0f98-41f5-bd8f-e90a8ccf9889,5b1fc671-6ed9-4138-8ade-a773c9f85035,2023-08-12,Home & Kitchen,212.83,4.0,Gift Card,Pending,1.0
+fb5bb47e-462f-451b-81de-e3580c9e14ff,9efae1d6-4d47-4892-bca0-cd77340ca5d2,2023-06-13,Books,472.55,4.0,Crypto,Shipped,2.0
+515d411c-9fee-4dc1-b6cf-c173bb46c483,9730b39e-4003-4be0-af15-74f9101f44f2,2024-04-26,Books,242.51,2.0,Debit Card,Cancelled,5.0
+a941251b-d354-4a27-b7b4-aacd8a396245,01b639b8-a169-4b6a-a7ae-d959ce556db0,2025-01-09,Books,326.43,3.0,Gift Card,Shipped,3.0
+e5908e79-07f6-4b5e-8001-bced9b0802a4,376f2d8e-b3d8-41c6-a53f-674c35ec98ed,2024-05-01,Electronics,11.51,5.0,Gift Card,Shipped,2.0
+b650ffdd-a371-4e76-84d6-97f12328686a,a4226224-a64e-4240-978c-aa2e31319f34,2023-07-26,Home & Kitchen,260.75,4.0,Debit Card,Delivered,3.0
+fc070570-6928-4da5-965b-9b8ed3bb09db,07b4116f-1cca-43db-be64-80cb8a411237,2025-01-08,Sports,342.79,1.0,Credit Card,Pending,1.0
+a5efd64f-d94a-43d6-8796-973f6689d1b2,3e8393d1-bf9f-489c-b3ed-db2091f92314,2024-05-18,Books,407.98,5.0,Debit Card,Delivered,3.0
+582c84de-8fe9-4e64-9146-d448b3d55b7a,9bfa7dcd-41af-4332-a9d7-beed5657b465,2023-09-06,Books,432.78,4.0,PayPal,Pending,5.0
+203436f0-a934-4c82-846d-4882cedb3ccc,615513b6-3c94-4542-9520-38a11226564d,2024-02-15,Clothing,28.72,5.0,Credit Card,Pending,1.0
+3a0a1c71-8e57-4ed6-b5ce-cc3120f01e25,3c5f7088-710d-4c04-881f-a41fe0dcda51,2024-06-21,Electronics,69.28,4.0,Crypto,Pending,3.0
+da17e7a9-5177-4cfc-8e2c-6d6c31e904f5,cc6b53de-351a-4e4b-912a-2922ce10f4b2,2024-07-28,Books,191.4,2.0,Credit Card,Shipped,2.0
+97192850-eb6b-49c1-9312-6c28b784e803,29f1cbf0-96b8-428c-875e-ef67b958882d,2024-11-05,Books,403.94,3.0,Credit Card,Shipped,3.0
+e9268420-6850-45e6-a5df-04b00271356b,b45379b6-2f1f-491c-b00c-a21e5f34a445,2024-10-08,Electronics,221.53,3.0,Debit Card,Cancelled,3.0
+32797409-85d5-4bee-b6a4-035fb48fbeed,92a259f4-b6b7-4ae8-a173-3c5b1f2de810,2024-03-09,Books,232.53,4.0,Crypto,Shipped,5.0
+7612ae14-f332-4710-abe8-7e63540c43fa,83aad66b-6068-40b9-bdc4-5d64bcc59deb,2024-10-24,Electronics,240.56,4.0,Debit Card,Pending,3.0
+eb9d169c-0adc-4104-87eb-b2eb95b6fa7b,6063d8f5-0446-492a-8198-67574e4bf150,2023-08-15,Sports,14.55,3.0,Gift Card,Shipped,1.0
+45a644dd-42ba-4e43-9590-256f985c0718,50902796-d1d2-4480-84c9-8319b0db98e4,2024-07-03,Electronics,282.33,1.0,Crypto,Delivered,1.0
+0205c377-dbde-441f-ac36-ad678bc633c9,1431292a-c45d-498f-8fe9-f304268d576e,2024-03-28,Clothing,373.92,1.0,PayPal,Delivered,5.0
+57b65428-33ed-4453-9adf-6f6afab7a7f1,bf5e23cd-96e2-4e57-bb67-969c2de16f0a,2024-09-25,Sports,281.58,3.0,Debit Card,Shipped,2.0
+14723d3c-c2d3-4c20-9463-de43307a4499,7167e064-e17d-4e05-b366-895e522f5427,2023-04-06,Clothing,391.69,5.0,Gift Card,Delivered,3.0
+fdff6e4c-1c76-45b5-a4cf-d0b92f09c440,706327b3-e2bf-4e4d-96b7-d926f23349d8,2023-09-14,Home & Kitchen,254.71072557818434,2.0,PayPal,Shipped,5.0
+41cd8108-983f-4dc3-adf0-d0d480a052d0,80546093-8f33-4a23-bfc2-8bacf647fa95,2024-08-03,Clothing,162.4,1.0,Gift Card,Shipped,2.0
+72957831-24d4-440b-a7c5-2b3d7c9895fd,9413aa93-6179-4dc2-9a20-d49336f4734a,2025-02-04,Home & Kitchen,238.0,1.0,PayPal,Delivered,5.0
+69d7539a-aa9c-447b-89be-c13cb8ba7dc4,2937bede-1dfc-471a-ace9-3241d7dd0e7e,2024-08-08,Books,358.98,1.0,Crypto,Shipped,3.0
+818e9e93-f0de-4329-a11f-8d44e939d4b5,28b6066e-cd5c-4d1c-8a4c-4299996944bc,2023-10-08,Books,125.72,4.0,Credit Card,Pending,4.0
+1e6472cf-bea7-4c1c-a00f-5c557080a608,cfa4ecc5-a23b-4eb0-aac6-b45798321b94,2024-10-01,Books,342.1,1.0,Debit Card,Delivered,4.0
+88f923d0-bb6c-44d2-827f-5e76f8299a0c,6380999e-873c-42dd-99cd-e336251d065d,2024-05-28,Books,66.79,4.0,Debit Card,Delivered,3.0
+e6e3341b-b66f-4d69-9d23-baaf0586e9bf,2b0fd101-10bb-4af2-a351-dfad46d71b1f,2025-02-13,Electronics,13.55,2.0,Gift Card,Shipped,4.0
+71dfa35c-fdc1-4ec6-a92a-31aa78eb9e52,869f3e7b-408c-4377-b87c-6513b4051be1,2023-06-22,Home & Kitchen,46.04,5.0,Gift Card,Delivered,2.0
+8661fddb-3927-4650-97b3-5598ba1ee7d8,1df9c003-d417-4500-a3ff-a53f9a569407,2024-01-18,Home & Kitchen,387.86,3.0,Debit Card,Pending,4.0
+bb7fdd03-d5d0-44df-94b0-1bb7278b2e02,194518c0-18c9-4b6f-a566-9e787c544161,2023-07-27,Books,437.39,1.0,Debit Card,Shipped,1.0
+dd04a323-9ee3-453b-89d0-8bdd4197842b,2b3f1627-84a2-444c-95dc-cf55dc1298af,2023-04-07,Books,228.74,1.0,Gift Card,Delivered,1.0
+89b8c56b-9d9a-4d66-bc8c-db42a386ac76,c18953e1-2762-4ec1-bcbd-4dd2bd6b8c8a,2023-06-11,Home & Kitchen,357.22,3.0,Gift Card,Delivered,1.0
+75ad9c81-5f24-4932-87cd-3afc9d7b5739,b2f28293-930c-496c-8364-ec71bffd9f56,2023-03-31,Books,42.88,1.0,Debit Card,Pending,4.0
+928fd7bf-9d28-43b6-a752-73f232e06c5f,2a941e57-1cdf-4754-bad6-735ec98909ab,2024-03-21,Sports,447.81,5.0,Debit Card,Pending,1.0
+a92b4573-03a5-44b1-b108-1137d526815e,560b5f0b-3848-4aec-be70-89e38245d920,2023-10-08,Sports,98.71,1.0,Crypto,Pending,2.0
+104be8e2-2190-44c6-af83-8db956d411b5,16af499f-45e5-4a91-a345-97bb4812ab5f,2024-07-31,Home & Kitchen,182.08,4.0,Crypto,Pending,3.0
+2ce05bdf-3c78-4bf0-8efd-d57a859a984b,e2a59169-972a-47ca-b962-df02d25482dc,2024-04-07,Home & Kitchen,45.03,3.0,Debit Card,Delivered,5.0
+a13c992c-bf32-4f2f-ba8a-6acc278d22db,88fc9eda-8a1f-4494-8380-58c601608c82,2024-05-14,Clothing,91.24,4.0,Credit Card,Pending,1.0
+72e98ae9-e30a-4520-b056-9363abe1639e,9c75af45-cdc8-459a-9ebe-b2ba0f35faec,2025-01-18,Home & Kitchen,348.09,2.0,Debit Card,Shipped,4.0
+be89be20-a165-488b-914f-95c813936a81,bf3fe39f-8631-412e-99af-fa32fd60913a,2023-09-17,Clothing,213.9,4.0,PayPal,Shipped,4.0
+d006beef-6031-4010-936a-daaff1105bb5,56b5939a-a15d-429b-907e-923b870c7afd,2023-10-07,Clothing,231.49,4.0,Debit Card,Shipped,2.0
+50b43f27-0871-49ce-9e10-3df7ee269575,dc259098-a845-4c45-937a-8b352f94a3fe,2024-06-06,Home & Kitchen,353.88,2.0,PayPal,Delivered,4.0
+d76666dd-9d91-4d74-b1e5-1ff6142a9ce6,ea86c24e-2f86-40cf-973e-f8192cd60ac9,2024-01-27,Sports,237.83,5.0,Credit Card,Delivered,3.0
+0472f082-9574-4580-9acf-d2129bc773e5,e2106ae1-3547-4b62-a176-d3489186dbb4,2024-08-02,Books,92.21,5.0,Debit Card,Shipped,1.0
+e09af655-3dac-4e7c-a594-181156c0674c,bc756eb3-162a-4a09-b043-404f6bd3c27e,2024-05-01,Books,190.77,2.0,Crypto,Pending,2.0
+41a7d2a0-7852-4253-8cc5-de8b863de8dc,7703f159-0e77-41e7-9fc8-1446c54a8aae,2024-03-19,Electronics,482.58,4.0,Crypto,Pending,1.0
+bf1c9090-36d2-4c23-afba-a6557bddc70f,2fd639ef-a9b7-4b89-b2f6-db6ae019d0cf,2023-06-01,Books,450.18,4.0,PayPal,Shipped,3.0
+b0d939a7-1e79-4999-94d4-8dbfd3f67ed8,15a9e1a4-26c8-4379-8b5e-55d59ffd7ff6,2023-05-05,Clothing,167.43,1.0,Gift Card,Pending,2.0
+c3185fe7-b696-4233-95cd-9da1f25e3dbb,c70b77aa-96d5-47c5-b8a3-b3ee1d9174fd,2023-07-28,Home & Kitchen,336.58,4.0,Debit Card,Delivered,1.0
+36c49564-cb62-496a-a6b3-acd6a58c8ca5,fccc456e-cd45-4d06-b106-68aa2273c5f3,2023-09-06,Clothing,335.23,3.0,Debit Card,Delivered,5.0
+a4023f8a-5673-4a77-9630-1fe237eb7784,bff73159-0885-4541-8dc3-faba825dc1cd,2023-07-26,Clothing,254.26757628581294,5.0,Crypto,Shipped,4.0
+1f1cf298-2d76-4e3d-8aff-4718ed44e4df,35a57311-f657-4835-9d4a-9585153faa00,2023-09-26,Clothing,389.96,2.0,PayPal,Delivered,3.0
+3ce8fc4e-4fc6-40cd-98c8-5f88ee1d7549,f5339e11-9989-4d39-b066-99d483ed8464,2024-06-17,Home & Kitchen,487.22,4.0,Credit Card,Cancelled,3.0
+e444e961-ebc0-4788-a5c2-6b27be83cc02,4c79102e-f17b-44f7-bd11-9070902e7041,2024-04-15,Home & Kitchen,238.29,5.0,Gift Card,Pending,4.0
+3a99a84d-646e-432f-9d82-83cff27b06cf,5e01cc6d-dadf-42c7-97d1-3b87560b86f6,2024-05-27,Books,332.46,1.0,Debit Card,Cancelled,3.0
+aa3c892e-da05-4a38-a0b1-1102e033eb47,66bd69fe-151e-4b82-bd34-6bd82144fbeb,2024-11-18,Electronics,486.12,5.0,Debit Card,Cancelled,3.0
+7ea894d1-a6bd-41aa-9cfe-d83463096722,cd189501-5b8a-4a4a-887c-8acf0c5e3852,2023-03-09,Clothing,256.13,3.0,Credit Card,Delivered,2.0
+ff12162d-7858-4859-beea-a4cdbf6413f9,9ef31d4f-81b8-4104-bc03-b92f2a573b39,2023-12-07,Clothing,56.82,2.0,Credit Card,Pending,4.0
+455e5b88-3938-4788-943d-89cdfa8488b8,45a518a3-8680-475f-9a0e-4c82849da2d8,2024-06-08,Sports,399.78,5.0,PayPal,Delivered,1.0
+a1c5af0a-22dd-4489-8a39-1c33f138da49,26fb78d5-d509-4536-92e4-5824e4e2b75a,2023-12-28,Home & Kitchen,296.88,2.0,PayPal,Shipped,3.0
+285e3875-8f97-4269-b427-10301a6f313f,4858a0e2-0f0b-4fee-8839-89f2ae7ef4f6,2024-09-27,Books,39.24,4.0,Gift Card,Pending,1.0
+cdcffb53-3d61-4461-8f4c-cb2b2954ef7c,8359dbfb-376f-4154-9113-d906a16219ea,2024-02-04,Home & Kitchen,334.24,2.0,Debit Card,Delivered,2.0
+e6bf1328-6842-4523-b743-4962d48842d8,c39263c3-c092-4968-a1e3-b442434c9ab9,2024-07-07,Home & Kitchen,202.31,1.0,Debit Card,Delivered,4.0
+f78835b8-fabf-462d-b1b9-a648676bcdfb,8c986d82-29c8-496c-ae3a-1447ce4eaa5b,2024-01-03,Books,230.84,4.0,Gift Card,Cancelled,2.0
+a66b8079-ee80-49d6-852c-6ef7331c303a,f1b15d19-eb71-4806-a066-8bcb33389fb5,2025-01-12,Sports,448.42,1.0,Credit Card,Delivered,5.0
+76cd28bf-5f89-4d2e-bea2-a84f03925e79,aef6ac0e-20cc-4df7-b8bb-34a204c7031d,2023-03-18,Sports,436.54,5.0,Debit Card,Delivered,1.0
+a3076f4e-1bc2-41ca-995c-6e95ea1ddb3e,e8e5e832-63a5-486a-9164-52f19a4d7b2c,2023-08-28,Sports,433.67,4.0,Gift Card,Shipped,3.0
+56cd0d15-9e1d-4c50-939c-073443de8ed4,e59255c2-3639-415b-9858-6ee3edd02d68,2023-04-20,Sports,449.93,4.0,Debit Card,Pending,3.0
+4d47c482-f2bd-43ca-b89d-224a4ce9d959,af061851-b8bd-4ea7-bbdc-9e781a6b4f12,2024-08-03,Books,183.21,3.0,Gift Card,Shipped,2.0
+0e479a53-55e2-4ab3-b01d-9192482e9079,1359304a-abe2-46d4-9a56-36749b540138,2024-11-19,Home & Kitchen,23.68,3.0,Gift Card,Delivered,1.0
+1242f367-cf03-4916-9748-8aad2414c9ec,09924ff6-7a35-443a-bf82-cb1bea1e7dd3,2023-05-01,Home & Kitchen,220.07,3.0,Credit Card,Delivered,3.0
+369591f0-08f8-40f8-9c74-b34d50688203,c7b90e8b-ed5b-40c3-ba96-ce079dda7516,2025-01-31,Home & Kitchen,443.79,4.0,Gift Card,Pending,1.0
+5bd92bfe-a053-4aac-9e59-1fb4a41aca8e,4d841b93-051d-4159-8ddf-84dd0fdac034,2024-04-11,Home & Kitchen,24.49,4.0,Credit Card,Delivered,2.0
+021f1ad6-d956-4864-a192-e22571f219a7,7400e806-19b5-4039-85cb-e41898656370,2023-05-09,Sports,254.26757628581294,5.0,Crypto,Pending,4.0
+76443c91-3aed-45d0-9fe4-8a679207f447,2d5145a3-0e0c-48a0-ba80-990e5994254a,2024-05-15,Home & Kitchen,323.4,4.0,Debit Card,Pending,4.0
+e8cacc7e-314d-44b0-b531-294eb56563fb,1daa425c-18ba-4a2d-b717-b5cf37a9e74d,2024-04-06,Clothing,281.17,2.0,PayPal,Pending,3.0
+49ee2cfe-9038-477e-aede-8e01395385f0,ec32f9af-44c4-4efe-b67d-73a6fcc1f637,2024-05-15,Sports,177.78,1.0,Debit Card,Delivered,2.0
+37e7200c-8519-4254-afbb-a54d6993a0f7,5cccb10b-5add-4400-9d21-2f76f7981e06,2024-01-20,Home & Kitchen,337.64,5.0,PayPal,Shipped,4.0
+32f32ef9-4a47-4767-8c30-5f6a42bcdce3,d3e9594b-6285-40ab-af36-e02c284a0565,2025-01-31,Sports,157.67,2.0,Gift Card,Pending,2.0
+3e469477-c2d1-4370-acff-4c9f78dc0a0b,79dd3fa6-fe52-4cca-b0d7-a31e57733c4d,2024-11-10,Clothing,317.39,4.0,Gift Card,Shipped,3.0
+3dd943c2-ff23-4284-a693-abc38b64b444,f9bf1aad-0dc8-4cdb-9568-a5fc6930012c,2024-07-14,Home & Kitchen,400.12,3.0,Debit Card,Shipped,3.0
+3cd15301-4a71-4860-9b3e-199793536818,15e48855-8466-4afc-9e97-0177ed9fd776,2024-09-10,Books,254.56300914739387,3.0,Credit Card,Pending,3.0
+5495502a-48c6-4ddc-adbd-8746c75dd563,6e26c422-9c6a-4f24-9918-e5dcee08f553,2024-07-18,Clothing,76.93,5.0,PayPal,Cancelled,3.0
+43ecfac3-6c19-41bc-8f4a-757438e15b93,e286e214-89d0-462a-a322-d967b845c4f7,2023-02-22,Books,459.52,5.0,Debit Card,Delivered,1.0
+4e928ceb-b5af-43ec-8650-cef306be9474,e6658538-5b5d-42aa-a007-52462e5da422,2024-02-16,Home & Kitchen,199.38,1.0,Credit Card,Pending,1.0
+d1cc2240-362b-46b3-84a8-5ff3d6fd12ec,6dd9defd-b7be-490e-9bee-a5258926f6b9,2024-06-03,Home & Kitchen,475.22,2.0,Gift Card,Shipped,1.0
+067df763-ccc5-4945-8753-8daa99a0fb0f,78c1d497-9ca5-4b53-9419-c076af6aa07f,2024-09-15,Books,209.74,4.0,Gift Card,Pending,3.0
+e404cfff-e97c-4ad5-86c9-6ed186bf4131,df0db916-1e66-4ee7-bc3e-fdff27975990,2023-11-06,Home & Kitchen,362.31,5.0,PayPal,Shipped,4.0
+c957c556-3051-4f19-b65a-ad28f337a563,a2e578ce-49f6-452d-a0fc-46dd5be16ef0,2024-05-29,Clothing,124.63,1.0,PayPal,Delivered,1.0
+ddaf3fa1-1970-4023-9031-25ee36088208,a560d243-089a-4c4e-9b57-5e56308de06f,2023-03-03,Home & Kitchen,254.71072557818434,2.0,Crypto,Shipped,1.0
+e0054867-0b0c-4ab4-8a90-4f8ccee87178,53190cbd-7651-4cca-b3f5-7a99dcd372fb,2023-10-01,Clothing,409.91,1.0,Credit Card,Shipped,1.0
+8771ee7d-a63e-41f9-99e6-54d7002db999,5be68417-69a9-490c-ba66-3b0f7bdf1365,2023-10-23,Electronics,329.74,5.0,PayPal,Shipped,3.0
+8e6258d9-e03f-436c-9f34-8f23abaf7c33,3683b743-e801-41ed-a408-7c4a1af1b133,2023-07-31,Clothing,389.07,2.0,Credit Card,Pending,2.0
+c0290310-3bfd-406d-a401-1e5f6bbc6033,7e3513b8-fa46-439b-9ee8-e42ca59b1687,2023-04-05,Electronics,8.35,3.0,Debit Card,Delivered,2.0
+64a619a4-2fa5-4248-b0d7-2d74567fc95f,16ea34ac-0835-4755-aaa0-b7cd84b97462,2024-03-02,Clothing,446.5,1.0,Crypto,Delivered,4.0
+c27bde5f-34aa-4fa3-961c-2fc28302ada0,6c1d3add-85b5-4061-a9a3-b860cb6d42b7,2023-12-27,Clothing,29.98,4.0,PayPal,Delivered,5.0
+df619de7-d9db-4b1b-bad7-4b96706058c0,f6fff9ca-3662-4d90-9f29-5838d245c14e,2024-12-11,Home & Kitchen,34.67,1.0,Debit Card,Shipped,3.0
+774d17d1-2600-49c0-9596-bcba40ec66be,c7040edb-0e60-4fd1-9d80-4e81d5541e9a,2024-03-24,Home & Kitchen,133.38,3.0,Gift Card,Delivered,3.0
+de6afbbf-8ace-4f31-8871-ccbfdc593052,2f726da0-0cb8-4d77-80d9-417abbe516c4,2023-09-06,Electronics,310.29,2.0,Gift Card,Shipped,3.0
+09598515-85b8-42a4-9a54-b7d688b70cf7,fece9acf-e3b7-4972-9b4b-ca8f49cfaa35,2024-10-15,Electronics,123.14,5.0,Crypto,Shipped,2.0
+cca2a4db-8a1f-4250-b32b-d90ae20d32b6,aa1cf6ed-ac74-41a8-857e-5d98c3c9a8ee,2024-03-15,Home & Kitchen,371.18,3.0,Debit Card,Delivered,5.0
+de3e4ddd-788b-4565-a506-6d45a8161dbe,df2c5705-08d6-48f4-be5a-d76d7e5f5654,2023-09-12,Sports,150.78,2.0,Gift Card,Delivered,4.0
+af479562-a2a9-4611-8e5c-b76c78945206,0ac6a5eb-5bd8-4c08-b13b-62fea1be7373,2023-10-29,Sports,254.85844200897483,1.0,Debit Card,Pending,1.0
+84e18e34-cf88-4ee8-8e66-45e56d4d7a85,98f063e3-1f13-410e-bfc1-5d5f1334b513,2023-04-25,Sports,309.16,3.0,Gift Card,Shipped,2.0
+54094ee3-9ea7-4913-ae37-dcbd6bf90b25,5a4ffdaf-533f-4564-9ad7-ac8ca410c1c9,2024-07-01,Clothing,401.02,2.0,Credit Card,Shipped,3.0
+da6d28a3-94d0-48d1-b7b9-8a0029702d23,b58f9a13-e45f-4667-8fbb-c006a894dc09,2024-09-03,Clothing,219.95,5.0,Debit Card,Delivered,3.0
+59382d48-3d58-4730-bac1-1a9d1f831f8a,1e413d56-3aa0-4396-af93-244307269b96,2024-12-17,Clothing,254.71072557818434,2.0,Crypto,Delivered,1.0
+49648e03-1b0c-4c33-abcd-3039b4ba74c3,ccc6e463-19ec-4312-9747-467ae9c508e7,2024-07-04,Electronics,82.66,4.0,Crypto,Shipped,5.0
+765e6d9c-bf32-425d-a580-1ecc6dd8a189,c2c2627d-0fe8-4021-9a74-90969c068517,2024-12-04,Clothing,363.56,3.0,Debit Card,Shipped,3.0
+9b9dbe6d-cb69-419c-a7c2-432b5931ae75,c7c0dcd8-1010-4de8-89a5-6ea7bb06d6ed,2023-09-03,Home & Kitchen,5.03,2.0,Debit Card,Shipped,1.0
+c4040852-1268-4eb3-b93b-62eafe7012f6,646bc153-4604-4615-a40c-4852c7941740,2025-02-08,Clothing,249.4,2.0,Gift Card,Cancelled,1.0
+418e4ceb-3155-44ae-9eab-4b0e92026823,3ae5e14e-feb3-47a7-975c-783a2dde094f,2024-09-30,Home & Kitchen,254.4152927166034,4.0,Crypto,Delivered,3.0
+02359a92-b264-40bf-ac16-e2b08dae2622,ec19aedf-c5d5-4b99-93d5-623bd4a22a7e,2024-07-13,Home & Kitchen,284.88,5.0,Credit Card,Delivered,3.0
+24fe14bc-01f4-40aa-aeff-497ef71d2953,e613cebd-0f02-4c2b-8ef7-97001b940b82,2024-09-01,Sports,116.18,5.0,Debit Card,Pending,5.0
+4b965b49-6fa0-4904-84a7-20d23f302546,cffbefa2-3aac-4345-8a57-185ea52c6f18,2024-07-31,Electronics,32.07,4.0,Debit Card,Shipped,1.0
+3e4c350f-8195-451e-a923-d61b8e81d4c7,655677a3-79e0-4fc5-b191-8d3fd6ef6e2a,2025-02-15,Electronics,457.87,5.0,Gift Card,Delivered,2.0
+d7713d5d-57b7-4830-8c66-3dbb330ffdd4,21a4a58f-b4e2-4e26-a507-0a4d2c51e4b7,2023-08-11,Books,28.66,1.0,Debit Card,Pending,3.0
+b340fafd-6d40-476a-b79b-91abb4d6fbc0,2b5b1df4-42cf-4ce4-8150-2f64d5cbf540,2025-01-29,Home & Kitchen,330.37,3.0,Debit Card,Delivered,3.0
+48d83a99-fc1e-4866-b830-519e6a4ddaac,0e327751-7634-4753-98ca-2c20ba1b92c9,2024-06-17,Home & Kitchen,180.02,4.0,Gift Card,Pending,5.0
+8c3faa82-d4c3-43f7-94ce-cf8931b46b9d,dd790e6c-c572-47f6-9ae9-720fce515715,2024-03-11,Clothing,100.71,2.0,Credit Card,Shipped,1.0
+dd8919dc-61cd-4e41-a852-58b291e0088c,75a4a825-cc93-4473-a661-490c92e8d710,2023-03-27,Home & Kitchen,176.85,5.0,Crypto,Shipped,2.0
+7c58cb8c-e12e-4b37-9457-1b3d294ae682,1e066899-5b93-40c0-a514-5d3d671e4b87,2024-08-11,Books,453.28,2.0,Debit Card,Delivered,2.0
+c4290106-f7ce-4cf1-8889-2189d6f7339e,ac264548-f33b-4fe6-a0a5-061d27191a71,2024-10-25,Clothing,254.56300914739387,3.0,PayPal,Cancelled,3.0
+b48a1a90-ece1-4a5e-9475-aa932748eaf3,f051766e-3ec8-4e7f-90f5-1b4d076075c6,2024-06-16,Electronics,279.57,3.0,Gift Card,Shipped,2.0
+1e575f2f-48f8-4276-8653-4069c9514d5c,9620750d-017f-4e84-a1a9-83232433932c,2025-02-04,Clothing,219.46,4.0,Crypto,Delivered,4.0
+6ef3734d-5215-4a97-8907-3e734e96ec12,cb377d2b-680c-47dc-b7de-155a1fe7b0a7,2023-09-17,Electronics,248.11,2.0,Debit Card,Shipped,3.0
+b99f291a-a098-43df-9c91-8c30cca2d0aa,651ac271-44a1-4fb6-b0a9-94dfd38cf4d3,2024-05-09,Electronics,330.66,2.0,Debit Card,Delivered,1.0
+b5d75dd3-685a-4133-b4cf-2391fb88804e,3d887357-84ce-4810-bbc8-6b9c4a926dc0,2023-07-29,Books,368.68,4.0,Crypto,Shipped,1.0
+0af95f3f-6311-4d93-8de7-46db7737eb5a,cdab3992-6f29-4cb3-a03b-5e9130ac2220,2024-06-14,Home & Kitchen,353.25,2.0,Debit Card,Pending,1.0
+74934c16-fb98-4c5b-a6a6-d85fe14795ab,d8e0d55b-a435-46ba-9634-4e5249d9c98d,2024-01-02,Electronics,355.78,3.0,Debit Card,Delivered,3.0
+e2d9a349-5211-4a61-aa50-1ce15f7eeb45,ddedb437-6b4a-4ee9-a99b-743dd0e0b003,2024-07-29,Sports,421.37,2.0,Debit Card,Pending,3.0
+b104c390-5cb2-47a3-9da8-4893ea8370ad,66d9ea60-8595-47a1-b080-9950e32fb3be,2024-06-30,Books,254.85844200897483,1.0,Debit Card,Delivered,2.0
+f3adfa5d-a1ce-4953-ac8a-a3bebf4ff417,e54db378-1d38-4321-bcc3-c908eef6f2c2,2023-03-07,Home & Kitchen,177.35,2.0,Credit Card,Shipped,3.0
+9f9a248b-2edf-4b94-b017-fcbc974d2321,e46812f2-23aa-4e89-a6c4-59fd5d6019f6,2024-02-08,Home & Kitchen,480.9,4.0,Credit Card,Shipped,4.0
+8ae6f804-d7dd-450f-ae52-d97d24ba6f3d,93960824-d9f0-43ae-8e05-37a8ec838c84,2023-11-01,Home & Kitchen,121.33,3.0,Crypto,Pending,1.0
+390bf1c4-46c4-4830-bdf4-b4d9b08568ea,e7afd568-57a5-41ce-95c0-27a0594d34a2,2023-07-31,Sports,123.68,1.0,Credit Card,Delivered,1.0
+b97277b0-42ac-481f-bca4-aefa0829a947,974a1521-a79d-4fa4-9258-8805a61c7d50,2024-06-16,Home & Kitchen,469.62,5.0,Debit Card,Shipped,5.0
+37dfaf16-4aea-4636-a9e3-0358b5a47c40,1e53c05e-5454-4612-8ccd-bcaadb7cb99a,2024-08-26,Clothing,245.74,3.0,Gift Card,Shipped,3.0
+f159eae2-64ba-4b71-9620-006a3ecaa8c4,9a3417b2-6959-4fb2-bd60-bae39ddcf38d,2023-07-17,Home & Kitchen,348.17,4.0,Credit Card,Pending,3.0
+d648a9d4-249a-4594-a844-eae2cc10ff51,dbd04f19-32da-4d62-91b0-f8373cef1b9a,2025-01-03,Sports,315.2,2.0,Debit Card,Shipped,3.0
+5105342c-2a16-4a02-8f0c-36441ea8b761,48f27444-3e92-487c-9c70-eda694f9cb7a,2023-09-03,Sports,162.12,5.0,Debit Card,Shipped,1.0
+3cc5648a-9c0c-4c4f-a76e-4660aa41b3e7,e3df1cf2-391f-4760-a4d1-ef2bbd873fce,2024-09-27,Books,208.78,2.0,Debit Card,Pending,4.0
+6919da81-5740-463e-8405-93ad271e606e,609c00cc-a6e1-40d3-acbe-ddc6f94702b9,2023-07-12,Clothing,250.79,2.0,Debit Card,Shipped,2.0
+aa7303f3-e2ca-4723-b4df-1e94c6813acb,4d39708d-692e-49a1-b79f-cdc35d60bff4,2023-09-18,Clothing,76.64,5.0,Gift Card,Pending,5.0
+d5024bd2-126f-4006-9a90-ebc5cb4c2683,a23b6fbd-ee8f-46c4-bf39-b4a455391ff4,2024-11-08,Clothing,305.42,1.0,Crypto,Shipped,1.0
+4b8b4c9c-ebc9-4987-abb8-4517ad277130,70d3d565-7c84-47f9-abc3-e7e93d599f6a,2024-05-16,Clothing,290.45,2.0,Debit Card,Pending,4.0
+451f6b93-1d99-47ba-a853-2f9f923238a7,22810509-7d37-4a59-ad34-ed655698924b,2023-06-02,Sports,382.13,4.0,PayPal,Shipped,1.0
+3d69c824-d783-450f-832e-26ad1480cb47,6e973864-699b-4ac2-a6f2-77ea24f053a4,2023-08-04,Home & Kitchen,444.9,5.0,Credit Card,Shipped,4.0
+a00c0aec-c17a-40a1-b1a3-29e457b20e28,12f0529f-e8f1-4762-9a5f-9bb84d70c1fa,2024-01-18,Electronics,425.41,4.0,Credit Card,Shipped,2.0
+ae9a92a7-0128-41d4-bb41-bf558563604b,5b832b26-b91e-4153-a419-593acc65b9ef,2024-07-04,Books,74.16,4.0,Gift Card,Shipped,1.0
+e701ec7d-fce1-4084-a497-fda764ce2c34,726ae940-bd48-4f2a-a92a-df97183b60b0,2024-06-09,Clothing,205.22,5.0,Gift Card,Shipped,4.0
+962cccff-a8cd-4567-b5e2-90beafcc1e5a,e8d14bbd-b7c7-4dcd-9bb1-38b954af42c9,2023-09-13,Books,243.09,1.0,Debit Card,Pending,5.0
+f604d3fc-d040-42c7-8da5-1160c0e41c41,26da6908-3ec8-4efa-9605-3503255d90bd,2024-05-21,Sports,203.65,2.0,Debit Card,Delivered,1.0
+1bb911c2-5cc1-4512-89df-ac1bdad14bc0,d2eea24e-8ead-49a3-ba03-43a9a48bc776,2025-01-31,Electronics,21.47,4.0,PayPal,Pending,4.0
+1235b36c-b7a3-4d8f-bc31-4ed108e4b0cf,e25353b2-84f8-418d-91f3-b5c5c38a6ed4,2023-07-16,Clothing,437.33,5.0,PayPal,Delivered,3.0
+05722435-8807-4c08-958d-d651fc83da13,34649a14-e599-43f9-9c97-41ad4a5dea4b,2024-07-09,Home & Kitchen,135.3,1.0,Gift Card,Delivered,3.0
+852ee667-a833-46c8-94b9-1b75f4c09e0c,b07d21bf-34e4-4d2f-936d-47dc5f1e5c5b,2024-09-05,Books,462.74,3.0,Debit Card,Shipped,5.0
+e85cfe76-5caa-49bd-98df-6d35fad19116,cd893e7b-3401-48b5-9f9d-dc7b61248f61,2023-02-28,Clothing,310.87,3.0,Crypto,Shipped,3.0
+6079617c-62ab-4380-ab66-23a9fc8d802b,ee9d6ec7-f111-4102-a39c-255b750ece91,2023-03-29,Sports,142.46,3.0,PayPal,Shipped,1.0
+74415388-510f-486a-ac9d-f65e85d4072a,5d830a46-9e39-42ac-9474-75d78a062e55,2024-07-08,Books,30.86,3.0,PayPal,Pending,3.0
+b252e672-33f2-4fda-88ac-1127ce6929aa,dc3d12e9-4e5c-4258-b7d7-639aa7beb50c,2024-04-21,Home & Kitchen,254.4152927166034,4.0,Credit Card,Shipped,3.0
+ac142336-adab-47fc-8844-260cf73f3273,a3146313-008f-462e-8f06-9e999afa3f7a,2025-02-07,Sports,426.82,2.0,Crypto,Shipped,3.0
+c11cadaa-9f84-4c60-9396-e2287c316d8a,90539050-1457-486a-b90f-259903181422,2025-01-11,Electronics,417.22,3.0,Gift Card,Pending,3.0
+0745592d-c48a-4bb2-9569-b92c8333ef1b,1c4fa623-6add-4113-a11b-e0f71713899e,2023-05-28,Home & Kitchen,459.46,1.0,Debit Card,Shipped,5.0
+e3c54d36-0246-43ac-af25-6e965020b316,57d6d81e-e72d-486d-bef1-2da8f126fe84,2024-11-18,Home & Kitchen,360.93,4.0,Crypto,Shipped,5.0
+40f3ba77-c8ad-416b-bf7b-4702a2aa2270,941b31a7-2333-4bc7-b6cc-dd79dbc216ea,2024-10-24,Sports,39.28,4.0,Debit Card,Delivered,3.0
+667959da-eebc-4451-ae80-4ed631ceb98b,17cb5533-8d01-4cb9-814b-8413369c0b27,2025-01-30,Sports,305.42,1.0,Crypto,Shipped,4.0
+30387791-8647-4149-9de4-d4ddb6167bda,33e0e32d-e332-4e62-9449-4d2dc864d08b,2023-05-02,Home & Kitchen,259.04,4.0,Gift Card,Shipped,1.0
+cd1dc94c-f884-4a28-bc5b-1f03a2f49f5c,a547f7e6-b3a8-481d-97f5-1167eabb4309,2024-04-10,Books,87.43,5.0,PayPal,Pending,4.0
+0562648b-30a5-4ccb-a0d9-3440f35750a8,0125e3c7-3d2e-46ed-aeb7-84d55b8afabd,2025-02-11,Clothing,86.4,2.0,Gift Card,Shipped,3.0
+b2c097ef-1f1f-48d7-84b5-528579f08131,c1ce1d4f-0ab8-4587-ab5e-78469deb7a12,2024-09-07,Home & Kitchen,261.24,5.0,Credit Card,Delivered,3.0
+e0e283b8-dd4e-47cd-88f7-01a55c5c6d59,fad41ed4-743f-4b89-b733-252754eeca0f,2023-06-05,Electronics,150.46,5.0,Gift Card,Pending,3.0
+7cc9cba6-b82e-4535-a9ce-6e153ffb1a03,7f70ac60-ef37-47b6-9072-8996c406b871,2023-08-13,Home & Kitchen,261.2,2.0,Credit Card,Shipped,3.0
+93a634e3-687b-486a-a5eb-0c142ea1dee9,5e1edc03-fb88-4cd5-80c7-32de774e192f,2024-07-26,Clothing,331.22,5.0,Debit Card,Delivered,3.0
+ed21d85c-5042-48c2-81ba-5be9ca5da598,435456ef-db71-43c2-b7f1-675c6e1993f3,2024-01-26,Home & Kitchen,268.57,3.0,Credit Card,Delivered,2.0
+d8c29ef8-c4c7-4abf-abd6-272d6d1d799b,14242b27-9a20-48f8-94fb-c45afc02f331,2023-10-09,Clothing,206.99,3.0,Debit Card,Shipped,3.0
+251fdb63-d299-472f-bd84-6b3d89fe98f9,ffc3e543-3cfb-44fb-8b44-fcf45cd45a95,2024-08-24,Electronics,305.47,5.0,Debit Card,Delivered,3.0
+1802807e-6801-4de2-a686-80d27fb74ecd,57b67c96-428f-495a-9cf0-33b498fda78b,2024-06-23,Clothing,438.71,5.0,PayPal,Pending,1.0
+113534ef-d4d1-4f5a-9910-9bdc4f5bafd6,0e3761d7-8458-4c88-b7f3-084be9828fee,2024-05-24,Sports,360.52,3.0,Credit Card,Shipped,2.0
+885d1cf0-1d87-49a4-84ea-b051e8f83a84,ba35cc31-a8fc-4d7a-9e32-fb489d3a93dc,2024-08-29,Clothing,275.44,2.0,PayPal,Cancelled,1.0
+15dcf7bd-8ac4-441a-8e2b-773bcb961162,2a42cbf7-eb65-473d-87ad-d55e3d251bfc,2023-07-27,Sports,260.21,4.0,Crypto,Pending,3.0
+6c42e9fd-d771-4f31-80a8-f363802061ca,977b9827-b7c7-48f9-a34f-59a6e6f35d97,2023-10-26,Electronics,16.11,2.0,Credit Card,Delivered,3.0
+e262b88d-4b52-4e01-afad-205ee3d50edb,7aaf53f5-04c3-44f9-8b94-f070135be78a,2023-08-27,Books,254.56300914739387,3.0,Crypto,Delivered,3.0
+9d1d0a77-5ae5-4af1-8f7d-b5a6f66ee5fd,9ef8c3e9-f504-4a7c-8e0a-6c0694c3538e,2024-02-23,Electronics,235.3,4.0,PayPal,Delivered,1.0
+e341d2a1-a91b-4576-9037-7d92a70550f7,f7f043ef-4786-4d6d-81f9-64b526af32a5,2024-08-05,Sports,276.27,2.0,Debit Card,Pending,3.0
+130279a9-b4f1-4b85-8440-53e41557539a,fb89bf84-d654-47f7-8830-2a77ca5fc576,2024-10-14,Electronics,301.63,3.0,Credit Card,Shipped,1.0
+1f15b132-5ac8-4071-8242-0081e67216e7,495681cd-60f0-40ee-b928-802f09b4d72b,2024-07-05,Clothing,406.98,1.0,Debit Card,Cancelled,5.0
+17b8d455-9dbe-4a05-ba28-f9869919dd20,999700a6-326d-46fd-9671-be0c908e84e4,2025-02-20,Books,254.56300914739387,3.0,Credit Card,Pending,3.0
+08cc51f6-7aae-42f7-b17d-72adbcf5c5a1,9399f826-073f-4474-88c5-3cef4a04c5f8,2023-08-09,Books,462.65,1.0,Debit Card,Shipped,3.0
+f2da74a8-be70-41db-9088-df2d64a2ecaa,29348f18-52de-4c96-88dd-c6e505d7cc38,2024-06-17,Books,138.8,3.0,Gift Card,Shipped,3.0
+728a4adc-b472-47a2-9185-8d51b1608c4b,5dacd76c-e5da-42c7-b7d1-d35359ccfc79,2023-10-02,Home & Kitchen,312.7,1.0,PayPal,Pending,3.0
+efeee4a0-9e7a-419b-8cfb-4dfbde609470,76aedd5f-865e-4148-8861-ff2f2a2d549b,2024-06-08,Sports,205.5,1.0,PayPal,Pending,1.0
+a676e153-6254-477c-9d2c-172e93175ca1,559a74ca-27ed-4950-b1ab-7af531b47198,2023-11-22,Sports,369.8,1.0,Debit Card,Cancelled,4.0
+ee9c9d8c-c689-4be1-bc2a-3912a4adbbfa,e05b5c7a-ca8c-480e-9a6b-fa51146127f8,2023-06-07,Electronics,274.57,3.0,Gift Card,Pending,4.0
+6e269eb4-2dc7-477b-bf4b-bf40681afb0c,ea2fa931-0ac6-4cd4-8d4a-29e596cfdedd,2023-10-10,Home & Kitchen,454.91,1.0,Debit Card,Pending,4.0
+78a0bd9c-23b8-4548-8157-b493a9082a8b,ab4cc59f-02f5-463b-a235-de0b7d28fe9b,2023-10-24,Clothing,280.22,5.0,Crypto,Shipped,2.0
+1b536b03-4339-463a-b81c-0d2c4b067a23,20fb2d5a-3449-4c2c-b648-6b6cae521008,2024-06-18,Home & Kitchen,239.41,3.0,Gift Card,Shipped,1.0
+79f1857e-42ba-4b90-8444-eafd5bcae9e4,e5cd6468-8ccf-428f-b899-d5050ccf937c,2023-10-02,Clothing,36.24,1.0,PayPal,Shipped,2.0
+f5336ca9-4230-48c7-b1af-a150916458ee,9db01cbb-02b1-442a-9c76-ac035c4eb3ed,2023-05-17,Sports,307.19,5.0,Debit Card,Pending,5.0
+f8c0bd52-68f3-4ec5-8944-268e81142270,4d32da7d-138b-4b15-ab42-6b0ce508694a,2024-12-05,Electronics,13.83,1.0,Credit Card,Pending,2.0
+e503b9b4-0b5c-4768-9b01-3e3fd61fcbf2,716c663a-87d9-4e09-b7b2-c891132b5f9b,2023-12-17,Clothing,365.09,2.0,Gift Card,Shipped,3.0
+8b881aaf-5d91-4260-a835-189a1e7c2fb4,e5bd29c9-9c94-41b8-83f6-b5984ebe7ae4,2023-11-23,Sports,245.5,5.0,Credit Card,Shipped,1.0
+c898895d-2a04-44d5-ab53-ee2b3193843f,16bda66d-6d69-45bc-a9d9-b570b08158c3,2023-08-15,Clothing,260.5,2.0,Credit Card,Pending,3.0
+3a1d949a-1f6a-4bb9-8e89-e4680067d46b,210924d3-b72f-48f3-8fb3-750276ebc1b9,2024-12-02,Electronics,471.09,1.0,Debit Card,Delivered,3.0
+98a385c8-edee-485c-94a4-e34ebd50b08b,6b1f7ebf-28d8-4185-b39d-b123dae6ff67,2024-03-14,Electronics,53.14,5.0,PayPal,Pending,3.0
+20d27185-a3df-4cb9-9538-5325ee024a16,44687c5d-d5d9-410b-83c2-39e5250f0271,2024-01-17,Home & Kitchen,322.8,2.0,Crypto,Delivered,3.0
+10d8546f-51a5-4c6c-b33b-112665ce905e,e2fd35ef-467e-48c7-8bf8-bed6be894e24,2024-03-31,Clothing,44.13,5.0,Debit Card,Shipped,3.0
+6f313edf-fa08-4b4a-aae0-ec75fead6e35,fc4fb6aa-db5e-4796-b294-269cd22c6ab9,2024-01-23,Home & Kitchen,218.06,1.0,Debit Card,Delivered,2.0
+3d8af1b8-59e5-418d-8148-96a10048e306,a96c6130-3f69-48f4-a00c-38eba82eda1e,2023-09-22,Clothing,205.23,4.0,Gift Card,Pending,4.0
+ae25094a-ba23-40f9-a300-aff214bd5cac,c27e71e8-f89e-4c20-a843-91c8845487a6,2023-08-28,Clothing,187.21,2.0,Credit Card,Delivered,5.0
+b37099f0-d450-4900-8172-1b17ee8f3a9d,a28492eb-ee06-4b26-86d6-bd7e0820c9a1,2023-12-17,Books,20.44,1.0,Crypto,Shipped,5.0
+753018eb-7692-4375-9556-4376caace1c2,9d2f2c5c-f8ea-4223-9558-1d75d40a699b,2024-11-17,Clothing,221.64,1.0,PayPal,Pending,3.0
+20ef30b9-d304-400f-b745-86256e9bae45,5c959b46-d221-4df4-a00c-1b09ee18cd5a,2024-04-14,Books,72.26,4.0,Debit Card,Pending,2.0
+e75aed5b-8cef-4524-b0ba-0c9b00c27e17,c804fc68-9a28-439f-91b8-541219d938c4,2023-02-25,Electronics,405.92,1.0,PayPal,Pending,3.0
+70e31cdc-4d39-492e-86d2-511273180b63,1dfbefc4-fdb2-4630-a980-5d1da27ff0ab,2024-01-05,Books,438.76,4.0,Gift Card,Pending,1.0
+8680bc28-140f-43f5-b7d3-d247ae9b959f,62365cfc-4925-4630-8230-26c4983b3b09,2023-12-15,Electronics,422.61,4.0,PayPal,Delivered,3.0
+c924829f-bf3f-4636-94e3-7fbe43099a06,b732d085-888b-4cee-a6e2-ff5ac5115e81,2024-08-24,Sports,455.57,1.0,PayPal,Pending,2.0
+f10525e1-c801-4a09-a411-f644fcbef038,19646a37-d33c-4ed9-9151-b06de827bb3e,2024-09-06,Electronics,187.76,4.0,Gift Card,Cancelled,2.0
+ebc162a9-31ba-48a3-b3af-eac0f0d8fa9e,5b538946-2e0d-4200-9631-63c51afcfb67,2024-10-17,Electronics,146.31,3.0,Debit Card,Shipped,5.0
+79b8a828-de3d-4c87-a5a1-7633ecb57c41,6393dbe1-5bfe-4144-9e5a-cdd2f61793d7,2023-07-30,Electronics,486.43,5.0,Debit Card,Shipped,4.0
+7c4c1873-7589-452e-9427-441d1b20afbc,abeef73c-e601-44e4-87a9-3260a256fb0b,2023-10-20,Home & Kitchen,47.68,2.0,PayPal,Shipped,2.0
+23975602-f5fb-4da0-b37a-964234223557,4964e146-aae9-45a8-a5b5-30f7bc508a6f,2024-07-23,Clothing,254.4152927166034,4.0,Credit Card,Delivered,1.0
+0907e819-91d8-4589-8912-546e66b16d7e,bfafc9b3-e348-4f86-8ddb-28d53b71fa2d,2024-08-05,Clothing,254.26757628581294,5.0,PayPal,Shipped,1.0
+ef4d2f9a-1a73-45bf-a08f-f30f06c57767,13189e33-63de-490e-b0da-b7d769e9eb99,2023-10-22,Clothing,180.39,5.0,PayPal,Delivered,3.0
+82f0d0bd-c001-46a1-84fb-e1378195db25,e30181d1-6202-4947-a4e4-954d5ea2de6d,2023-09-03,Books,46.09,4.0,Credit Card,Shipped,1.0
+1f46b912-61bd-485a-9112-9bb7c33cc006,29c3c425-0101-4b8e-9b9a-d945cb4adddb,2023-09-27,Books,254.56300914739387,3.0,PayPal,Shipped,3.0
+d271a205-b504-4845-9ac3-8372be99b0af,623c4b0b-8060-4880-b2fc-3fb6b304877f,2023-12-06,Sports,104.01,4.0,Debit Card,Pending,4.0
+ec736530-3358-412a-a094-850a2ca50a2f,b3e644a1-7b01-467f-a4c8-93632ff0d10a,2024-02-13,Home & Kitchen,141.23,5.0,Debit Card,Pending,1.0
+1ce688e0-fcad-4b56-8469-0db7f1c441a9,df561af3-9398-41c5-9363-c278be21916c,2023-10-11,Sports,105.56,5.0,Gift Card,Pending,2.0
+4bf8fc6a-d8ed-495e-aeaf-ad6e153baaa1,0f8ddb9c-a61e-4d18-aa17-e673c439022d,2023-11-02,Home & Kitchen,152.49,4.0,PayPal,Delivered,4.0
+7e8d71bf-417d-4d49-a042-e17ab9087a9e,cd6143d0-f795-424e-9878-05279b5e1a62,2024-03-14,Books,106.13,4.0,Crypto,Pending,1.0
+c90c2aaa-a79e-4a95-a027-7e8eb1563355,49b1f0fe-1af9-42c5-8a94-750786b3841e,2023-06-23,Electronics,153.99,2.0,PayPal,Shipped,2.0
+ad43a827-a8f7-487b-9c67-43eb1458b3b0,98ea7706-e909-4a69-ae7c-019688d234e8,2023-04-28,Home & Kitchen,320.08,1.0,Debit Card,Shipped,5.0
+70733b5b-516d-431f-a770-16dc055943f5,0e8f36d4-f4e3-45a2-a8c4-b2aeebf67c69,2025-01-11,Clothing,199.73,5.0,Debit Card,Delivered,1.0
+0765434c-e669-472b-a96c-f2da1037ac2f,f35b5a0c-9f87-4213-a2b6-8aa77d1e4323,2023-03-21,Clothing,437.6,3.0,PayPal,Pending,4.0
+3735f110-6bad-421f-960f-b671d0642b97,fda08dbc-87e4-4cd3-9c54-5ce2de1281e0,2023-12-30,Home & Kitchen,254.85844200897483,1.0,Debit Card,Shipped,3.0
+93bf5271-f548-4996-953c-ad529dc7ad94,d20d4912-021c-43bc-a58f-d5185cfa238f,2023-06-12,Electronics,383.55,1.0,Credit Card,Shipped,3.0
+5e463f92-c28a-4b53-b70b-8ef2ffecf661,ee72425a-9a30-4e26-98dd-39d97d074723,2023-09-12,Home & Kitchen,186.71,1.0,Gift Card,Delivered,3.0
+ec4c041c-ebd0-4486-b1f1-43631779fd51,654becdd-419f-4b29-a140-aae7e75c6fa1,2024-07-22,Clothing,26.66,4.0,Crypto,Delivered,3.0
+d6b65be8-60af-42c2-af4e-5e47db8856fe,909113b8-e1db-4b6d-bd7b-ea53c52872a1,2024-09-12,Books,310.24,1.0,Debit Card,Pending,4.0
+647a0f57-307a-4011-9576-9a57c771b3fc,bc8e98f1-18cb-44b2-be2d-bcf317c1f783,2024-11-27,Clothing,449.09,1.0,Debit Card,Pending,4.0
+6a3a90a2-ddd2-49ab-8e3f-95f372f97c72,aa5643d7-f697-4ba0-a480-127d6d34a307,2024-03-22,Clothing,454.44,5.0,Debit Card,Pending,4.0
+ae84778e-1056-49a3-bbf9-38fb1eba5a60,6dfbda54-5761-43bb-9520-ef7b03ab4437,2024-02-21,Sports,469.91,4.0,PayPal,Shipped,3.0
+240de384-1793-4047-8303-5d606f438c50,fd89b9cb-d18b-4181-bc10-b51f6773f368,2024-10-06,Electronics,314.95,4.0,Crypto,Delivered,5.0
+86bd737a-f6eb-4db2-9e47-530015e571a8,6d82fb19-7c4d-492d-8097-da257805d2ea,2024-03-09,Sports,170.55,3.0,PayPal,Pending,4.0
+414eaff4-386e-424e-9fe9-df548f6765fc,1979845d-32bb-4099-8b92-cf6cb4034c95,2024-08-08,Clothing,224.86,1.0,Debit Card,Pending,1.0
+c7919999-2cfe-4b88-ac9d-9011aa49a46a,823cd87c-9d20-42e5-ae42-ca4e0dc99504,2023-07-08,Clothing,358.04,4.0,Debit Card,Pending,4.0
+97428d11-79d2-4507-9d65-7367b6479787,5568b0ec-a6a1-42f5-a113-a5f004e0dbd4,2023-03-25,Electronics,197.71,1.0,Debit Card,Delivered,3.0
+c7ab8277-cd1c-4d1a-9505-aa9d4b0884e7,ac8c22a9-7d89-47d4-ba50-10e7da0ae447,2024-01-04,Electronics,466.29,3.0,Credit Card,Pending,5.0
+07b98553-54d1-4ada-b199-9a8b7231208b,73894464-e977-4ad5-8d3e-0262ccd294af,2025-02-14,Electronics,218.74,4.0,Debit Card,Delivered,3.0
+ebca34b3-23c4-434c-a840-eaece881de69,1d0eb80a-d089-4f34-a29a-a74656993214,2023-04-24,Electronics,445.68,1.0,Credit Card,Delivered,4.0
+47ba16cc-83ca-404e-a2df-149d7ed05340,855aa490-1a7c-4b61-a37b-25961a27a5c7,2024-10-19,Clothing,407.24,5.0,Crypto,Shipped,4.0
+58abdd25-a8a9-4385-b6ba-33007c3d7c58,da5ec0a8-03f7-44c6-94a7-e0c37bdfec9e,2023-04-09,Electronics,410.63,1.0,Crypto,Shipped,5.0
+68d34d78-a58f-47d5-820a-fa5a064e0ad9,3b045780-97a6-4a7a-a16f-346acddd43ae,2023-08-14,Books,263.38,1.0,Crypto,Shipped,3.0
+fb83154a-656c-4560-8260-4e0d0fcea7b6,5d9b47b9-5126-4aae-86ea-b81c44ddcdb7,2024-07-29,Home & Kitchen,27.67,1.0,PayPal,Delivered,5.0
+6f141721-326d-419e-81be-1c4758b5a014,78d7f3fa-4ad0-4dcd-9048-1db49b85dd42,2023-06-06,Electronics,388.04,4.0,Credit Card,Shipped,4.0
+51d42f6b-61ad-4890-8366-42f4f8b19907,d47b9669-4022-4b5d-888f-58623879f49a,2024-07-22,Books,44.98,4.0,Debit Card,Shipped,2.0
+3e732ed3-9f58-41a4-ae5d-c5642e30f804,223ad1aa-b8f6-463a-b327-b59a2db483ce,2023-08-24,Home & Kitchen,439.14,2.0,Crypto,Pending,2.0
+147ee33b-3029-44be-8f3c-bd168092952b,bcfa29cb-632d-40f3-97d3-237ce5bca01f,2023-03-04,Electronics,364.13,2.0,Crypto,Pending,3.0
+fdf3aaf2-b4a0-454f-8767-903f55419691,b8878acd-6dde-4f0d-b1d0-092a791bcdfd,2023-03-23,Sports,291.93,4.0,Crypto,Delivered,3.0
+372932ea-4555-4202-889d-d3f7cef07720,67796ccb-d3c5-41ca-b4a7-8647d10e49f7,2023-11-26,Clothing,318.86,5.0,Gift Card,Pending,2.0
+1ca13601-217f-4112-be5e-45c8b2af9260,64e94683-da1f-489f-8a2e-2bccb851af8c,2023-10-03,Clothing,30.19,4.0,Credit Card,Pending,2.0
+436069a9-5335-45b9-a347-f35e4c5ec2e3,c026f1d0-002f-4023-9de6-5360f6804770,2023-07-23,Sports,112.9,3.0,PayPal,Shipped,2.0
+b7df325c-8c44-4f8d-b6ef-38d49024304c,6ecf5f93-ab2f-490f-a85d-0eb90a49295d,2023-10-21,Electronics,99.89,4.0,Credit Card,Shipped,2.0
+342415c5-2d6d-4621-8da1-debd5dde56e8,d2da1cf6-f84f-4e87-ade6-a9bb850192d8,2023-09-28,Clothing,254.71072557818434,2.0,PayPal,Pending,4.0
+c265ceb7-1cef-47a5-8a21-75c14fb60a4c,bd5d0686-0041-4140-84ea-92d11891617a,2024-06-28,Electronics,271.05,2.0,Debit Card,Shipped,1.0
+bcab5417-ea40-409c-a16a-d9b88d0b70a3,abb99e34-4b7e-4d04-bfc8-44ca13c025cf,2024-08-28,Books,440.71,1.0,PayPal,Pending,3.0
+0946e4fd-85e5-4a54-b960-82ae3b2241ea,a547b768-d4be-4df0-bdea-a5a1f1b792f1,2023-03-03,Clothing,469.63,2.0,Crypto,Shipped,1.0
+272deb12-b758-45a7-aee4-805763e9b2e4,f3d123a0-b065-4c20-8adf-d9d9799183e2,2024-12-30,Books,207.04,5.0,Credit Card,Shipped,2.0
+1c3f312a-8e69-461f-8d0d-fcb9d03a5d13,f0abbd89-0446-42c0-a953-2bff43274ae7,2024-01-04,Books,137.24,5.0,Gift Card,Cancelled,1.0
+4c79a7c8-09c8-42ff-be34-af7508e4c014,b0f9cdda-ee8d-4ab9-9b13-2a9727b28916,2023-12-28,Clothing,254.85844200897483,1.0,Gift Card,Shipped,2.0
+ddd84490-a86a-48a8-b9c7-868c37acba2b,c5cdc393-4409-4fe0-b695-125bb626296c,2023-03-25,Clothing,346.19,1.0,PayPal,Shipped,4.0
+0bee33df-0627-4190-ad28-3d5955d5fb67,1a1396e6-e0c8-4562-abca-c7eb853c85fe,2024-08-22,Sports,448.99,5.0,Gift Card,Shipped,5.0
+4f6c4252-c1be-4310-973c-3f16a8d9f5a5,34ebc9c2-4597-46ad-a91f-e3733e4436e2,2024-05-29,Clothing,368.79,1.0,Gift Card,Pending,5.0
+101ee8ba-02a1-463c-b990-ee17860e68bc,91fe4e36-5551-4c03-937d-4f4e56af75de,2025-02-11,Home & Kitchen,127.57,1.0,Gift Card,Shipped,4.0
+e0a4888d-d2a5-4be9-aa8d-fce3328da2ed,92241dd1-250a-4d27-85c3-875f3090b933,2024-01-23,Electronics,134.49,5.0,Debit Card,Delivered,1.0
+be98e87d-e462-4c68-832f-44fd6fd901ec,d57c807d-9f90-439e-bce3-26b37dd5cf47,2025-01-29,Books,254.26757628581294,5.0,Debit Card,Cancelled,3.0
+95bab6ee-85cd-4a00-ae28-86393b79acb5,bef0802b-4045-4a0c-afb0-e753df538baa,2024-03-21,Electronics,10.42,1.0,Credit Card,Pending,1.0
+72c3ae6e-6bc0-4890-9813-613bbdc82e88,d71ba83d-b0df-441c-9ab6-cf9fd1971ad0,2023-11-08,Electronics,203.52,1.0,PayPal,Delivered,2.0
+224a8584-e380-471e-96be-4a79d177b2b2,b4ef5705-507a-4eb0-87c1-a2c6a91ebdd5,2024-10-19,Sports,254.26757628581294,5.0,PayPal,Pending,2.0
+f17a321c-85f2-40ae-a138-1f7464f9b3af,5c4ecfdf-e0ca-4279-ae28-0355aac638bb,2024-04-28,Home & Kitchen,54.46,1.0,Crypto,Pending,1.0
+517bf463-2b08-4a81-92ef-5eacac014ea2,abbe306c-91a0-4341-a11e-c13cae7a52b2,2024-09-27,Clothing,254.85844200897483,1.0,Credit Card,Delivered,3.0
+66439712-1eec-453b-97c5-1ceb7ac25340,96fc9194-6824-40fc-9a8a-09680a0ebcec,2023-11-19,Sports,483.74,2.0,Credit Card,Pending,1.0
+100efd9d-f550-4347-bfcc-6974aba991bf,25090f5c-9dae-4adc-9570-933eeac30b0c,2024-12-24,Books,28.61,5.0,Crypto,Pending,2.0
+4880f464-5ce5-4e01-891d-ffbd1e14a5dd,e032c719-de77-46d0-aac4-88b96507f959,2024-04-22,Books,120.73,2.0,Crypto,Shipped,1.0
+b9d2c551-0bfc-47f9-8915-18f92c75cc96,4902d56b-96ce-4550-9764-1ff80f55e576,2023-07-17,Books,355.07,3.0,Gift Card,Shipped,2.0
+0158ddd6-264e-4a30-95da-68b1fad533c3,b6f4ef94-61f0-4049-8617-d8965d9cc031,2024-02-26,Sports,78.05,4.0,Debit Card,Shipped,1.0
+c46a3519-1fe0-4f0f-9c74-b0133609e778,5dcf59de-2a4f-4b68-985d-a405dd192ff9,2024-11-05,Electronics,264.07,3.0,Debit Card,Pending,1.0
+a376ce98-5c05-4a35-b38f-4a25fa19a3ef,738d65dc-db78-442a-ab2d-147a4ca8244b,2023-05-12,Electronics,420.73,1.0,Debit Card,Delivered,3.0
+c0720da3-eaf6-4d45-b014-7a1b2c660830,500cabcc-fb59-4a51-96c2-5b820eaee1bd,2024-08-03,Home & Kitchen,263.17,2.0,PayPal,Shipped,1.0
+0373c420-a795-4709-8a85-2756a0171414,08b0e2b5-01ba-45d1-86fc-7c0e8fde2a71,2023-08-07,Clothing,200.09,2.0,Debit Card,Delivered,4.0
+e4e0e0b7-1b9c-4c60-baaa-87f819f03ab6,fbba5d06-6478-4bdc-8741-4708f5378dee,2023-06-27,Electronics,254.85844200897483,1.0,Crypto,Delivered,5.0
+61f09943-65f0-4041-b8db-b02bc4d538d8,7048a252-cfd6-4bd2-b7cc-7b225b31b85a,2024-01-23,Books,142.3,2.0,PayPal,Delivered,1.0
